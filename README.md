@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:26:33-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:43:47-059669?style=flat-square)
 
 ---
 
@@ -128,52 +128,52 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 | 🇨🇳 **Baidu SEO Specialist** | 百度SEO专家，专注于中文搜索引擎排名、百度生态系统集成、ICP合规和中文关键词研究 |
 | 🎬 **Bilibili Content Strategist** | Expert Bilibili marketing specialist focused on UP主 growt... |
 | "📘" **Book Co-Author** | 图书合著者，战略思想领导力书籍协作者，帮助创始人、专家和运营者将零散经验转化为结构化的第一人称章节 |
-| 🎠 **Carousel Growth Engine** | Autonomous TikTok and Instagram carousel generation 专家. A... |
-| 🛒 **China E-Commerce Operator** | 专家China e-commerce operations 专家 covering Taobao, Tmall, ... |
-| 🇨🇳 **China Market Localization Strategist** | Full-stack China market localization expert who transform... |
-| ✍️ **Content Creator** | 专家content strategist and creator for multi-平台 campaigns. ... |
+| 🎠 **Carousel Growth Engine** | 轮播图增长引擎，自主TikTok和Instagram轮播图生成专家，分析任意网站URL生成病毒式6图轮播 |
+| 🛒 **China E-Commerce Operator** | 中国电商运营专家，覆盖淘宝、天猫、拼多多和京东生态系统，精通产品listing优化、直播电商和店铺运营 |
+| 🇨🇳 **China Market Localization Strategist** | 中国市场本地化策略师，全栈中国市场本地化专家，将实时趋势信号转化为可执行的进入市场策略 |
+| ✍️ **Content Creator** | 内容创作者，多平台营销活动的内容策略师和创作者，开发编辑日历、创作引人注目的文案 |
 | 🌏 **Cross-Border E-Commerce Specialist** | Full-funnel cross-border e-commerce strategist covering A... |
-| 🎵 **Douyin Strategist** | Short-video 营销 expert 专注于 the Douyin 平台, with deep expert... |
-| 🚀 **Growth Hacker** | 专家growth strategist 专注于 rapid user acquisition through 数据... |
-| 📸 **Instagram Curator** | 专家Instagram 营销 专家 专注于 visual storytelling, community 构建, ... |
-| 🎥 **Kuaishou Strategist** | Expert Kuaishou marketing strategist specializing in shor... |
-| 💼 **LinkedIn Content Creator** | 专家LinkedIn content strategist 专注于 thought leadership, per... |
-| 🎙️ **Livestream Commerce Coach** | Veteran livestream e-commerce coach 专注于 host training and... |
-| 🎧 **Podcast Strategist** | Content 策略 and operations expert for the Chinese podcast ... |
-| 🔒 **Private Domain Operator** | 专家 构建 enterprise WeChat (WeCom) private domain eco系统s, wi... |
-| 💬 **Reddit Community Builder** | 专家Reddit 营销 专家 专注于 authentic community engagement, value-... |
-| 🔍 **SEO Specialist** | 专家search engine 优化 strategist 专注于 technical SEO, content ... |
-| 🎬 **Short-Video Editing Coach** | Hands-on short-video editing coach covering the full post... |
-| 📣 **Social Media Strategist** | 专家social media strategist for LinkedIn, Twitter, and prof... |
-| 🎵 **TikTok Strategist** | 专家TikTok 营销 专家 专注于 viral content creation, algorithm 优化, ... |
-| 🐦 **Twitter Engager** | 专家Twitter 营销 专家 专注于 real-time engagement, thought leaders... |
-| 🎬 **Video Optimization Specialist** | Video 营销 strategist 专注于 YouTube algorithm 优化, audience re... |
-| 📱 **WeChat Official Account Manager** | 专家WeChat Official Account (OA) strategist 专注于 content 营销,... |
-| 🔥 **Weibo Strategist** | Full-spectrum operations expert for Sina Weibo, with deep... |
-| 🌸 **Xiaohongshu Specialist** | 专家Xiaohongshu 营销 专家 专注于 lifestyle content, trend-driven s... |
-| 🧠 **Zhihu Strategist** | 专家Zhihu 营销 专家 专注于 thought leadership, community credibili... |
+| 🎵 **Douyin Strategist** | 抖音策略师，短视频营销专家，专注于抖音平台推荐算法机制、病毒视频策划和直播电商 |
+| 🚀 **Growth Hacker** | 增长黑客，专注于通过数据驱动实验实现快速用户获取，开发病毒式传播循环和转化漏斗 |
+| 📸 **Instagram Curator** | Instagram策展师，专注于视觉叙事、社区建设和多格式内容优化 |
+| 🎥 **Kuaishou Strategist** | 快手策略师，专注于中国下沉市场短视频内容、直播电商运营和社区信任建设 |
+| 💼 **LinkedIn Content Creator** | LinkedIn内容创作者，专注于思想领导力、个人品牌建设和专业内容高互动策略 |
+| 🎙️ **Livestream Commerce Coach** | 直播电商教练，资深直播电商专家，专注于主播培训和直播间运营 |
+| 🎧 **Podcast Strategist** | 播客策略师，中国市场内容策略和运营专家，精通小宇宙、喜马拉雅等平台 |
+| 🔒 **Private Domain Operator** | 私域运营专家，构建企业微信私域生态系统，精通SCRM系统、社群运营和小程序电商 |
+| 💬 **Reddit Community Builder** | Reddit社区建设者，专注于真实社区互动、价值驱动内容创作和长期关系建设 |
+| 🔍 **SEO Specialist** | SEO专家，专注于技术SEO、内容优化、链接权威建设和自然搜索增长 |
+| 🎬 **Short-Video Editing Coach** | 短视频剪辑教练，实践型短视频后期制作专家，精通剪映、PR、达芬奇等工具 |
+| 📣 **Social Media Strategist** | 社交媒体策略师，为LinkedIn、Twitter等专业平台创建跨平台营销活动 |
+| 🎵 **TikTok Strategist** | TikTok策略师，专注于病毒式内容创作、算法优化和社区建设 |
+| 🐦 **Twitter Engager** | Twitter互动专家，专注于实时互动、思想领导力建设和社区驱动增长 |
+| 🎬 **Video Optimization Specialist** | 视频优化专家，专注于YouTube算法优化、观众留存、章节设计和缩略图策略 |
+| 📱 **WeChat Official Account Manager** | 微信公众号运营专家，专注于内容营销、订阅者互动和转化优化 |
+| 🔥 **Weibo Strategist** | 微博策略师，新浪微博全频谱运营专家，精通热门话题机制、超话社区管理和舆情监测 |
+| 🌸 **Xiaohongshu Specialist** | 小红书专家，专注于生活方式内容、趋势驱动策略和真实社区互动 |
+| 🧠 **Zhihu Strategist** | 知乎策略师，专注于思想领导力、社区信誉和知识驱动互动 |
 
 ### 💵 付费媒体（7 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📋 **Paid Media Auditor** | Comprehensive paid media auditor who 系统atically evaluates... |
-| ✍️ **Ad Creative Strategist** | Paid media creative 专家 专注于 ad copywriting, RSA 优化, asset ... |
-| 📱 **Paid Social Strategist** | Cross-平台 paid social advertising 专家 covering Meta (Facebo... |
-| 💰 **PPC Campaign Strategist** | Senior paid media strategist 专注于 large-scale search, shop... |
-| 📺 **Programmatic & Display Buyer** | Display advertising and programmatic media buying 专家 cove... |
-| 🔍 **Search Query Analyst** | Specialist in search term 分析, negative keyword architectu... |
-| 📡 **Tracking & Measurement Specialist** | 专家 conversion tracking architecture, tag 管理, and attribut... |
+| 📋 **Paid Media Auditor** | 付费媒体审计师，系统评估Google Ads、Microsoft Ads和Meta账户，涵盖200多个检查点 |
+| ✍️ **Ad Creative Strategist** | 广告创意策略师，专注于广告文案撰写、RSA优化、资产组设计和创意测试框架 |
+| 📱 **Paid Social Strategist** | 付费社交策略师，跨平台付费社交广告专家，覆盖Meta、LinkedIn、TikTok等平台 |
+| 💰 **PPC Campaign Strategist** | PPC活动策略师，专注于大规模搜索、购物和Performance Max活动架构 |
+| 📺 **Programmatic & Display Buyer** | 程序化展示购买专家，覆盖管理展示位、Google Display Network、DV360和交易平台 |
+| 🔍 **Search Query Analyst** | 搜索查询分析师，专注于搜索词分析、否定关键词架构和查询到意图映射 |
+| 📡 **Tracking & Measurement Specialist** | 追踪与测量专家，专注于转化追踪架构、标签管理和归因建模 |
 
 ### 📱 产品管理（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧠 **Behavioral Nudge Engine** | Behavioral psychology 专家 that adapts software interaction... |
-| 🔍 **Feedback Synthesizer** | 专家 collecting, analyzing, and synthesizing user feedback ... |
-| 🧭 **Product Manager** | Holistic product leader who owns the full product lifecyc... |
-| 🎯 **Sprint Prioritizer** | 专家product manager 专注于 agile sprint planning, feature prio... |
-| 🔭 **Trend Researcher** | 专家market intelligence analyst 专注于 identifying emerging tr... |
+| 🧠 **Behavioral Nudge Engine** | 行为助推引擎，行为心理学专家，调整软件交互节奏和风格以最大化用户动机和成功 |
+| 🔍 **Feedback Synthesizer** | 反馈综合器，收集、分析和综合多渠道用户反馈，提取可操作的产品洞察 |
+| 🧭 **Product Manager** | 产品经理，全面的产品领导者，拥有完整的产品生命周期——从发现和战略到路线图、利益相关者对齐、上市和结果衡量 |
+| 🎯 **Sprint Prioritizer** | 冲刺优先级排序师，专注于敏捷冲刺规划、功能优先级排序和资源分配 |
+| 🔭 **Trend Researcher** | 趋势研究员，市场情报分析师，专注于识别新兴趋势、竞争分析和机会评估 |
 
 ### 📊 项目管理（6 个）
 
@@ -323,7 +323,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 14:26:33
+- **备份时间**: 2026-04-12 14:43:47
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
