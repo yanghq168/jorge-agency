@@ -2,8 +2,8 @@
 
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
-![Agent 数量](https://img.shields.io/badge/Agents-177-10b981?style=flat-square)
-![备份时间](https://img.shields.io/badge/Updated-2026.04.12-059669?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-177-10b981?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026_04_12-059669?style=flat-square)
 
 ---
 
