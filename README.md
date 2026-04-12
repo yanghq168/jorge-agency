@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2013:14:48-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:26:33-059669?style=flat-square)
 
 ---
 
@@ -68,66 +68,66 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧬 **AI Data Remediation Engineer** | "Specialist in self-healing 数据 pipelines — uses air-gappe... |
-| 🤖 **AI Engineer** | 专家AI/机器学习 engineer 专注于 machine learning model 开发, 部署, and... |
-| ⚡ **Autonomous Optimization Architect** | Intelligent 系统 governor that continuously shadow-tests AP... |
-| 🏗️ **Backend Architect** | Senior 后端 architect 专注于 可扩展 系统 设计, 数据base architecture, A... |
-| 🧱 **CMS Developer** | Drupal and WordPress 专家 for theme 开发, custom plugins/modu... |
-| 👁️ **Code Reviewer** | 专家code reviewer who provides constructive, actionable fee... |
-| 🧭 **Codebase Onboarding Engineer** | 专家developer onboarding 专家 who helps new engineers underst... |
-| 🔧 **Data Engineer** | 专家数据 engineer 专注于 构建 reliable 数据 pipelines, lakehouse arc... |
-| 🗄️ **Database Optimizer** | 专家数据base 专家 focusing on schema 设计, query 优化, indexing str... |
-| ⚙️ **DevOps Automator** | 专家DevOps engineer 专注于 infrastructure 自动化, CI/CD pipeline ... |
-| 📧 **Email Intelligence Engineer** | 专家 extracting structured, reasoning-ready 数据 from raw ema... |
-| 🔩 **Embedded Firmware Engineer** | Specialist in bare-metal and RTOS firmware - ESP32/ESP-ID... |
-| 🔗 **Feishu Integration Developer** | Full-stack 集成 expert 专注于 the Feishu (Lark) Open Platform ... |
-| 🔧 **Filament Optimization Specialist** | 专家 restructuring and optimizing Filament PHP admin interf... |
-| 🖥️ **Frontend Developer** | 专家前端 developer 专注于 现代 Web technologies, React/Vue/Angular... |
-| 🌿 **Git Workflow Master** | 专家 Git workflows, branching strategies, and version contr... |
-| 🚨 **Incident Response Commander** | 专家cident commander 专注于 production incident 管理, structured... |
-| 🪡 **Minimal Change Engineer** | Engineering 专家 专注于 minimum-viable diffs — fixes only what... |
-| 📲 **Mobile App Builder** | Specialized 移动 应用 developer with expertise in native iOS/... |
-| ⚡ **Rapid Prototyper** | Specialized in ultra-fast proof-of-concept 开发 and MVP cre... |
+| 🧬 **AI Data Remediation Engineer** | "自修复数据管道专家——使用隔离的本地SLM和语义聚类自动检测、分类和修复数据异常" |
+| 🤖 **AI Engineer** | AI/机器学习工程师，专注于机器学习模型开发、部署和生产系统集成 |
+| ⚡ **Autonomous Optimization Architect** | 智能系统治理器，持续对API进行影子测试以优化性能，同时强制执行财务和安全防护 |
+| 🏗️ **Backend Architect** | 高级后端架构师，专注于可扩展系统设计、数据库架构、API开发和云基础设施 |
+| 🧱 **CMS Developer** | Drupal和WordPress专家，专注于主题开发、自定义插件/模块、内容架构和代码优先CMS实现 |
+| 👁️ **Code Reviewer** | 代码审查专家，提供建设性、可操作的反馈，专注于正确性、可维护性、安全性和性能 |
+| 🧭 **Codebase Onboarding Engineer** | 代码库入职专家，帮助新工程师快速理解不熟悉的代码库，通过阅读源码、追踪代码路径并提供基于代码事实的指导 |
+| 🔧 **Data Engineer** | 数据工程师，专注于构建可靠的数据管道、湖仓架构和可扩展的数据基础设施 |
+| 🗄️ **Database Optimizer** | 数据库优化专家，专注于schema设计、查询优化、索引策略和PostgreSQL/MySQL等现代数据库性能调优 |
+| ⚙️ **DevOps Automator** | DevOps工程师，专注于基础设施自动化、CI/CD管道开发和云运维 |
+| 📧 **Email Intelligence Engineer** | 邮件智能工程师，擅长从原始邮件线程中提取结构化、可用于推理的数据，为AI智能体提供信号 |
+| 🔩 **Embedded Firmware Engineer** | 嵌入式固件工程师，专注于裸机和RTOS固件开发，精通ESP32/ESP-IDF、PlatformIO、Arduin... |
+| 🔗 **Feishu Integration Developer** | 飞书集成开发专家，全栈集成专家，精通飞书开放平台——机器人、审批流程、多维表格、交互式消息卡片、Webhook、S... |
+| 🔧 **Filament Optimization Specialist** | Filament优化专家，专注于重构和优化Filament PHP管理后台界面，提升最大可用性和效率 |
+| 🖥️ **Frontend Developer** | 前端开发工程师，专注于现代Web技术、React/Vue/Angular框架、UI实现和性能优化 |
+| 🌿 **Git Workflow Master** | Git工作流专家，精通Git工作流、分支策略和版本控制最佳实践，包括规范提交、变基、工作树等 |
+| 🚨 **Incident Response Commander** | 事件响应指挥官，专注于生产事件管理、结构化响应协调、事后复盘和SLO/SLI跟踪 |
+| 🪡 **Minimal Change Engineer** | 最小变更工程师，专注于最小可行差异——只修复被要求的问题，拒绝范围蔓延 |
+| 📲 **Mobile App Builder** | 移动应用构建师，专业的移动应用开发者，精通原生iOS/Android开发和跨平台框架 |
+| ⚡ **Rapid Prototyper** | 快速原型师，专注于超快速概念验证开发和MVP创建，使用高效工具和框架 |
 | 🔒 **Security Engineer** | 专家应用 安全 engineer 专注于 threat modeling, vulnerability asses... |
-| 💎 **Senior Developer** | Premium implementation 专家 - Masters Laravel/Livewire/Flux... |
-| 🏛️ **Software Architect** | 专家software architect 专注于 系统 设计, domain-driven 设计, archite... |
-| ⛓️ **Solidity Smart Contract Engineer** | 专家Solidity developer 专注于 EVM smart contract architecture,... |
-| 🛡️ **SRE (Site Reliability Engineer)** | 专家site reliability engineer 专注于 SLOs, error budgets, obse... |
-| 📚 **Technical Writer** | 专家technical writer 专注于 developer documentation, API refer... |
-| 🎯 **Threat Detection Engineer** | 专家detection engineer 专注于 SIEM rule 开发, MITRE ATT&CK cover... |
-| 🎙️ **Voice AI Integration Engineer** | 专家 构建 end-to-end speech transcription pipelines using Whi... |
-| 💬 **WeChat Mini Program Developer** | Expert WeChat Mini Program developer specializing in 小程序 ... |
+| 💎 **Senior Developer** | 高级开发工程师，精通Laravel/Livewire/FluxUI、高级CSS和Three.js，提供全栈解决方案 |
+| 🏛️ **Software Architect** | 软件架构师，专注于系统设计、领域驱动设计、架构模式和技术决策 |
+| ⛓️ **Solidity Smart Contract Engineer** | Solidity智能合约工程师，专注于EVM智能合约架构、Gas优化、可升级代理模式和DeFi协议开发 |
+| 🛡️ **SRE (Site Reliability Engineer)** | 站点可靠性工程师(SRE)，专注于SLO、错误预算、可观测性、混沌工程和规模化生产系统运维 |
+| 📚 **Technical Writer** | 技术文档工程师，专注于开发者文档、API参考、README文件和教程编写 |
+| 🎯 **Threat Detection Engineer** | 威胁检测工程师，专注于SIEM规则开发、MITRE ATT&CK覆盖映射、威胁狩猎和安全运营 |
+| 🎙️ **Voice AI Integration Engineer** | 语音AI集成工程师，擅长构建端到端语音转录管道，使用Whisper类模型和云ASR服务 |
+| 💬 **WeChat Mini Program Developer** | 微信小程序开发专家，专注于小程序开发，精通WXML/WXSS/WXS、微信API集成、支付系统和订阅消息 |
 
 ### 💰 金融财务（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📒 **Bookkeeper & Controller** | 专家bookkeeper and controller 专注于 day-to-day accounting ope... |
-| 📊 **Financial Analyst** | 专家financial analyst 专注于 financial modeling, forecasting, ... |
-| 📈 **FP&A Analyst** | 专家Financial Planning & Analysis (FP&A) analyst 专注于 budget... |
-| 🔍 **Investment Researcher** | 专家vestment researcher 专注于 market research, due diligence,... |
-| 🏛️ **Tax Strategist** | 专家tax strategist 专注于 tax 优化, multi-jurisdictional complia... |
+| 📒 **Bookkeeper & Controller** | 会计与财务主管，专注于日常会计运营、财务对账、月末结账流程和内部控制 |
+| 📊 **Financial Analyst** | 财务分析师，专注于财务建模、预测、情景分析和数据驱动的决策支持 |
+| 📈 **FP&A Analyst** | 财务规划与分析(FP&A)分析师，专注于预算编制、差异分析、财务规划和战略决策支持 |
+| 🔍 **Investment Researcher** | 投资研究员，专注于市场研究、尽职调查、投资组合分析和资产估值 |
+| 🏛️ **Tax Strategist** | 税务策略师，专注于税务优化、多司法管辖区合规、转让定价和战略税务规划 |
 
 ### 🎮 游戏开发（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🎵 **Game Audio Engineer** | Interactive audio 专家 - Masters FMOD/Wwise 集成, adaptive mu... |
-| 🎮 **Game Designer** | Systems and mechanics architect - Masters GDD authorship,... |
-| 🗺️ **Level Designer** | Spatial storytelling and flow 专家 - Masters layout theory,... |
-| 📖 **Narrative Designer** | Story 系统s and dialogue architect - Masters GDD-aligned na... |
-| 🎨 **Technical Artist** | Art-to-engine pipeline 专家 - Masters shaders, VFX 系统s, LOD... |
+| 🎵 **Game Audio Engineer** | 游戏音频工程师，精通FMOD/Wwise集成、自适应音乐系统和空间音频 |
+| 🎮 **Game Designer** | 游戏设计师，系统和机制架构师，精通GDD编写、玩家心理学、经济平衡和游戏循环设计 |
+| 🗺️ **Level Designer** | 关卡设计师，空间叙事和流程专家，精通布局理论、节奏架构和遭遇设计 |
+| 📖 **Narrative Designer** | 叙事设计师，故事系统和对话架构师，精通GDD对齐的叙事设计、分支对话和传说架构 |
+| 🎨 **Technical Artist** | 技术美术，艺术到引擎管道专家，精通着色器、VFX系统、LOD管道和性能预算 |
 
 ### 📢 市场营销（30 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🤖 **Agentic Search Optimizer** | 专家 WebMCP readiness and agentic task completion — audits ... |
-| 🔮 **AI Citation Strategist** | 专家 AI recommendation engine 优化 (AEO/GEO) — audits brand v... |
-| 📱 **App Store Optimizer** | 专家app store 营销 专家 专注于 App Store Optimization (ASO), conve... |
-| 🇨🇳 **Baidu SEO Specialist** | 专家Baidu search 优化 专家 专注于 Chinese search engine ranking, B... |
+| 🤖 **Agentic Search Optimizer** | 智能搜索优化专家，专注于WebMCP就绪和智能体任务完成，审核AI智能体是否能在您的网站上实际完成任务 |
+| 🔮 **AI Citation Strategist** | AI引用策略师，专注于AI推荐引擎优化(AEO/GEO)，审核品牌在ChatGPT、Claude、Gemini和P... |
+| 📱 **App Store Optimizer** | 应用商店优化专家，专注于ASO、转化率优化和应用可发现性 |
+| 🇨🇳 **Baidu SEO Specialist** | 百度SEO专家，专注于中文搜索引擎排名、百度生态系统集成、ICP合规和中文关键词研究 |
 | 🎬 **Bilibili Content Strategist** | Expert Bilibili marketing specialist focused on UP主 growt... |
-| "📘" **Book Co-Author** | Strategic thought-leadership book collaborator for founde... |
+| "📘" **Book Co-Author** | 图书合著者，战略思想领导力书籍协作者，帮助创始人、专家和运营者将零散经验转化为结构化的第一人称章节 |
 | 🎠 **Carousel Growth Engine** | Autonomous TikTok and Instagram carousel generation 专家. A... |
 | 🛒 **China E-Commerce Operator** | 专家China e-commerce operations 专家 covering Taobao, Tmall, ... |
 | 🇨🇳 **China Market Localization Strategist** | Full-stack China market localization expert who transform... |
@@ -323,7 +323,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 13:14:48
+- **备份时间**: 2026-04-12 14:26:33
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
