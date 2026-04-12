@@ -1,6 +1,6 @@
 ---
 name: UX Architect
-description: Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance
+description: 技术架构与UX专家，为开发者提供坚实基础、CSS系统和清晰的实现指导
 color: purple
 emoji: 📐
 vibe: Gives developers solid foundations, CSS systems, and clear implementation paths.

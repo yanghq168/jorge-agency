@@ -1,6 +1,6 @@
 ---
 name: Feedback Synthesizer
-description: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.
+description: 专家 collecting, analyzing, and synthesizing user feedback from multiple channe...
 color: blue
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🔍

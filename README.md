@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12 11:19:38-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12 12:06:56-059669?style=flat-square)
 
 ---
 
@@ -46,216 +46,216 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🌍 **Anthropologist** | Expert in cultural systems, rituals, kinship, belief systems, and ethnographic m... |
-| 🗺️ **Geographer** | Expert in physical and human geography, climate systems, cartography, and spatia... |
-| 📚 **Historian** | Expert in historical analysis, periodization, material culture, and historiograp... |
-| 📜 **Narratologist** | Expert in narrative theory, story structure, character arcs, and literary analys... |
-| 🧠 **Psychologist** | Expert in human behavior, personality theory, motivation, and cognitive patterns... |
+| 🌍 **Anthropologist** | 专家 cultural 系统s, rituals, kinship, belief 系统s, and ethnographic meth... |
+| 🗺️ **Geographer** | 专家 physical and human geography, climate 系统s, cartography, and spatial �... |
+| 📚 **Historian** | 专家 historical 分析, periodization, material culture, and historiography �... |
+| 📜 **Narratologist** | 专家 narrative theory, story structure, character arcs, and literary 分析 �... |
+| 🧠 **Psychologist** | 专家 human behavior, personality theory, motivation, and cognitive patterns �... |
 
 ### 🎨 设计创意（8 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🎨 **Brand Guardian** | Expert brand strategist and guardian specializing in brand identity development,... |
-| 📷 **Image Prompt Engineer** | Expert photography prompt engineer specializing in crafting detailed, evocative ... |
-| 🌈 **Inclusive Visuals Specialist** | Representation expert who defeats systemic AI biases to generate culturally accu... |
-| 🎨 **UI Designer** | Expert UI designer specializing in visual design systems, component libraries, a... |
-| 📐 **UX Architect** | Technical architecture and UX specialist who provides developers with solid foun... |
-| 🔬 **UX Researcher** | Expert user experience researcher specializing in user behavior analysis, usabil... |
-| 🎬 **Visual Storyteller** | Expert visual communication specialist focused on creating compelling visual nar... |
-| ✨ **Whimsy Injector** | Expert creative specialist focused on adding personality, delight, and playful e... |
+| 🎨 **Brand Guardian** | 专家brand strategist and guardian 专注于 brand identity 开发, consistency... |
+| 📷 **Image Prompt Engineer** | 专家photography prompt engineer 专注于 crafting detailed, evocative prompts... |
+| 🌈 **Inclusive Visuals Specialist** | Representation expert who defeats 系统ic AI biases to generate culturally accu... |
+| 🎨 **UI Designer** | 专家UI 设计er 专注于 visual 设计 系统s, component libraries, and pixe... |
+| 📐 **UX Architect** | Technical architecture and UX 专家 who provides developers with solid foundati... |
+| 🔬 **UX Researcher** | 专家user experience researcher 专注于 user behavior 分析, usability 测�... |
+| 🎬 **Visual Storyteller** | 专家visual communication 专家 专注于 creating compelling visual narrative... |
+| ✨ **Whimsy Injector** | 专家creative 专家 专注于 adding personality, delight, and playful element... |
 
 ### 💻 工程开发（29 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧬 **AI Data Remediation Engineer** | "Specialist in self-healing data pipelines — uses air-gapped local SLMs and se... |
-| 🤖 **AI Engineer** | Expert AI/ML engineer specializing in machine learning model development, deploy... |
-| ⚡ **Autonomous Optimization Architect** | Intelligent system governor that continuously shadow-tests APIs for performance ... |
-| 🏗️ **Backend Architect** | Senior backend architect specializing in scalable system design, database archit... |
-| 🧱 **CMS Developer** | Drupal and WordPress specialist for theme development, custom plugins/modules, c... |
-| 🧭 **Codebase Onboarding Engineer** | Expert developer onboarding specialist who helps new engineers understand unfami... |
-| 👁️ **Code Reviewer** | Expert code reviewer who provides constructive, actionable feedback focused on c... |
-| 🗄️ **Database Optimizer** | Expert database specialist focusing on schema design, query optimization, indexi... |
-| 🔧 **Data Engineer** | Expert data engineer specializing in building reliable data pipelines, lakehouse... |
-| ⚙️ **DevOps Automator** | Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline... |
-| 📧 **Email Intelligence Engineer** | Expert in extracting structured, reasoning-ready data from raw email threads for... |
-| 🔩 **Embedded Firmware Engineer** | Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino,... |
-| 🔗 **Feishu Integration Developer** | Full-stack integration expert specializing in the Feishu (Lark) Open Platform �... |
-| 🔧 **Filament Optimization Specialist** | Expert in restructuring and optimizing Filament PHP admin interfaces for maximum... |
-| 🖥️ **Frontend Developer** | Expert frontend developer specializing in modern web technologies, React/Vue/Ang... |
-| 🌿 **Git Workflow Master** | Expert in Git workflows, branching strategies, and version control best practice... |
-| 🚨 **Incident Response Commander** | Expert incident commander specializing in production incident management, struct... |
-| 🪡 **Minimal Change Engineer** | Engineering specialist focused on minimum-viable diffs — fixes only what was a... |
-| 📲 **Mobile App Builder** | Specialized mobile application developer with expertise in native iOS/Android de... |
-| ⚡ **Rapid Prototyper** | Specialized in ultra-fast proof-of-concept development and MVP creation using ef... |
-| 🔒 **Security Engineer** | Expert application security engineer specializing in threat modeling, vulnerabil... |
-| 💎 **Senior Developer** | Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CS... |
-| 🏛️ **Software Architect** | Expert software architect specializing in system design, domain-driven design, a... |
-| ⛓️ **Solidity Smart Contract Engineer** | Expert Solidity developer specializing in EVM smart contract architecture, gas o... |
-| 🛡️ **SRE (Site Reliability Engineer)** | Expert site reliability engineer specializing in SLOs, error budgets, observabil... |
-| 📚 **Technical Writer** | Expert technical writer specializing in developer documentation, API references,... |
-| 🎯 **Threat Detection Engineer** | Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK co... |
-| 🎙️ **Voice AI Integration Engineer** | Expert in building end-to-end speech transcription pipelines using Whisper-style... |
+| 🧬 **AI Data Remediation Engineer** | "Specialist in self-healing 数据 pipelines — uses air-gapped local SLMs and ... |
+| 🤖 **AI Engineer** | 专家AI/机器学习 engineer 专注于 machine learning model 开发, 部署, ... |
+| ⚡ **Autonomous Optimization Architect** | Intelligent 系统 governor that continuously shadow-tests APIs for 性能 while... |
+| 🏗️ **Backend Architect** | Senior 后端 architect 专注于 可扩展 系统 设计, 数据base architectu... |
+| 🧱 **CMS Developer** | Drupal and WordPress 专家 for theme 开发, custom plugins/modules, content ar... |
+| 🧭 **Codebase Onboarding Engineer** | 专家developer onboarding 专家 who helps new engineers understand unfamiliar ... |
+| 👁️ **Code Reviewer** | 专家code reviewer who provides constructive, actionable feedback 专注于 cor... |
+| 🗄️ **Database Optimizer** | 专家数据base 专家 focusing on schema 设计, query 优化, indexing strate... |
+| 🔧 **Data Engineer** | 专家数据 engineer 专注于 构建 reliable 数据 pipelines, lakehouse arch... |
+| ⚙️ **DevOps Automator** | 专家DevOps engineer 专注于 infrastructure 自动化, CI/CD pipeline 开发,... |
+| 📧 **Email Intelligence Engineer** | 专家 extracting structured, reasoning-ready 数据 from raw email threads for ... |
+| 🔩 **Embedded Firmware Engineer** | Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Ardui...... |
+| 🔗 **Feishu Integration Developer** | Full-stack 集成 expert 专注于 the Feishu (Lark) Open Platform — proficien... |
+| 🔧 **Filament Optimization Specialist** | 专家 restructuring and optimizing Filament PHP admin interfaces for maximum us... |
+| 🖥️ **Frontend Developer** | 专家前端 developer 专注于 现代 Web technologies, React/Vue/Angular fram... |
+| 🌿 **Git Workflow Master** | 专家 Git workflows, branching strategies, and version control best practices i... |
+| 🚨 **Incident Response Commander** | 专家cident commander 专注于 production incident 管理, structured response... |
+| 🪡 **Minimal Change Engineer** | Engineering 专家 专注于 minimum-viable diffs — fixes only what was asked,... |
+| 📲 **Mobile App Builder** | Specialized 移动 应用 developer with expertise in native iOS/Android 开发 ... |
+| ⚡ **Rapid Prototyper** | Specialized in ultra-fast proof-of-concept 开发 and MVP creation using efficie... |
+| 🔒 **Security Engineer** | 专家应用 安全 engineer 专注于 threat modeling, vulnerability assessment... |
+| 💎 **Senior Developer** | Premium implementation 专家 - Masters Laravel/Livewire/FluxUI, advanced CSS, T... |
+| 🏛️ **Software Architect** | 专家software architect 专注于 系统 设计, domain-driven 设计, architec... |
+| ⛓️ **Solidity Smart Contract Engineer** | 专家Solidity developer 专注于 EVM smart contract architecture, gas 优化, ... |
+| 🛡️ **SRE (Site Reliability Engineer)** | 专家site reliability engineer 专注于 SLOs, error budgets, observability, ch... |
+| 📚 **Technical Writer** | 专家technical writer 专注于 developer documentation, API references, README... |
+| 🎯 **Threat Detection Engineer** | 专家detection engineer 专注于 SIEM rule 开发, MITRE ATT&CK coverage mappi... |
+| 🎙️ **Voice AI Integration Engineer** | 专家 构建 end-to-end speech transcription pipelines using Whisper-style mode... |
 | 💬 **WeChat Mini Program Developer** | Expert WeChat Mini Program developer specializing in 小程序 development with ... |
 
 ### 💰 金融财务（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📒 **Bookkeeper & Controller** | Expert bookkeeper and controller specializing in day-to-day accounting operation... |
-| 📊 **Financial Analyst** | Expert financial analyst specializing in financial modeling, forecasting, scenar... |
-| 📈 **FP&A Analyst** | Expert Financial Planning & Analysis (FP&A) analyst specializing in budgeting, v... |
-| 🔍 **Investment Researcher** | Expert investment researcher specializing in market research, due diligence, por... |
-| 🏛️ **Tax Strategist** | Expert tax strategist specializing in tax optimization, multi-jurisdictional com... |
+| 📒 **Bookkeeper & Controller** | 专家bookkeeper and controller 专注于 day-to-day accounting operations, fina... |
+| 📊 **Financial Analyst** | 专家financial analyst 专注于 financial modeling, forecasting, scenario 分�... |
+| 📈 **FP&A Analyst** | 专家Financial Planning & Analysis (FP&A) analyst 专注于 budgeting, variance... |
+| 🔍 **Investment Researcher** | 专家vestment researcher 专注于 market research, due diligence, portfolio �... |
+| 🏛️ **Tax Strategist** | 专家tax strategist 专注于 tax 优化, multi-jurisdictional compliance, tran... |
 
 ### 🎮 游戏开发（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🎵 **Game Audio Engineer** | Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music sy... |
-| 🎮 **Game Designer** | Systems and mechanics architect - Masters GDD authorship, player psychology, eco... |
-| 🗺️ **Level Designer** | Spatial storytelling and flow specialist - Masters layout theory, pacing archite... |
-| 📖 **Narrative Designer** | Story systems and dialogue architect - Masters GDD-aligned narrative design, bra... |
-| 🎨 **Technical Artist** | Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines,... |
+| 🎵 **Game Audio Engineer** | Interactive audio 专家 - Masters FMOD/Wwise 集成, adaptive music 系统s, sp... |
+| 🎮 **Game Designer** | Systems and mechanics architect - Masters GDD authorship, player psychology, ...... |
+| 🗺️ **Level Designer** | Spatial storytelling and flow 专家 - Masters layout theory, pacing architectur... |
+| 📖 **Narrative Designer** | Story 系统s and dialogue architect - Masters GDD-aligned narrative 设计, bra... |
+| 🎨 **Technical Artist** | Art-to-engine pipeline 专家 - Masters shaders, VFX 系统s, LOD pipelines, 性... |
 
 ### 📢 市场营销（30 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🤖 **Agentic Search Optimizer** | Expert in WebMCP readiness and agentic task completion — audits whether AI age... |
-| 🔮 **AI Citation Strategist** | Expert in AI recommendation engine optimization (AEO/GEO) — audits brand visib... |
-| 📱 **App Store Optimizer** | Expert app store marketing specialist focused on App Store Optimization (ASO), c... |
-| 🇨🇳 **Baidu SEO Specialist** | Expert Baidu search optimization specialist focused on Chinese search engine ran... |
+| 🤖 **Agentic Search Optimizer** | 专家 WebMCP readiness and agentic task completion — audits whether AI agents... |
+| 🔮 **AI Citation Strategist** | 专家 AI recommendation engine 优化 (AEO/GEO) — audits brand visibility acr... |
+| 📱 **App Store Optimizer** | 专家app store 营销 专家 专注于 App Store Optimization (ASO), conversion... |
+| 🇨🇳 **Baidu SEO Specialist** | 专家Baidu search 优化 专家 专注于 Chinese search engine ranking, Baidu ... |
 | 🎬 **Bilibili Content Strategist** | Expert Bilibili marketing specialist focused on UP主 growth, danmaku culture ma... |
-| "📘" **Book Co-Author** | Strategic thought-leadership book collaborator for founders, experts, and operat... |
-| 🎠 **Carousel Growth Engine** | Autonomous TikTok and Instagram carousel generation specialist. Analyzes any web... |
-| 🛒 **China E-Commerce Operator** | Expert China e-commerce operations specialist covering Taobao, Tmall, Pinduoduo,... |
-| 🇨🇳 **China Market Localization Strategist** | Full-stack China market localization expert who transforms real-time trend signa... |
-| ✍️ **Content Creator** | Expert content strategist and creator for multi-platform campaigns. Develops edi... |
-| 🌏 **Cross-Border E-Commerce Specialist** | Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, ... |
-| 🎵 **Douyin Strategist** | Short-video marketing expert specializing in the Douyin platform, with deep expe... |
-| 🚀 **Growth Hacker** | Expert growth strategist specializing in rapid user acquisition through data-dri... |
-| 📸 **Instagram Curator** | Expert Instagram marketing specialist focused on visual storytelling, community ... |
+| "📘" **Book Co-Author** | Strategic thought-leadership book collaborator for founders, experts, and ope...... |
+| 🎠 **Carousel Growth Engine** | Autonomous TikTok and Instagram carousel generation 专家. Analyzes any Website... |
+| 🛒 **China E-Commerce Operator** | 专家China e-commerce operations 专家 covering Taobao, Tmall, Pinduoduo, and ... |
+| 🇨🇳 **China Market Localization Strategist** | Full-stack China market localization expert who transforms real-time trend si...... |
+| ✍️ **Content Creator** | 专家content strategist and creator for multi-平台 campaigns. Develops editor... |
+| 🌏 **Cross-Border E-Commerce Specialist** | Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazad...... |
+| 🎵 **Douyin Strategist** | Short-video 营销 expert 专注于 the Douyin 平台, with deep expertise in re... |
+| 🚀 **Growth Hacker** | 专家growth strategist 专注于 rapid user acquisition through 数据-driven e... |
+| 📸 **Instagram Curator** | 专家Instagram 营销 专家 专注于 visual storytelling, community 构建, a... |
 | 🎥 **Kuaishou Strategist** | Expert Kuaishou marketing strategist specializing in short-video content for Chi... |
-| 💼 **LinkedIn Content Creator** | Expert LinkedIn content strategist focused on thought leadership, personal brand... |
-| 🎙️ **Livestream Commerce Coach** | Veteran livestream e-commerce coach specializing in host training and live room ... |
-| 🎧 **Podcast Strategist** | Content strategy and operations expert for the Chinese podcast market, with deep... |
-| 🔒 **Private Domain Operator** | Expert in building enterprise WeChat (WeCom) private domain ecosystems, with dee... |
-| 💬 **Reddit Community Builder** | Expert Reddit marketing specialist focused on authentic community engagement, va... |
-| 🔍 **SEO Specialist** | Expert search engine optimization strategist specializing in technical SEO, cont... |
-| 🎬 **Short-Video Editing Coach** | Hands-on short-video editing coach covering the full post-production pipeline, w... |
-| 📣 **Social Media Strategist** | Expert social media strategist for LinkedIn, Twitter, and professional platforms... |
-| 🎵 **TikTok Strategist** | Expert TikTok marketing specialist focused on viral content creation, algorithm ... |
-| 🐦 **Twitter Engager** | Expert Twitter marketing specialist focused on real-time engagement, thought lea... |
-| 🎬 **Video Optimization Specialist** | Video marketing strategist specializing in YouTube algorithm optimization, audie... |
-| 📱 **WeChat Official Account Manager** | Expert WeChat Official Account (OA) strategist specializing in content marketing... |
-| 🔥 **Weibo Strategist** | Full-spectrum operations expert for Sina Weibo, with deep expertise in trending ... |
-| 🌸 **Xiaohongshu Specialist** | Expert Xiaohongshu marketing specialist focused on lifestyle content, trend-driv... |
-| 🧠 **Zhihu Strategist** | Expert Zhihu marketing specialist focused on thought leadership, community credi... |
+| 💼 **LinkedIn Content Creator** | 专家LinkedIn content strategist 专注于 thought leadership, personal brand �... |
+| 🎙️ **Livestream Commerce Coach** | Veteran livestream e-commerce coach 专注于 host training and live room operat... |
+| 🎧 **Podcast Strategist** | Content 策略 and operations expert for the Chinese podcast market, with deep e... |
+| 🔒 **Private Domain Operator** | 专家 构建 enterprise WeChat (WeCom) private domain eco系统s, with deep exp... |
+| 💬 **Reddit Community Builder** | 专家Reddit 营销 专家 专注于 authentic community engagement, value-drive... |
+| 🔍 **SEO Specialist** | 专家search engine 优化 strategist 专注于 technical SEO, content 优化, l... |
+| 🎬 **Short-Video Editing Coach** | Hands-on short-video editing coach covering the full post-production pipeline...... |
+| 📣 **Social Media Strategist** | 专家social media strategist for LinkedIn, Twitter, and professional 平台s. C... |
+| 🎵 **TikTok Strategist** | 专家TikTok 营销 专家 专注于 viral content creation, algorithm 优化, a... |
+| 🐦 **Twitter Engager** | 专家Twitter 营销 专家 专注于 real-time engagement, thought leadership �... |
+| 🎬 **Video Optimization Specialist** | Video 营销 strategist 专注于 YouTube algorithm 优化, audience retention, ... |
+| 📱 **WeChat Official Account Manager** | 专家WeChat Official Account (OA) strategist 专注于 content 营销, subscrib... |
+| 🔥 **Weibo Strategist** | Full-spectrum operations expert for Sina Weibo, with deep expertise in trendi...... |
+| 🌸 **Xiaohongshu Specialist** | 专家Xiaohongshu 营销 专家 专注于 lifestyle content, trend-driven strate... |
+| 🧠 **Zhihu Strategist** | 专家Zhihu 营销 专家 专注于 thought leadership, community credibility, a... |
 
 ### 💵 付费媒体（7 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📋 **Paid Media Auditor** | Comprehensive paid media auditor who systematically evaluates Google Ads, Micros... |
-| ✍️ **Ad Creative Strategist** | Paid media creative specialist focused on ad copywriting, RSA optimization, asse... |
-| 📱 **Paid Social Strategist** | Cross-platform paid social advertising specialist covering Meta (Facebook/Instag... |
-| 💰 **PPC Campaign Strategist** | Senior paid media strategist specializing in large-scale search, shopping, and p... |
-| 📺 **Programmatic & Display Buyer** | Display advertising and programmatic media buying specialist covering managed pl... |
-| 🔍 **Search Query Analyst** | Specialist in search term analysis, negative keyword architecture, and query-to-... |
-| 📡 **Tracking & Measurement Specialist** | Expert in conversion tracking architecture, tag management, and attribution mode... |
+| 📋 **Paid Media Auditor** | Comprehensive paid media auditor who 系统atically evaluates Google Ads, Micros... |
+| ✍️ **Ad Creative Strategist** | Paid media creative 专家 专注于 ad copywriting, RSA 优化, asset group 设... |
+| 📱 **Paid Social Strategist** | Cross-平台 paid social advertising 专家 covering Meta (Facebook/Instagram), ... |
+| 💰 **PPC Campaign Strategist** | Senior paid media strategist 专注于 large-scale search, shopping, and 性能 ... |
+| 📺 **Programmatic & Display Buyer** | Display advertising and programmatic media buying 专家 covering managed placem... |
+| 🔍 **Search Query Analyst** | Specialist in search term 分析, negative keyword architecture, and query-to-in... |
+| 📡 **Tracking & Measurement Specialist** | 专家 conversion tracking architecture, tag 管理, and attribution modeling ac... |
 
 ### 📱 产品管理（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧠 **Behavioral Nudge Engine** | Behavioral psychology specialist that adapts software interaction cadences and s... |
-| 🔍 **Feedback Synthesizer** | Expert in collecting, analyzing, and synthesizing user feedback from multiple ch... |
-| 🧭 **Product Manager** | Holistic product leader who owns the full product lifecycle — from discovery a... |
-| 🎯 **Sprint Prioritizer** | Expert product manager specializing in agile sprint planning, feature prioritiza... |
-| 🔭 **Trend Researcher** | Expert market intelligence analyst specializing in identifying emerging trends, ... |
+| 🧠 **Behavioral Nudge Engine** | Behavioral psychology 专家 that adapts software interaction cadences and style... |
+| 🔍 **Feedback Synthesizer** | 专家 collecting, analyzing, and synthesizing user feedback from multiple chann... |
+| 🧭 **Product Manager** | Holistic product leader who owns the full product lifecycle — from discovery .... |
+| 🎯 **Sprint Prioritizer** | 专家product manager 专注于 agile sprint planning, feature prioritization, a... |
+| 🔭 **Trend Researcher** | 专家market intelligence analyst 专注于 identifying emerging trends, competi... |
 
 ### 📊 项目管理（6 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧪 **Experiment Tracker** | Expert project manager specializing in experiment design, execution tracking, an... |
-| 📋 **Jira Workflow Steward** | Expert delivery operations specialist who enforces Jira-linked Git workflows, tr... |
-| 🐑 **Project Shepherd** | Expert project manager specializing in cross-functional project coordination, ti... |
-| 🏭 **Studio Operations** | Expert operations manager specializing in day-to-day studio efficiency, process ... |
-| 🎬 **Studio Producer** | Senior strategic leader specializing in high-level creative and technical projec... |
-| 📝 **Senior Project Manager** | Converts specs to tasks and remembers previous projects. Focused on realistic sc... |
+| 🧪 **Experiment Tracker** | 专家project manager 专注于 experiment 设计, execution tracking, and 数�... |
+| 📋 **Jira Workflow Steward** | 专家delivery operations 专家 who enforces Jira-linked Git workflows, traceab... |
+| 🐑 **Project Shepherd** | 专家project manager 专注于 cross-functional project coordination, timeline ... |
+| 🏭 **Studio Operations** | 专家operations manager 专注于 day-to-day studio efficiency, process 优化,... |
+| 🎬 **Studio Producer** | Senior strategic leader 专注于 high-level creative and technical project orch... |
+| 📝 **Senior Project Manager** | Converts specs to tasks and remembers previous projects. Focused on realistic...... |
 
 ### 💼 销售业务（8 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🗺️ **Account Strategist** | Expert post-sale account strategist specializing in land-and-expand execution, s... |
-| 🏋️ **Sales Coach** | Expert sales coaching specialist focused on rep development, pipeline review fac... |
-| ♟️ **Deal Strategist** | Senior deal strategist specializing in MEDDPICC qualification, competitive posit... |
-| 🔍 **Discovery Coach** | Coaches sales teams on elite discovery methodology — question design, current-... |
-| 🛠️ **Sales Engineer** | Senior pre-sales engineer specializing in technical discovery, demo engineering,... |
-| 🎯 **Outbound Strategist** | Signal-based outbound specialist who designs multi-channel prospecting sequences... |
-| 📊 **Pipeline Analyst** | Revenue operations analyst specializing in pipeline health diagnostics, deal vel... |
-| 🏹 **Proposal Strategist** | Strategic proposal architect who transforms RFPs and sales opportunities into co... |
+| 🗺️ **Account Strategist** | 专家post-sale account strategist 专注于 land-and-expand execution, stakehol... |
+| 🏋️ **Sales Coach** | 专家sales coaching 专家 专注于 rep 开发, pipeline review facilitation, ... |
+| ♟️ **Deal Strategist** | Senior deal strategist 专注于 MEDDPICC qualification, competitive positioning... |
+| 🔍 **Discovery Coach** | Coaches sales teams on elite discovery methodology — question 设计, current-... |
+| 🛠️ **Sales Engineer** | Senior pre-sales engineer 专注于 technical discovery, demo 工程, POC scopin... |
+| 🎯 **Outbound Strategist** | Signal-based outbound 专家 who 设计s multi-channel prospecting sequences, de... |
+| 📊 **Pipeline Analyst** | Revenue operations analyst 专注于 pipeline health diagnostics, deal velocity ... |
+| 🏹 **Proposal Strategist** | Strategic proposal architect who transforms RFPs and sales opportunities into...... |
 
 ### 🥽 空间计算（6 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🍎 **macOS Spatial/Metal Engineer** | Native Swift and Metal specialist building high-performance 3D rendering systems... |
-| 🖥️ **Terminal Integration Specialist** | Terminal emulation, text rendering optimization, and SwiftTerm integration for m... |
-| 🥽 **visionOS Spatial Engineer** | Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Gla... |
-| 🕹️ **XR Cockpit Interaction Specialist** | Specialist in designing and developing immersive cockpit-based control systems f... |
-| 🌐 **XR Immersive Developer** | Expert WebXR and immersive technology developer with specialization in browser-b... |
-| 🫧 **XR Interface Architect** | Spatial interaction designer and interface strategist for immersive AR/VR/XR env... |
+| 🍎 **macOS Spatial/Metal Engineer** | Native Swift and Metal 专家 构建 high-性能 3D rendering 系统s and spatia... |
+| 🖥️ **Terminal Integration Specialist** | Terminal emulation, text rendering 优化, and SwiftTerm 集成 for 现代 Swift... |
+| 🥽 **visionOS Spatial Engineer** | Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid ...... |
+| 🕹️ **XR Cockpit Interaction Specialist** | Specialist in 设计ing and developing immersive cockpit-based control 系统s f... |
+| 🌐 **XR Immersive Developer** | 专家WebXR and immersive technology developer with specialization in browser-ba... |
+| 🫧 **XR Interface Architect** | Spatial interaction 设计er and interface strategist for immersive AR/VR/XR env... |
 
 ### 🔧 专业领域（41 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 💸 **Accounts Payable Agent** | Autonomous payment processing specialist that executes vendor payments, contract... |
-| 🔐 **Agentic Identity & Trust Architect** | Designs identity, authentication, and trust verification systems for autonomous ... |
-| 🎛️ **Agents Orchestrator** | Autonomous pipeline manager that orchestrates the entire development workflow. Y... |
-| ⚙️ **Automation Governance Architect** | Governance-first architect for business automations (n8n-first) who audits value... |
-| 🛡️ **Blockchain Security Auditor** | Expert smart contract security auditor specializing in vulnerability detection, ... |
-| 📋 **Compliance Auditor** | Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and... |
-| 📚 **Corporate Training Designer** | Expert in enterprise training system design and curriculum development — profi... |
-| 🎧 **Customer Service** | Friendly, professional customer service specialist for any industry — handling... |
-| 🗄️ **Data Consolidation Agent** | AI agent that consolidates extracted sales data into live reporting dashboards w... |
-| 🏛️ **Government Digital Presales Consultant** | Presales expert for China's government digital transformation market (ToG), prof... |
-| 🏥 **Healthcare Customer Service** | Empathetic healthcare customer service specialist for patient support, billing i... |
-| ⚕️ **Healthcare Marketing Compliance Specialist** | Expert in healthcare marketing compliance in China, proficient in the Advertisin... |
-| 🏨 **Hospitality Guest Services** | Comprehensive hospitality guest services specialist for hotels, resorts, restaur... |
-| 🤝 **HR Onboarding** | Comprehensive HR onboarding specialist for employee orientation, documentation m... |
-| 🕸️ **Identity Graph Operator** | Operates a shared identity graph that multiple AI agents resolve against. Ensure... |
-| 🌐 **Language Translator** | Real-time Spanish ↔ English translation specialist with cultural context, regi... |
-| ⏱️ **Legal Billing & Time Tracking** | Comprehensive legal billing and time tracking specialist for accurate time captu... |
-| 📋 **Legal Client Intake** | Comprehensive legal client intake specialist for qualifying prospects, collectin... |
-| ⚖️ **Legal Document Review** | Comprehensive legal document review specialist for contracts, litigation documen... |
-| 🏦 **Loan Officer Assistant** | Comprehensive loan officer assistant for mortgage and lending professionals — ... |
-| 🔎 **LSP/Index Engineer** | Language Server Protocol specialist building unified code intelligence systems t... |
-| 🏠 **Real Estate Buyer & Seller** | Comprehensive real estate agent assistant for buyer representation, seller repre... |
-| 🎯 **Recruitment Specialist** | Expert recruitment operations and talent acquisition specialist — skilled in C... |
-| 📤 **Report Distribution Agent** | AI agent that automates distribution of consolidated sales reports to representa... |
-| 🛒 **Retail Customer Returns** | Comprehensive retail customer returns specialist for processing returns, exchang... |
-| 📊 **Sales Data Extraction Agent** | AI agent specialized in monitoring Excel files and extracting key sales metrics ... |
-| 🎯 **Sales Outreach** | Consultative B2B sales outreach specialist for cold prospecting, lead follow-up,... |
-| 🧭 **Chief of Staff** | Master coordinator for founders and executives — filters noise, owns processes... |
-| 🏗️ **Civil Engineer** | Expert civil and structural engineer with global standards coverage — Eurocode... |
-| 🌍 **Cultural Intelligence Strategist** | CQ specialist that detects invisible exclusion, researches global context, and e... |
-| 🗣️ **Developer Advocate** | Expert developer advocate specializing in building developer communities, creati... |
-| 📄 **Document Generator** | Expert document creation specialist who generates professional PDF, PPTX, DOCX, ... |
-| 🇫🇷 **French Consulting Market Navigator** | Navigate the French ESN/SI freelance ecosystem — margin models, platform mecha... |
+| 💸 **Accounts Payable Agent** | Autonomous payment processing 专家 that executes vendor payments, contractor i... |
+| 🔐 **Agentic Identity & Trust Architect** | Designs identity, authentication, and trust verification 系统s for autonomous ... |
+| 🎛️ **Agents Orchestrator** | Autonomous pipeline manager that orchestrates the entire 开发 workflow. You ar... |
+| ⚙️ **Automation Governance Architect** | Governance-first architect for business 自动化s (n8n-first) who audits value,... |
+| 🛡️ **Blockchain Security Auditor** | 专家smart contract 安全 auditor 专注于 vulnerability detection, formal ve... |
+| 📋 **Compliance Auditor** | 专家technical compliance auditor 专注于 SOC 2, ISO 27001, HIPAA, and PCI-DS... |
+| 📚 **Corporate Training Designer** | 专家 enterprise training 系统 设计 and curriculum 开发 — proficient in... |
+| 🎧 **Customer Service** | Friendly, professional customer 服务 专家 for any industry — handling inqu... |
+| 🗄️ **Data Consolidation Agent** | AI agent that consolidates extracted sales 数据 into live reporting dashboards... |
+| 🏛️ **Government Digital Presales Consultant** | Presales expert for China's government digital transformation market (ToG), p...... |
+| 🏥 **Healthcare Customer Service** | Empathetic healthcare customer 服务 专家 for patient support, billing inquir... |
+| ⚕️ **Healthcare Marketing Compliance Specialist** | 专家 healthcare 营销 compliance in China, proficient in the Advertising Law,... |
+| 🏨 **Hospitality Guest Services** | Comprehensive hospitality guest 服务s 专家 for hotels, resorts, restaurants,... |
+| 🤝 **HR Onboarding** | Comprehensive HR onboarding 专家 for employee orientation, documentation 管�... |
+| 🕸️ **Identity Graph Operator** | Operates a shared identity graph that multiple AI agents resolve against. Ens...... |
+| 🌐 **Language Translator** | Real-time Spanish ↔ English translation 专家 with cultural context, regional... |
+| ⏱️ **Legal Billing & Time Tracking** | Comprehensive legal billing and time tracking 专家 for accurate time capture, ... |
+| 📋 **Legal Client Intake** | Comprehensive legal client intake 专家 for qualifying prospects, collecting ca... |
+| ⚖️ **Legal Document Review** | Comprehensive legal document review 专家 for contracts, litigation documents, ... |
+| 🏦 **Loan Officer Assistant** | Comprehensive loan officer assistant for mortgage and lending professionals —.... |
+| 🔎 **LSP/Index Engineer** | Language Server Protocol 专家 构建 unified code intelligence 系统s through... |
+| 🏠 **Real Estate Buyer & Seller** | Comprehensive real estate agent assistant for buyer representation, seller re...... |
+| 🎯 **Recruitment Specialist** | 专家recruitment operations and talent acquisition 专家 — skilled in China'... |
+| 📤 **Report Distribution Agent** | AI agent that automates distribution of consolidated sales reports to represe...... |
+| 🛒 **Retail Customer Returns** | Comprehensive retail customer returns 专家 for processing returns, exchanges, ... |
+| 📊 **Sales Data Extraction Agent** | AI agent specialized in 监控 Excel files and extracting key sales metrics (MTD... |
+| 🎯 **Sales Outreach** | Consultative B2B sales outreach 专家 for cold prospecting, lead follow-up, obj... |
+| 🧭 **Chief of Staff** | Master coordinator for founders and executives — filters noise, owns processe.... |
+| 🏗️ **Civil Engineer** | 专家civil and structural engineer with global standards coverage — Eurocode,... |
+| 🌍 **Cultural Intelligence Strategist** | CQ 专家 that detects invisible exclusion, researches global context, and ensur... |
+| 🗣️ **Developer Advocate** | 专家developer advocate 专注于 构建 developer communities, creating compel... |
+| 📄 **Document Generator** | 专家document creation 专家 who generates professional PDF, PPTX, DOCX, and X... |
+| 🇫🇷 **French Consulting Market Navigator** | Navigate the French ESN/SI freelance eco系统 — margin models, 平台 mechani... |
 | 🇰🇷 **Korean Business Navigator** | Korean business culture for foreign professionals — 품의 decision process, n... |
-| 🔌 **MCP Builder** | Expert Model Context Protocol developer who designs, builds, and tests MCP serve... |
-| 🔬 **Model QA Specialist** | Independent model QA expert who audits ML and statistical models end-to-end - fr... |
-| ☁️ **Salesforce Architect** | Solution architecture for Salesforce platform — multi-cloud design, integratio... |
-| "\U0001F5FA\uFE0F" **Workflow Architect** | Workflow design specialist who maps complete workflow trees for every system, us... |
-| 🎓 **Study Abroad Advisor** | Full-spectrum study abroad planning expert covering the US, UK, Canada, Australi... |
-| 🔗 **Supply Chain Strategist** | Expert supply chain management and procurement strategy specialist — skilled i... |
-| 🗃️ **ZK Steward** | Knowledge-base steward in the spirit of Niklas Luhmann's Zettelkasten. Default p... |
+| 🔌 **MCP Builder** | 专家Model Context Protocol developer who 设计s, builds, and tests MCP server... |
+| 🔬 **Model QA Specialist** | Independent model QA expert who audits 机器学习 and statistical models end-t... |
+| ☁️ **Salesforce Architect** | Solution architecture for Salesforce 平台 — multi-云 设计, 集成 pattern... |
+| "\U0001F5FA\uFE0F" **Workflow Architect** | Workflow 设计 专家 who maps complete workflow trees for every 系统, user j... |
+| 🎓 **Study Abroad Advisor** | Full-spectrum study abroad planning expert covering the US, UK, Canada, Austr...... |
+| 🔗 **Supply Chain Strategist** | 专家supply chain 管理 and procurement 策略 专家 — skilled in supplier ... |
+| 🗃️ **ZK Steward** | Knowledge-base steward in the spirit of Niklas Luhmann's Zettelkasten. Defaul...... |
 
 ### 🎯 战略规划（3 个）
 
@@ -269,35 +269,35 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📊 **Analytics Reporter** | Expert data analyst transforming raw data into actionable business insights. Cre... |
-| 📝 **Executive Summary Generator** | Consultant-grade AI specialist trained to think and communicate like a senior st... |
-| 💰 **Finance Tracker** | Expert financial analyst and controller specializing in financial planning, budg... |
-| 🏢 **Infrastructure Maintainer** | Expert infrastructure specialist focused on system reliability, performance opti... |
-| ⚖️ **Legal Compliance Checker** | Expert legal and compliance specialist ensuring business operations, data handli... |
-| 💬 **Support Responder** | Expert customer support specialist delivering exceptional customer service, issu... |
+| 📊 **Analytics Reporter** | 专家数据 analyst transforming raw 数据 into actionable business insights. ... |
+| 📝 **Executive Summary Generator** | Consultant-grade AI 专家 trained to think and communicate like a senior 策略... |
+| 💰 **Finance Tracker** | 专家financial analyst and controller 专注于 financial planning, budget 管�... |
+| 🏢 **Infrastructure Maintainer** | 专家frastructure 专家 专注于 系统 reliability, 性能 优化, and techn... |
+| ⚖️ **Legal Compliance Checker** | 专家legal and compliance 专家 ensuring business operations, 数据 handling,... |
+| 💬 **Support Responder** | 专家customer support 专家 delivering exceptional customer 服务, issue reso... |
 
 ### 🧪 测试质检（8 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| ♿ **Accessibility Auditor** | Expert accessibility specialist who audits interfaces against WCAG standards, te... |
-| 🔌 **API Tester** | Expert API testing specialist focused on comprehensive API validation, performan... |
-| 📸 **Evidence Collector** | Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 iss... |
-| ⏱️ **Performance Benchmarker** | Expert performance testing and optimization specialist focused on measuring, ana... |
-| 🧐 **Reality Checker** | Stops fantasy approvals, evidence-based certification - Default to "NEEDS WORK",... |
-| 📋 **Test Results Analyzer** | Expert test analysis specialist focused on comprehensive test result evaluation,... |
-| 🔧 **Tool Evaluator** | Expert technology assessment specialist focused on evaluating, testing, and reco... |
-| ⚡ **Workflow Optimizer** | Expert process improvement specialist focused on analyzing, optimizing, and auto... |
+| ♿ **Accessibility Auditor** | 专家accessibility 专家 who audits interfaces against WCAG standards, tests w... |
+| 🔌 **API Tester** | 专家API 测试 专家 专注于 comprehensive API validation, 性能 测试, a... |
+| 📸 **Evidence Collector** | Screenshot-obsessed, fantasy-allergic QA 专家 - Default to finding 3-5 issues,... |
+| ⏱️ **Performance Benchmarker** | 专家性能 测试 and 优化 专家 专注于 measuring, analyzing, and improv... |
+| 🧐 **Reality Checker** | Stops fantasy approvals, evidence-based certification - Default to "NEEDS WOR...... |
+| 📋 **Test Results Analyzer** | 专家test 分析 专家 专注于 comprehensive test result evaluation, quality... |
+| 🔧 **Tool Evaluator** | 专家technology assessment 专家 专注于 evaluating, 测试, and recommendin... |
+| ⚡ **Workflow Optimizer** | 专家process improvement 专家 专注于 analyzing, optimizing, and automating... |
 
 ### 📌 独立 Agent（5 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🖥️ **Frontend Developer** | Expert frontend developer specializing in modern web technologies, React/Vue/Ang... |
-| 🎨 **UI Designer** | Expert UI designer specializing in visual design systems, component libraries, a... |
-| 📐 **UX Architect** | Technical architecture and UX specialist who provides developers with solid foun... |
-| 🔒 **Security Engineer** | Expert application security engineer specializing in threat modeling, vulnerabil... |
-| 🎯 **Threat Detection Engineer** | Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK co... |
+| 🖥️ **Frontend Developer** | 专业前端开发专家，精通现代Web技术、React/Vue/Angular框架、UI�... |
+| 🎨 **UI Designer** | 专业UI设计师，专注于视觉设计系统、组件库和像素级精准界... |
+| 📐 **UX Architect** | 技术架构与UX专家，为开发者提供坚实基础、CSS系统和清晰的... |
+| 🔒 **Security Engineer** | 应用安全专家，专注于威胁建模、漏洞评估、安全代码审查�... |
+| 🎯 **Threat Detection Engineer** | 威胁检测专家，专注于SIEM规则开发、MITRE ATT&CK覆盖映射、威�... |
 
 ---
 
@@ -350,7 +350,7 @@ agents/
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 11:19:38
+- **备份时间**: 2026-04-12 12:06:56
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 

@@ -1,6 +1,6 @@
 ---
 name: Terminal Integration Specialist
-description: Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications
+description: Terminal emulation, text rendering 优化, and SwiftTerm 集成 for 现代 Swift 应用s
 color: green
 emoji: 🖥️
 vibe: Masters terminal emulation and text rendering in modern Swift applications.

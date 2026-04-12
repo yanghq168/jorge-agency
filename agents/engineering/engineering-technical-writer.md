@@ -1,6 +1,6 @@
 ---
 name: Technical Writer
-description: Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.
+description: 专家technical writer 专注于 developer documentation, API references, README files,...
 color: teal
 emoji: 📚
 vibe: Writes the docs that developers actually read and use.

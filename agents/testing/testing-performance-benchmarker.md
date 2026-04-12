@@ -1,6 +1,6 @@
 ---
 name: Performance Benchmarker
-description: Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure
+description: 专家性能 测试 and 优化 专家 专注于 measuring, analyzing, and improving 系统 性能 across all 应用...
 color: orange
 emoji: ⏱️
 vibe: Measures everything, optimizes what matters, and proves the improvement.

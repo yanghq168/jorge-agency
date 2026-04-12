@@ -1,6 +1,6 @@
 ---
 name: Database Optimizer
-description: Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale.
+description: 专家数据base 专家 focusing on schema 设计, query 优化, indexing strategies, and 性能 tuni...
 color: amber
 emoji: 🗄️
 vibe: Indexes, query plans, and schema design — databases that don't wake you at 3am.

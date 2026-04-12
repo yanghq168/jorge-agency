@@ -1,6 +1,6 @@
 ---
 name: App Store Optimizer
-description: Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability
+description: 专家app store 营销 专家 专注于 App Store Optimization (ASO), conversion rate 优化, and a...
 color: blue
 emoji: 📱
 vibe: Gets your app found, downloaded, and loved in the store.

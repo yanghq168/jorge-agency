@@ -1,6 +1,6 @@
 ---
 name: UI Designer
-description: Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity
+description: 专家UI 设计er 专注于 visual 设计 系统s, component libraries, and pixel-perfect interface...
 color: purple
 emoji: 🎨
 vibe: Creates beautiful, consistent, accessible interfaces that feel just right.

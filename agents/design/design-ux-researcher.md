@@ -1,6 +1,6 @@
 ---
 name: UX Researcher
-description: Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction
+description: 专家user experience researcher 专注于 user behavior 分析, usability 测试, and 数据-drive...
 color: green
 emoji: 🔬
 vibe: Validates design decisions with real user data, not assumptions.

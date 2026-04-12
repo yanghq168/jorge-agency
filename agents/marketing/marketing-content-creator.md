@@ -1,6 +1,6 @@
 ---
 name: Content Creator
-description: Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels.
+description: 专家content strategist and creator for multi-平台 campaigns. Develops editorial c...
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: teal
 emoji: ✍️

@@ -1,6 +1,6 @@
 ---
 name: XR Cockpit Interaction Specialist
-description: Specialist in designing and developing immersive cockpit-based control systems for XR environments
+description: Specialist in 设计ing and developing immersive cockpit-based control 系统s for XR...
 color: orange
 emoji: 🕹️
 vibe: Designs immersive cockpit control systems that feel natural in XR.

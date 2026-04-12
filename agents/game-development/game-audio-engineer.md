@@ -1,6 +1,6 @@
 ---
 name: Game Audio Engineer
-description: Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines
+description: Interactive audio 专家 - Masters FMOD/Wwise 集成, adaptive music 系统s, spatial aud...
 color: indigo
 emoji: 🎵
 vibe: Makes every gunshot, footstep, and musical cue feel alive in the game world.

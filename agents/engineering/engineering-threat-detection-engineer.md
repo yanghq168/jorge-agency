@@ -1,6 +1,6 @@
 ---
 name: Threat Detection Engineer
-description: Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams.
+description: 专家detection engineer 专注于 SIEM rule 开发, MITRE ATT&CK coverage mapping, threat ...
 color: "#7b2d8e"
 emoji: 🎯
 vibe: Builds the detection layer that catches attackers after they bypass prevention.
@@ -72,7 +72,7 @@ title: Suspicious PowerShell Encoded Command Execution
 id: f3a8c5d2-7b91-4e2a-b6c1-9d4e8f2a1b3c
 status: stable
 level: high
-description: |
+description: 专家detection engineer 专注于 SIEM rule 开发, MITRE ATT&CK coverage mapping, threat ...
   Detects PowerShell execution with encoded commands, a common technique
   used by attackers to obfuscate malicious payloads and bypass simple
   command-line logging detections.

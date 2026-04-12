@@ -1,6 +1,6 @@
 ---
 name: Brand Guardian
-description: Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning
+description: 专家brand strategist and guardian 专注于 brand identity 开发, consistency maintenanc...
 color: blue
 emoji: 🎨
 vibe: Your brand's fiercest protector and most passionate advocate.

@@ -1,6 +1,6 @@
 ---
 name: Narrative Designer
-description: Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines
+description: Story 系统s and dialogue architect - Masters GDD-aligned narrative 设计, branchin...
 color: red
 emoji: 📖
 vibe: Architects story systems where narrative and gameplay are inseparable.

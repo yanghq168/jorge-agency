@@ -1,7 +1,7 @@
 ---
 name: CMS Developer
 emoji: 🧱
-description: Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation
+description: Drupal and WordPress 专家 for theme 开发, custom plugins/modules, content archite...
 color: blue
 ---
 
@@ -151,7 +151,7 @@ my_module/
 ```yaml
 name: My Module
 type: module
-description: 'Custom functionality for [Client].'
+description: Drupal and WordPress 专家 for theme 开发, custom plugins/modules, content archite...
 core_version_requirement: ^10 || ^11
 package: Custom
 dependencies:
