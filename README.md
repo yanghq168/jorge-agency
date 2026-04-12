@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agents Count](https://img.shields.io/badge/Agents-177-blue)
-![Last Backup](https://img.shields.io/badge/Last%20Backup-2026-04-12 10:53:01-green)
+![Last Backup](https://img.shields.io/badge/Last%20Backup-2026-04-12 10:53:48-green)
 
 ## 📋 目录
 
@@ -313,6 +313,6 @@ agents/
 
 ### 最新变更
 
-- **备份时间**: 2026-04-12 10:53:01
+- **备份时间**: 2026-04-12 10:53:48
 - **Agent 总数**: 177
 - **分类数量**: 15
