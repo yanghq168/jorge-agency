@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:49:11-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2015:13:22-059669?style=flat-square)
 
 ---
 
@@ -214,26 +214,26 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 💸 **Accounts Payable Agent** | Autonomous payment processing 专家 that executes vendor pay... |
-| 🔐 **Agentic Identity & Trust Architect** | Designs identity, authentication, and trust verification ... |
-| 🎛️ **Agents Orchestrator** | Autonomous pipeline manager that orchestrates the entire ... |
-| ⚙️ **Automation Governance Architect** | Governance-first architect for business 自动化s (n8n-first) ... |
-| 🛡️ **Blockchain Security Auditor** | 专家smart contract 安全 auditor 专注于 vulnerability detection, ... |
-| 📋 **Compliance Auditor** | 专家technical compliance auditor 专注于 SOC 2, ISO 27001, HIPA... |
-| 📚 **Corporate Training Designer** | 专家 enterprise training 系统 设计 and curriculum 开发 — proficie... |
-| 🎧 **Customer Service** | Friendly, professional customer 服务 专家 for any industry — ... |
-| 🗄️ **Data Consolidation Agent** | AI agent that consolidates extracted sales 数据 into live r... |
-| 🏛️ **Government Digital Presales Consultant** | Presales expert for China's government digital transforma... |
-| 🏥 **Healthcare Customer Service** | Empathetic healthcare customer 服务 专家 for patient support,... |
-| ⚕️ **Healthcare Marketing Compliance Specialist** | 专家 healthcare 营销 compliance in China, proficient in the A... |
-| 🏨 **Hospitality Guest Services** | Comprehensive hospitality guest 服务s 专家 for hotels, resort... |
-| 🤝 **HR Onboarding** | Comprehensive HR onboarding 专家 for employee orientation, ... |
-| 🕸️ **Identity Graph Operator** | Operates a shared identity graph that multiple AI agents ... |
-| 🌐 **Language Translator** | Real-time Spanish ↔ English translation 专家 with cultural ... |
-| ⏱️ **Legal Billing & Time Tracking** | Comprehensive legal billing and time tracking 专家 for accu... |
-| 📋 **Legal Client Intake** | Comprehensive legal client intake 专家 for qualifying prosp... |
-| ⚖️ **Legal Document Review** | Comprehensive legal document review 专家 for contracts, lit... |
-| 🏦 **Loan Officer Assistant** | Comprehensive loan officer assistant for mortgage and len... |
+| 💸 **Accounts Payable Agent** | 应付账款智能体，自主支付处理专家，执行供应商付款、承包商发票和经常性账单 |
+| 🔐 **Agentic Identity & Trust Architect** | 智能体身份与信任架构师，为自主AI智能体设计身份、认证和信任验证系统 |
+| 🎛️ **Agents Orchestrator** | 智能体编排器，自主管道管理器，编排整个开发工作流，是流程的领导者 |
+| ⚙️ **Automation Governance Architect** | 自动化治理架构师，业务自动化的治理优先架构师（以n8n为主），审计价值、风险和可维护性 |
+| 🛡️ **Blockchain Security Auditor** | 区块链安全审计师，智能合约安全审计专家，专注于漏洞检测、形式化验证和全面审计报告编写 |
+| 📋 **Compliance Auditor** | 合规审计师，技术合规审计专家，专注于SOC 2、ISO 27001、HIPAA和PCI-DSS审计 |
+| 📚 **Corporate Training Designer** | 企业培训设计师，企业培训系统设计和课程开发专家，精通培训需求分析、教学设计方法论 |
+| 🎧 **Customer Service** | 客户服务专家，友好、专业的客户服务专家，处理咨询、投诉、账户支持和常见问题 |
+| 🗄️ **Data Consolidation Agent** | 数据整合智能体，将提取的销售数据整合到实时报告仪表板中 |
+| 🏛️ **Government Digital Presales Consultant** | 政府数字售前顾问，中国政府数字化转型市场（ToG）的售前专家，精通政策解读、解决方案设计 |
+| 🏥 **Healthcare Customer Service** | 医疗客户服务专家，富有同理心的医疗客户服务专家，提供患者支持、账单查询和预约管理 |
+| ⚕️ **Healthcare Marketing Compliance Specialist** | 医疗营销合规专家，中国医疗营销合规专家，精通广告法、医疗广告管理办法等法规 |
+| 🏨 **Hospitality Guest Services** | 酒店宾客服务专家，全面的酒店宾客服务专家，涵盖酒店、度假村、餐厅和活动场所 |
+| 🤝 **HR Onboarding** | HR入职专家，全面的HR入职专家，负责员工入职、文档管理、合规跟踪和文化融入 |
+| 🕸️ **Identity Graph Operator** | 身份图谱运营者，运营多AI智能体解析的共享身份图谱，确保每个智能体获得一致的实体识别答案 |
+| 🌐 **Language Translator** | 语言翻译专家，实时西班牙语↔英语翻译专家，具备文化语境、区域方言和语调适配能力 |
+| ⏱️ **Legal Billing & Time Tracking** | 法律计费和工时追踪专家，全面的法律计费和工时追踪专家，准确记录时间、生成发票 |
+| 📋 **Legal Client Intake** | 法律客户接待专家，全面的法律客户接待专家，负责潜在客户资格审查、案件信息收集 |
+| ⚖️ **Legal Document Review** | 法律文件审查专家，全面的法律文件审查专家，处理合同、诉讼文件和房地产协议 |
+| 🏦 **Loan Officer Assistant** | 贷款专员助理，全面的贷款专员助理，为抵押贷款和贷款专业人士提供支持... |
 | 🔎 **LSP/Index Engineer** | Language Server Protocol 专家 构建 unified code intelligence ... |
 | 🏠 **Real Estate Buyer & Seller** | Comprehensive real estate agent assistant for buyer repre... |
 | 🎯 **Recruitment Specialist** | 专家recruitment operations and talent acquisition 专家 — skil... |
@@ -323,7 +323,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 14:49:11
+- **备份时间**: 2026-04-12 15:13:22
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
