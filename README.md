@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2015:23:46-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/Last_Backup-2026-04-12-059669?style=flat-square)
 
 ---
 
@@ -326,7 +326,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 15:23:46
+- **备份时间**: 2026-04-12
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
