@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2015:13:22-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2015:23:46-059669?style=flat-square)
 
 ---
 
@@ -234,56 +234,59 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 | 📋 **Legal Client Intake** | 法律客户接待专家，全面的法律客户接待专家，负责潜在客户资格审查、案件信息收集 |
 | ⚖️ **Legal Document Review** | 法律文件审查专家，全面的法律文件审查专家，处理合同、诉讼文件和房地产协议 |
 | 🏦 **Loan Officer Assistant** | 贷款专员助理，全面的贷款专员助理，为抵押贷款和贷款专业人士提供支持... |
-| 🔎 **LSP/Index Engineer** | Language Server Protocol 专家 构建 unified code intelligence ... |
-| 🏠 **Real Estate Buyer & Seller** | Comprehensive real estate agent assistant for buyer repre... |
-| 🎯 **Recruitment Specialist** | 专家recruitment operations and talent acquisition 专家 — skil... |
-| 📤 **Report Distribution Agent** | AI agent that automates distribution of consolidated sale... |
-| 🛒 **Retail Customer Returns** | Comprehensive retail customer returns 专家 for processing r... |
-| 📊 **Sales Data Extraction Agent** | AI agent specialized in 监控 Excel files and extracting key... |
-| 🎯 **Sales Outreach** | Consultative B2B sales outreach 专家 for cold prospecting, ... |
-| 🧭 **Chief of Staff** | Master coordinator for founders and executives — filters ... |
-| 🏗️ **Civil Engineer** | 专家civil and structural engineer with global standards cov... |
-| 🌍 **Cultural Intelligence Strategist** | CQ 专家 that detects invisible exclusion, researches global... |
-| 🗣️ **Developer Advocate** | 专家developer advocate 专注于 构建 developer communities, creati... |
-| 📄 **Document Generator** | 专家document creation 专家 who generates professional PDF, PP... |
-| 🇫🇷 **French Consulting Market Navigator** | Navigate the French ESN/SI freelance eco系统 — margin model... |
-| 🇰🇷 **Korean Business Navigator** | Korean business culture for foreign professionals — 품의 de... |
-| 🔌 **MCP Builder** | 专家Model Context Protocol developer who 设计s, builds, and t... |
-| 🔬 **Model QA Specialist** | Independent model QA expert who audits 机器学习 and statistic... |
-| ☁️ **Salesforce Architect** | Solution architecture for Salesforce 平台 — multi-云 设计, 集成 ... |
-| "\U0001F5FA\uFE0F" **Workflow Architect** | Workflow 设计 专家 who maps complete workflow trees for every... |
-| 🎓 **Study Abroad Advisor** | Full-spectrum study abroad planning expert covering the U... |
-| 🔗 **Supply Chain Strategist** | 专家supply chain 管理 and procurement 策略 专家 — skilled in supp... |
-| 🗃️ **ZK Steward** | Knowledge-base steward in the spirit of Niklas Luhmann's ... |
+| 🔎 **LSP/Index Engineer** | LSP/索引工程师，语言服务器协议专家，通过LSP客户端编排和语义索引构建统一的代码智能系统 |
+| 🏠 **Real Estate Buyer & Seller** | 房地产买卖专家，全面的房地产经纪人助理，提供买方代理、卖方代理和交易协调支持 |
+| 🎯 **Recruitment Specialist** | 招聘专家，招聘运营和人才获取专家，精通中国主要招聘平台、人才评估框架和劳动法合规 |
+| 📤 **Report Distribution Agent** | 报告分发智能体，自动将综合销售报告分发给基于地域参数的代表 |
+| 🛒 **Retail Customer Returns** | 零售客户退货专家，全面的零售客户退货专家，处理退货、换货和退款 |
+| 📊 **Sales Data Extraction Agent** | 销售数据提取智能体，AI智能体，专门监控Excel文件并提取关键销售指标 |
+| 🎯 **Sales Outreach** | 销售外联专家，咨询型B2B销售外联专家，负责冷潜在客户开发、潜在客户跟进 |
+| 🧭 **Chief of Staff** | 参谋长，创始人和高管的总体规划协调员，过滤噪音、掌控流程、推动战略优先事项 |
+| 🏗️ **Civil Engineer** | 土木工程师，土木和结构工程专家，具备全球标准覆盖——欧洲规范、DIN、AISC、ACI等 |
+| 🌍 **Cultural Intelligence Strategist** | 文化智能策略师，CQ专家，检测隐性排斥、研究全球语境并确保软件跨文化共鸣 |
+| 🗣️ **Developer Advocate** | 开发者布道师，专注于构建开发者社区、创建引人注目的技术内容和推动产品采用 |
+| 📄 **Document Generator** | 文档生成器，文档创建专家，生成专业的PDF、PPTX、DOCX和XLSX文件 |
+| 🇫🇷 **French Consulting Market Navigator** | 法国咨询市场导航员，导航法国ESN/SI自由职业生态系统——利润率模型、平台机制 |
+| 🇰🇷 **Korean Business Navigator** | 韩国商业导航员，为外国专业人士解读韩国商业文化——品义决策流程、nunchi关系动态 |
+| 🔌 **MCP Builder** | MCP构建师，模型上下文协议开发专家，设计、构建和测试MCP服务器 |
+| 🔬 **Model QA Specialist** | 模型QA专家，独立模型QA专家，端到端审计机器学习和统计模型 |
+| ☁️ **Salesforce Architect** | Salesforce架构师，Salesforce平台的解决方案架构——多云设计、集成模式、治理限制管理 |
+| "\U0001F5FA\uFE0F" **Workflow Architect** | 工作流架构师，工作流设计专家，为每个系统、用户旅程和边缘案例映射完整的工作流树 |
+| 🎓 **Study Abroad Advisor** | 留学顾问，全谱留学规划专家，涵盖美国、英国、加拿大、澳大利亚等目的地 |
+| 🔗 **Supply Chain Strategist** | 供应链策略师，供应链管理和采购策略专家，精通供应商开发、战略采购 |
+| 🗃️ **ZK Steward** | ZK管理员，以Niklas Luhmann的Zettelkasten精神进行知识库管理 |
 
 ### 🎯 战略规划（3 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
+| 📑 **NEXUS Executive Brief** | NEXUS执行摘要——AI智能体网络战略协调框架 |
+| ⚡ **NEXUS Quickstart** | NEXUS快速入门指南——5分钟内从零到编排多智能体管道 |
+| 🌐 **NEXUS Strategy** | NEXUS战略——多智能体编排的完整运营手册 |
 
 ### 🎧 客户支持（6 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 📊 **Analytics Reporter** | 专家数据 analyst transforming raw 数据 into actionable business... |
-| 📝 **Executive Summary Generator** | Consultant-grade AI 专家 trained to think and communicate l... |
-| 💰 **Finance Tracker** | 专家financial analyst and controller 专注于 financial planning... |
-| 🏢 **Infrastructure Maintainer** | 专家frastructure 专家 专注于 系统 reliability, 性能 优化, and technica... |
-| ⚖️ **Legal Compliance Checker** | 专家legal and compliance 专家 ensuring business operations, 数... |
-| 💬 **Support Responder** | 专家customer support 专家 delivering exceptional customer 服务,... |
+| 📊 **Analytics Reporter** | 分析报告师，数据分析专家，将原始数据转化为可操作的业​​务洞察 |
+| 📝 **Executive Summary Generator** | 执行摘要生成器，顾问级AI专家，像高级策略顾问一样思考和沟通 |
+| 💰 **Finance Tracker** | 财务追踪师，财务分析师和主管，专注于财务规划、预算管理和业务绩效分析 |
+| 🏢 **Infrastructure Maintainer** | 基础设施维护者，基础设施专家，专注于系统可靠性、性能优化和技术运营管理 |
+| ⚖️ **Legal Compliance Checker** | 法律合规检查员，法律与合规专家，确保业务运营、数据处理和内容创作符合相关法规 |
+| 💬 **Support Responder** | 支持响应员，客户支持专家，提供卓越的客户服务、问题解决和用户体验优化 |
 
 ### 🧪 测试质检（8 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| ♿ **Accessibility Auditor** | 专家accessibility 专家 who audits interfaces against WCAG sta... |
-| 🔌 **API Tester** | 专家API 测试 专家 专注于 comprehensive API validation, 性能 测试, and ... |
-| 📸 **Evidence Collector** | Screenshot-obsessed, fantasy-allergic QA 专家 - Default to ... |
-| ⏱️ **Performance Benchmarker** | 专家性能 测试 and 优化 专家 专注于 measuring, analyzing, and improving... |
-| 🧐 **Reality Checker** | Stops fantasy approvals, evidence-based certification - D... |
-| 📋 **Test Results Analyzer** | 专家test 分析 专家 专注于 comprehensive test result evaluation, qu... |
-| 🔧 **Tool Evaluator** | 专家technology assessment 专家 专注于 evaluating, 测试, and recomm... |
-| ⚡ **Workflow Optimizer** | 专家process improvement 专家 专注于 analyzing, optimizing, and a... |
+| ♿ **Accessibility Auditor** | 无障碍审计员，无障碍专家，根据WCAG标准审计界面，使用辅助技术测试 |
+| 🔌 **API Tester** | API测试员，API测试专家，专注于全面API验证、性能测试和质量保证 |
+| 📸 **Evidence Collector** | 证据收集员，截图痴迷、反幻想的QA专家，默认发现3-5个问题，要求视觉证明 |
+| ⏱️ **Performance Benchmarker** | 性能基准测试员，性能测试和优化专家，专注于测量、分析和改进系统性能 |
+| 🧐 **Reality Checker** | 现实检查员，停止幻想批准，基于证据的认证，默认"需要改进"，要求压倒性证据证明生产就绪 |
+| 📋 **Test Results Analyzer** | 测试结果分析员，测试分析专家，专注于全面测试结果评估、质量指标分析和可操作建议生成 |
+| 🔧 **Tool Evaluator** | 工具评估员，技术评估专家，专注于评估、测试和推荐业务使用的工具、软件和平台 |
+| ⚡ **Workflow Optimizer** | 工作流优化师，流程改进专家，专注于分析、优化和自动化各业务功能的工作流 |
 
 ### 📌 独立 Agent（5 个）
 
@@ -323,7 +326,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 15:13:22
+- **备份时间**: 2026-04-12 15:23:46
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
