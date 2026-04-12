@@ -3,7 +3,7 @@
 > **权权管家(仓库)** 自动维护的 Agent 备份中心
 
 ![Agent 数量](https://img.shields.io/badge/Agent-177-10b981?style=flat-square)
-![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:43:47-059669?style=flat-square)
+![最后备份](https://img.shields.io/badge/最后备份-2026-04-12%2014:49:11-059669?style=flat-square)
 
 ---
 
@@ -179,36 +179,36 @@ Agent（智能代理）是具备以下特征的 AI 角色：
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🧪 **Experiment Tracker** | 专家project manager 专注于 experiment 设计, execution tracking, ... |
-| 📋 **Jira Workflow Steward** | 专家delivery operations 专家 who enforces Jira-linked Git wor... |
-| 🐑 **Project Shepherd** | 专家project manager 专注于 cross-functional project coordinati... |
-| 🏭 **Studio Operations** | 专家operations manager 专注于 day-to-day studio efficiency, pr... |
-| 🎬 **Studio Producer** | Senior strategic leader 专注于 high-level creative and techn... |
-| 📝 **Senior Project Manager** | Converts specs to tasks and remembers previous projects. ... |
+| 🧪 **Experiment Tracker** | 实验追踪师，专注于实验设计、执行跟踪和数据驱动决策 |
+| 📋 **Jira Workflow Steward** | Jira工作流管理员，交付运营专家，执行Jira链接的Git工作流、可追溯提交和结构化PR |
+| 🐑 **Project Shepherd** | 项目牧羊人，专注于跨职能项目协调、时间线管理和利益相关者对齐 |
+| 🏭 **Studio Operations** | 工作室运营，专注于日常工作室效率、流程优化和资源协调 |
+| 🎬 **Studio Producer** | 工作室制作人，高级战略领导者，专注于高级创意和技术项目编排、资源分配 |
+| 📝 **Senior Project Manager** | 高级项目经理，将需求转换为任务并记住之前的项目，专注于现实范围、无后台进程 |
 
 ### 💼 销售业务（8 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🗺️ **Account Strategist** | 专家post-sale account strategist 专注于 land-and-expand execut... |
-| 🏋️ **Sales Coach** | 专家sales coaching 专家 专注于 rep 开发, pipeline review facilitat... |
-| ♟️ **Deal Strategist** | Senior deal strategist 专注于 MEDDPICC qualification, compet... |
-| 🔍 **Discovery Coach** | Coaches sales teams on elite discovery methodology — ques... |
-| 🛠️ **Sales Engineer** | Senior pre-sales engineer 专注于 technical discovery, demo 工... |
-| 🎯 **Outbound Strategist** | Signal-based outbound 专家 who 设计s multi-channel prospectin... |
-| 📊 **Pipeline Analyst** | Revenue operations analyst 专注于 pipeline health diagnostic... |
-| 🏹 **Proposal Strategist** | Strategic proposal architect who transforms RFPs and sale... |
+| 🗺️ **Account Strategist** | 客户策略师，售后客户策略专家，专注于拓展执行、利益相关者映射和QBR促成 |
+| 🏋️ **Sales Coach** | 销售教练，专注于销售代表发展、管道审查、通话辅导和交易策略 |
+| ♟️ **Deal Strategist** | 交易策略师，专注于MEDDPICC资格认证、竞争定位和复杂B2B销售周期的赢单规划 |
+| 🔍 **Discovery Coach** | 发现教练，辅导销售团队掌握精英发现方法论——问题设计、现状映射和差距量化 |
+| 🛠️ **Sales Engineer** | 销售工程师，高级售前工程师，专注于技术发现、演示工程、POC范围和竞争战卡 |
+| 🎯 **Outbound Strategist** | 外联策略师，基于信号的外联专家，设计多渠道潜在客户开发序列 |
+| 📊 **Pipeline Analyst** | 管道分析师，收入运营分析师，专注于管道健康诊断、交易速度分析和预测准确性 |
+| 🏹 **Proposal Strategist** | 提案策略师，战略提案架构师，将RFP和销售机会转化为有说服力的赢单叙事 |
 
 ### 🥽 空间计算（6 个）
 
 | 角色名称 | 职责描述 |
 |---------|---------|
-| 🍎 **macOS Spatial/Metal Engineer** | Native Swift and Metal 专家 构建 high-性能 3D rendering 系统s and... |
-| 🖥️ **Terminal Integration Specialist** | Terminal emulation, text rendering 优化, and SwiftTerm 集成 f... |
-| 🥽 **visionOS Spatial Engineer** | Native visionOS spatial computing, SwiftUI volumetric int... |
-| 🕹️ **XR Cockpit Interaction Specialist** | Specialist in 设计ing and developing immersive cockpit-base... |
-| 🌐 **XR Immersive Developer** | 专家WebXR and immersive technology developer with specializ... |
-| 🫧 **XR Interface Architect** | Spatial interaction 设计er and interface strategist for imm... |
+| 🍎 **macOS Spatial/Metal Engineer** | macOS空间/Metal工程师，原生Swift和Metal专家，为macOS和Vision Pro构建高性能3D... |
+| 🖥️ **Terminal Integration Specialist** | 终端集成专家，终端模拟、文本渲染优化和SwiftTerm集成，用于现代Swift应用 |
+| 🥽 **visionOS Spatial Engineer** | visionOS空间工程师，原生visionOS空间计算、SwiftUI体积界面和Liquid Glass设计实现 |
+| 🕹️ **XR Cockpit Interaction Specialist** | XR驾驶舱交互专家，专注于设计和开发XR环境的沉浸式驾驶舱控制系统 |
+| 🌐 **XR Immersive Developer** | XR沉浸式开发者，WebXR和沉浸式技术专家，专注于浏览器AR/VR/XR应用 |
+| 🫧 **XR Interface Architect** | XR界面架构师，空间交互设计师和界面策略师，专注于沉浸式AR/VR/XR环境 |
 
 ### 🔧 专业领域（41 个）
 
@@ -323,7 +323,7 @@ vibe: 个性标签
 
 ### 📅 最近备份
 
-- **备份时间**: 2026-04-12 14:43:47
+- **备份时间**: 2026-04-12 14:49:11
 - **Agent 总数**: 177 个
 - **分类数量**: 15 个
 
