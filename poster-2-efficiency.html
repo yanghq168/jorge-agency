@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>灵叙海报 - 高效创作</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #f0f0f0;
+            padding: 20px;
+        }
+        
+        .poster {
+            width: 1080px;
+            height: 1920px;
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            position: relative;
+            overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", sans-serif;
+        }
+        
+        .speed-lines {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        
+        .speed-line {
+            position: absolute;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+            height: 2px;
+            animation: speed 3s linear infinite;
+        }
+        
+        @keyframes speed {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(1000px); }
+        }
+        
+        .brand-section {
+            position: absolute;
+            top: 80px;
+            left: 80px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            background: white;
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .brand-text {
+            color: white;
+        }
+        
+        .brand-name {
+            font-size: 48px;
+            font-weight: 700;
+            letter-spacing: 4px;
+        }
+        
+        .brand-slogan {
+            font-size: 24px;
+            opacity: 0.9;
+            margin-top: 5px;
+        }
+        
+        .hero-section {
+            position: absolute;
+            top: 250px;
+            left: 0;
+            right: 0;
+            text-align: center;
+        }
+        
+        .speed-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 50px;
+            padding: 20px 50px;
+            color: white;
+            font-size: 36px;
+            font-weight: 600;
+            margin-bottom: 40px;
+        }
+        
+        .badge-icon {
+            width: 40px;
+            height: 40px;
+            fill: white;
+        }
+        
+        .main-title {
+            color: white;
+            font-size: 140px;
+            font-weight: 900;
+            line-height: 1;
+            text-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+        
+        .main-title .number {
+            font-size: 200px;
+            background: linear-gradient(90deg, #fff, #c8ffe0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .sub-title {
+            color: white;
+            font-size: 56px;
+            margin-top: 30px;
+            font-weight: 600;
+        }
+        
+        .comparison {
+            position: absolute;
+            top: 980px;
+            left: 80px;
+            right: 80px;
+            display: flex;
+            gap: 40px;
+        }
+        
+        .compare-item {
+            flex: 1;
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 30px;
+            padding: 50px 40px;
+            text-align: center;
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+        
+        .compare-item.traditional {
+            opacity: 0.7;
+        }
+        
+        .compare-item.ai {
+            background: rgba(255,255,255,0.2);
+            border-color: rgba(255,255,255,0.4);
+            transform: scale(1.05);
+        }
+        
+        .compare-label {
+            color: rgba(255,255,255,0.8);
+            font-size: 32px;
+            margin-bottom: 20px;
+        }
+        
+        .compare-number {
+            color: white;
+            font-size: 72px;
+            font-weight: 800;
+        }
+        
+        .compare-unit {
+            color: rgba(255,255,255,0.9);
+            font-size: 36px;
+            margin-top: 10px;
+        }
+        
+        .vs-badge {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #ff6b6b;
+            color: white;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            font-weight: 700;
+            box-shadow: 0 10px 30px rgba(255,107,107,0.4);
+        }
+        
+        .tools-section {
+            position: absolute;
+            bottom: 300px;
+            left: 80px;
+            right: 80px;
+        }
+        
+        .tools-title {
+            color: white;
+            font-size: 36px;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+        
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 25px;
+        }
+        
+        .tool-card {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 24px;
+            padding: 35px 20px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.2);
+            transition: transform 0.3s;
+        }
+        
+        .tool-icon {
+            width: 56px;
+            height: 56px;
+            margin: 0 auto 15px;
+            fill: white;
+        }
+        
+        .tool-name {
+            color: white;
+            font-size: 28px;
+            font-weight: 600;
+        }
+        
+        .cta-section {
+            position: absolute;
+            bottom: 80px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            z-index: 10;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #11998e;
+            font-size: 40px;
+            font-weight: 700;
+            padding: 25px 70px;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .cta-subtext {
+            color: white;
+            font-size: 24px;
+            margin-top: 15px;
+            opacity: 0.9;
+        }
+        
+
+        .qrcode-section {
+            position: absolute;
+            bottom: 120px;
+            right: 80px;
+            text-align: center;
+            z-index: 5;
+        }
+        
+        .qrcode-box {
+            width: 140px;
+            height: 140px;
+            background: white;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            margin: 0 auto;
+        }
+        
+        .qrcode-box img {
+            width: 130px;
+            height: 130px;
+            border-radius: 8px;
+        }
+        
+        .qrcode-text {
+            color: white;
+            font-size: 18px;
+            margin-top: 8px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="poster">
+        <div class="speed-lines">
+            <div class="speed-line" style="top: 20%; width: 300px; animation-delay: 0s;"></div>
+            <div class="speed-line" style="top: 35%; width: 400px; animation-delay: 0.5s;"></div>
+            <div class="speed-line" style="top: 50%; width: 250px; animation-delay: 1s;"></div>
+            <div class="speed-line" style="top: 65%; width: 350px; animation-delay: 1.5s;"></div>
+            <div class="speed-line" style="top: 80%; width: 280px; animation-delay: 2s;"></div>
+        </div>
+        
+        <div class="brand-section">
+            <div class="logo">◆</div>
+            <div class="brand-text">
+                <div class="brand-name">灵叙</div>
+                <div class="brand-slogan">LINGXU</div>
+            </div>
+        </div>
+        
+        <div class="hero-section">
+            <div class="speed-badge">
+                <svg class="badge-icon" viewBox="0 0 24 24"><path d="M11 15H6l7-14v8h5l-7 14v-8z"/></svg>
+                效率提升10倍
+            </div>
+            <div class="main-title">
+                日更<br>
+                <span class="number">100W+</span><br>
+                字
+            </div>
+            <div class="sub-title">不是梦</div>
+        </div>
+        
+        <div class="comparison">
+            <div class="compare-item traditional">
+                <div class="compare-label">传统写作</div>
+                <div class="compare-number">3000</div>
+                <div class="compare-unit">字/天</div>
+            </div>
+            <div class="compare-item ai">
+                <div class="compare-label">AI辅助创作</div>
+                <div class="compare-number">10000+</div>
+                <div class="compare-unit">字/天</div>
+            </div>
+            <div class="vs-badge">VS</div>
+        </div>
+        
+        <div class="tools-section">
+            <div class="tools-title">4大AI工具，让创作飞起来</div>
+            <div class="tools-grid">
+                <div class="tool-card">
+                    <svg class="tool-icon" viewBox="0 0 24 24"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25M20.71 7.04a.996.996 0 0 0 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>
+                    <div class="tool-name">AI续写</div>
+                </div>
+                <div class="tool-card">
+                    <svg class="tool-icon" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m-5-9h10v2H7z"/></svg>
+                    <div class="tool-name">人物设计</div>
+                </div>
+                <div class="tool-card">
+                    <svg class="tool-icon" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-5 14H7v-2h7v2m3-4H7v-2h10v2m0-4H7V7h10v2z"/></svg>
+                    <div class="tool-name">大纲生成</div>
+                </div>
+                <div class="tool-card">
+                    <svg class="tool-icon" viewBox="0 0 24 24"><path d="m12 17.27 3.89 2.3-.99-4.28 3.36-2.93-4.45-.39L12 8.06l-1.81 3.91-4.45.39 3.36 2.93-.99 4.28z"/></svg>
+                    <div class="tool-name">情节优化</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="cta-section">
+            <div class="cta-button">开启高效创作</div>
+            <div class="cta-subtext">从此告别卡文，写作从未如此顺畅</div>
+        </div>
+        
+
+        <div class="qrcode-section">
+            <div class="qrcode-box"><img src="https://raw.githubusercontent.com/yanghq168/jorge-ai-repository/main/assets/posters/qrcode-new.jpg" alt="二维码"></div>
+            <div class="qrcode-text">扫码立即体验</div>
+        </div>
+    </div>
+</body>
+</html>
