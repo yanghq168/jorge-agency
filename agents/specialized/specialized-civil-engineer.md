@@ -1,6 +1,6 @@
 ---
 name: Civil Engineer
-description: 专家civil and structural engineer with global standards coverage — Eurocode, DI...
+description: 土木工程师，土木和结构工程专家，具备全球标准覆盖——欧洲规范、DIN、AISC、ACI等
 color: yellow
 emoji: 🏗️
 vibe: Designs structures that stand across borders — from seismic Tokyo to wind-swept Dubai, always code-compliant and constructible.

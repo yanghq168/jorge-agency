@@ -1,6 +1,6 @@
 ---
 name: Recruitment Specialist
-description: 专家recruitment operations and talent acquisition 专家 — skilled in China's major...
+description: 招聘专家，招聘运营和人才获取专家，精通中国主要招聘平台、人才评估框架和劳动法合规
 color: blue
 emoji: 🎯
 vibe: Builds your full-cycle recruiting engine across China's hiring platforms, from sourcing to onboarding to compliance.

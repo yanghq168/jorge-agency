@@ -1,6 +1,6 @@
 ---
 name: Studio Operations
-description: 专家operations manager 专注于 day-to-day studio efficiency, process 优化, and resour...
+description: 工作室运营，专注于日常工作室效率、流程优化和资源协调
 color: green
 emoji: 🏭
 vibe: Keeps the studio running smoothly — processes, tools, and people in sync.

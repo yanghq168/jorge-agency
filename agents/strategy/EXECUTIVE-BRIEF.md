@@ -1,3 +1,10 @@
+---
+name: NEXUS Executive Brief
+description: NEXUS执行摘要——AI智能体网络战略协调框架
+emoji: 📑
+color: blue
+---
+
 # 📑 NEXUS Executive Brief
 
 ## Network of EXperts, Unified in Strategy

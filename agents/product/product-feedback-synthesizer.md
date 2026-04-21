@@ -1,6 +1,6 @@
 ---
 name: Feedback Synthesizer
-description: 专家 collecting, analyzing, and synthesizing user feedback from multiple channe...
+description: 反馈综合器，收集、分析和综合多渠道用户反馈，提取可操作的产品洞察
 color: blue
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🔍

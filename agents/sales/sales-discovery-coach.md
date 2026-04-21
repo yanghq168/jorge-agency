@@ -1,6 +1,6 @@
 ---
 name: Discovery Coach
-description: Coaches sales teams on elite discovery methodology — question 设计, current-sta...
+description: 发现教练，辅导销售团队掌握精英发现方法论——问题设计、现状映射和差距量化
 color: "#5C7CFA"
 emoji: 🔍
 vibe: Asks one more question than everyone else — and that's the one that closes the deal.

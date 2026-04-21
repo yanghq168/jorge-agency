@@ -1,6 +1,6 @@
 ---
 name: Narrative Designer
-description: Story 系统s and dialogue architect - Masters GDD-aligned narrative 设计, branchin...
+description: 叙事设计师，故事系统和对话架构师，精通GDD对齐的叙事设计、分支对话和传说架构
 color: red
 emoji: 📖
 vibe: Architects story systems where narrative and gameplay are inseparable.

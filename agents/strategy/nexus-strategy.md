@@ -1,3 +1,10 @@
+---
+name: NEXUS Strategy
+description: NEXUS战略——多智能体编排的完整运营手册
+emoji: 🌐
+color: indigo
+---
+
 # 🌐 NEXUS — Network of EXperts, Unified in Strategy
 
 ## The Agency's Complete Operational Playbook for Multi-Agent Orchestration

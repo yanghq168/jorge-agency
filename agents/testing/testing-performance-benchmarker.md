@@ -1,6 +1,6 @@
 ---
 name: Performance Benchmarker
-description: 专家性能 测试 and 优化 专家 专注于 measuring, analyzing, and improving 系统 性能 across all 应用...
+description: 性能基准测试员，性能测试和优化专家，专注于测量、分析和改进系统性能
 color: orange
 emoji: ⏱️
 vibe: Measures everything, optimizes what matters, and proves the improvement.

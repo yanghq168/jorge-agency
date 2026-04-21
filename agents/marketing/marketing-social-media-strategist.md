@@ -1,6 +1,6 @@
 ---
 name: Social Media Strategist
-description: 专家social media strategist for LinkedIn, Twitter, and professional 平台s. Create...
+description: 社交媒体策略师，为LinkedIn、Twitter等专业平台创建跨平台营销活动
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: blue
 emoji: 📣

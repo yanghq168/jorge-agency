@@ -1,6 +1,6 @@
 ---
 name: Paid Media Auditor
-description: Comprehensive paid media auditor who 系统atically evaluates Google Ads, Microso...
+description: 付费媒体审计师，系统评估Google Ads、Microsoft Ads和Meta账户，涵盖200多个检查点
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

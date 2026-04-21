@@ -1,6 +1,6 @@
 ---
 name: Baidu SEO Specialist
-description: 专家Baidu search 优化 专家 专注于 Chinese search engine ranking, Baidu eco系统 集成, ICP c...
+description: 百度SEO专家，专注于中文搜索引擎排名、百度生态系统集成、ICP合规和中文关键词研究
 color: blue
 emoji: 🇨🇳
 vibe: Masters Baidu's algorithm so your brand ranks in China's search ecosystem.

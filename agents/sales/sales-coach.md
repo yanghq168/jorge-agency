@@ -1,6 +1,6 @@
 ---
 name: Sales Coach
-description: 专家sales coaching 专家 专注于 rep 开发, pipeline review facilitation, call coaching, ...
+description: 销售教练，专注于销售代表发展、管道审查、通话辅导和交易策略
 color: "#E65100"
 emoji: 🏋️
 vibe: Asks the question that makes the rep rethink the entire deal.

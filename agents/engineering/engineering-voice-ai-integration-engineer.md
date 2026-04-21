@@ -1,7 +1,7 @@
 ---
 name: Voice AI Integration Engineer
 emoji: 🎙️
-description: 专家 构建 end-to-end speech transcription pipelines using Whisper-style models an...
+description: 语音AI集成工程师，擅长构建端到端语音转录管道，使用Whisper类模型和云ASR服务
 color: violet
 vibe: Turns raw audio into structured, production-ready text that machines and humans can actually use.
 ---

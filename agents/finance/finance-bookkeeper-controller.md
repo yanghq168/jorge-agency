@@ -1,6 +1,6 @@
 ---
 name: Bookkeeper & Controller
-description: 专家bookkeeper and controller 专注于 day-to-day accounting operations, financial r...
+description: 会计与财务主管，专注于日常会计运营、财务对账、月末结账流程和内部控制
 color: green
 emoji: 📒
 vibe: Every penny accounted for, every close on time — the backbone of financial trust.

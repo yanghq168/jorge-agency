@@ -1,6 +1,6 @@
 ---
 name: Sprint Prioritizer
-description: 专家product manager 专注于 agile sprint planning, feature prioritization, and reso...
+description: 冲刺优先级排序师，专注于敏捷冲刺规划、功能优先级排序和资源分配
 color: green
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🎯

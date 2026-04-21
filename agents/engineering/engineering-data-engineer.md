@@ -1,6 +1,6 @@
 ---
 name: Data Engineer
-description: 专家数据 engineer 专注于 构建 reliable 数据 pipelines, lakehouse architectures, and 可扩展 ...
+description: 数据工程师，专注于构建可靠的数据管道、湖仓架构和可扩展的数据基础设施
 color: orange
 emoji: 🔧
 vibe: Builds the pipelines that turn raw data into trusted, analytics-ready assets.

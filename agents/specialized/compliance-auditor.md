@@ -1,6 +1,6 @@
 ---
 name: Compliance Auditor
-description: 专家technical compliance auditor 专注于 SOC 2, ISO 27001, HIPAA, and PCI-DSS audit...
+description: 合规审计师，技术合规审计专家，专注于SOC 2、ISO 27001、HIPAA和PCI-DSS审计
 color: orange
 emoji: 📋
 vibe: Walks you from readiness assessment through evidence collection to SOC 2 certification.

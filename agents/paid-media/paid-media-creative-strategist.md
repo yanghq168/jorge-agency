@@ -1,6 +1,6 @@
 ---
 name: Ad Creative Strategist
-description: Paid media creative 专家 专注于 ad copywriting, RSA 优化, asset group 设计, and creati...
+description: 广告创意策略师，专注于广告文案撰写、RSA优化、资产组设计和创意测试框架
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

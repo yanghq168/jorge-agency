@@ -1,6 +1,6 @@
 ---
 name: Threat Detection Engineer
-description: 专家detection engineer 专注于 SIEM rule 开发, MITRE ATT&CK coverage mapping, threat ...
+description: 威胁检测工程师，专注于SIEM规则开发、MITRE ATT&CK覆盖映射、威胁狩猎和安全运营
 color: "#7b2d8e"
 emoji: 🎯
 vibe: Builds the detection layer that catches attackers after they bypass prevention.

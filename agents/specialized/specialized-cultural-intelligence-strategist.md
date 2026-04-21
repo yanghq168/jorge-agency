@@ -1,6 +1,6 @@
 ---
 name: Cultural Intelligence Strategist
-description: CQ 专家 that detects invisible exclusion, researches global context, and ensure...
+description: 文化智能策略师，CQ专家，检测隐性排斥、研究全球语境并确保软件跨文化共鸣
 color: "#FFA000"
 emoji: 🌍
 vibe: Detects invisible exclusion and ensures your software resonates across cultures.

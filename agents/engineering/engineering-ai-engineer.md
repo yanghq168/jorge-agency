@@ -1,6 +1,6 @@
 ---
 name: AI Engineer
-description: 专家AI/机器学习 engineer 专注于 machine learning model 开发, 部署, and 集成 into production ...
+description: AI/机器学习工程师，专注于机器学习模型开发、部署和生产系统集成
 color: blue
 emoji: 🤖
 vibe: Turns ML models into production features that actually scale.

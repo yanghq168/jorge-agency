@@ -1,6 +1,6 @@
 ---
 name: Technical Artist
-description: Art-to-engine pipeline 专家 - Masters shaders, VFX 系统s, LOD pipelines, 性能 budge...
+description: 技术美术，艺术到引擎管道专家，精通着色器、VFX系统、LOD管道和性能预算
 color: pink
 emoji: 🎨
 vibe: The bridge between artistic vision and engine reality.

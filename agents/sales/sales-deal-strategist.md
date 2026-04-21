@@ -1,6 +1,6 @@
 ---
 name: Deal Strategist
-description: Senior deal strategist 专注于 MEDDPICC qualification, competitive positioning, a...
+description: 交易策略师，专注于MEDDPICC资格认证、竞争定位和复杂B2B销售周期的赢单规划
 color: "#1B4D3E"
 emoji: ♟️
 vibe: Qualifies deals like a surgeon and kills happy ears on contact.

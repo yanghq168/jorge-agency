@@ -1,6 +1,6 @@
 ---
 name: Douyin Strategist
-description: Short-video 营销 expert 专注于 the Douyin 平台, with deep expertise in recommendatio...
+description: 抖音策略师，短视频营销专家，专注于抖音平台推荐算法机制、病毒视频策划和直播电商
 color: "#000000"
 emoji: 🎵
 vibe: Masters the Douyin algorithm so your short videos actually get seen.

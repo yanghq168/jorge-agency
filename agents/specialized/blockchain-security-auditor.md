@@ -1,6 +1,6 @@
 ---
 name: Blockchain Security Auditor
-description: 专家smart contract 安全 auditor 专注于 vulnerability detection, formal verification,...
+description: 区块链安全审计师，智能合约安全审计专家，专注于漏洞检测、形式化验证和全面审计报告编写
 color: red
 emoji: 🛡️
 vibe: Finds the exploit in your smart contract before the attacker does.

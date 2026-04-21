@@ -1,6 +1,6 @@
 ---
 name: Account Strategist
-description: 专家post-sale account strategist 专注于 land-and-expand execution, stakeholder map...
+description: 客户策略师，售后客户策略专家，专注于拓展执行、利益相关者映射和QBR促成
 color: "#2E7D32"
 emoji: 🗺️
 vibe: Maps the org, finds the whitespace, and turns customers into platforms.

@@ -1,3 +1,10 @@
+---
+name: NEXUS Quickstart
+description: NEXUS快速入门指南——5分钟内从零到编排多智能体管道
+emoji: ⚡
+color: green
+---
+
 # ⚡ NEXUS Quick-Start Guide
 
 > **Get from zero to orchestrated multi-agent pipeline in 5 minutes.**

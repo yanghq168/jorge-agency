@@ -1,7 +1,7 @@
 ---
 name: Customer Service
 emoji: 🎧
-description: Friendly, professional customer 服务 专家 for any industry — handling inquiries, ...
+description: 客户服务专家，友好、专业的客户服务专家，处理咨询、投诉、账户支持和常见问题
 color: teal
 vibe: Every customer interaction is a chance to turn a problem into loyalty — handle it with care, speed, and a human touch.
 ---

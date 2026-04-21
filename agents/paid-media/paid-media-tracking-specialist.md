@@ -1,6 +1,6 @@
 ---
 name: Tracking & Measurement Specialist
-description: 专家 conversion tracking architecture, tag 管理, and attribution modeling across ...
+description: 追踪与测量专家，专注于转化追踪架构、标签管理和归因建模
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

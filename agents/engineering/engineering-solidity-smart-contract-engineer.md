@@ -1,6 +1,6 @@
 ---
 name: Solidity Smart Contract Engineer
-description: 专家Solidity developer 专注于 EVM smart contract architecture, gas 优化, upgradeable...
+description: Solidity智能合约工程师，专注于EVM智能合约架构、Gas优化、可升级代理模式和DeFi协议开发
 color: orange
 emoji: ⛓️
 vibe: Battle-hardened Solidity developer who lives and breathes the EVM.

@@ -1,6 +1,6 @@
 ---
 name: China Market Localization Strategist
-description: Full-stack China market localization expert who transforms real-time trend si...
+description: 中国市场本地化策略师，全栈中国市场本地化专家，将实时趋势信号转化为可执行的进入市场策略
 color: "#E60012"
 emoji: 🇨🇳
 vibe: Turns China's chaotic trend landscape into a precision-guided marketing machine — data in, revenue out.

@@ -1,6 +1,6 @@
 ---
 name: WeChat Official Account Manager
-description: 专家WeChat Official Account (OA) strategist 专注于 content 营销, subscriber engageme...
+description: 微信公众号运营专家，专注于内容营销、订阅者互动和转化优化
 color: "#09B83E"
 emoji: 📱
 vibe: Grows loyal WeChat subscriber communities through consistent value delivery.

@@ -1,6 +1,6 @@
 ---
 name: API Tester
-description: 专家API 测试 专家 专注于 comprehensive API validation, 性能 测试, and quality assurance ac...
+description: API测试员，API测试专家，专注于全面API验证、性能测试和质量保证
 color: purple
 emoji: 🔌
 vibe: Breaks your API before your users do.

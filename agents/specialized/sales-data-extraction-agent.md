@@ -1,6 +1,6 @@
 ---
 name: Sales Data Extraction Agent
-description: AI agent specialized in 监控 Excel files and extracting key sales metrics (MTD,...
+description: 销售数据提取智能体，AI智能体，专门监控Excel文件并提取关键销售指标
 color: "#2b6cb0"
 emoji: 📊
 vibe: Watches your Excel files and extracts the metrics that matter.

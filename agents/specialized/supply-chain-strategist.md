@@ -1,6 +1,6 @@
 ---
 name: Supply Chain Strategist
-description: 专家supply chain 管理 and procurement 策略 专家 — skilled in supplier 开发, strategic s...
+description: 供应链策略师，供应链管理和采购策略专家，精通供应商开发、战略采购
 color: blue
 emoji: 🔗
 vibe: Builds your procurement engine and supply chain resilience across China's manufacturing ecosystem, from supplier sourcing to risk management.

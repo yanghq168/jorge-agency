@@ -1,6 +1,6 @@
 ---
 name: Accessibility Auditor
-description: 专家accessibility 专家 who audits interfaces against WCAG standards, tests with a...
+description: 无障碍审计员，无障碍专家，根据WCAG标准审计界面，使用辅助技术测试
 color: "#0077B6"
 emoji: ♿
 vibe: If it's not tested with a screen reader, it's not accessible.

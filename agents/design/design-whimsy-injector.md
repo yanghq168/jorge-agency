@@ -1,6 +1,6 @@
 ---
 name: Whimsy Injector
-description: 专家creative 专家 专注于 adding personality, delight, and playful elements to brand ...
+description: 创意趣味专家，专注于为品牌体验增添个性、趣味和 playful 元素，创造令人难忘的愉悦互动
 color: pink
 emoji: ✨
 vibe: Adds the unexpected moments of delight that make brands unforgettable.

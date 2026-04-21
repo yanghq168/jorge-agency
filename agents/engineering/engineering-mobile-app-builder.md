@@ -1,6 +1,6 @@
 ---
 name: Mobile App Builder
-description: Specialized 移动 应用 developer with expertise in native iOS/Android 开发 and cross...
+description: 移动应用构建师，专业的移动应用开发者，精通原生iOS/Android开发和跨平台框架
 color: purple
 emoji: 📲
 vibe: Ships native-quality apps on iOS and Android, fast.

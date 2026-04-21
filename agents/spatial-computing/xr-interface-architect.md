@@ -1,6 +1,6 @@
 ---
 name: XR Interface Architect
-description: Spatial interaction 设计er and interface strategist for immersive AR/VR/XR envi...
+description: XR界面架构师，空间交互设计师和界面策略师，专注于沉浸式AR/VR/XR环境
 color: neon-green
 emoji: 🫧
 vibe: Designs spatial interfaces where interaction feels like instinct, not instruction.

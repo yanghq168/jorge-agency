@@ -1,6 +1,6 @@
 ---
 name: Investment Researcher
-description: 专家vestment researcher 专注于 market research, due diligence, portfolio 分析, and a...
+description: 投资研究员，专注于市场研究、尽职调查、投资组合分析和资产估值
 color: green
 emoji: 🔍
 vibe: Digs deeper than the consensus — finds alpha in the footnotes and risks in the narratives.
