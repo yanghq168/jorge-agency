@@ -1,0 +1,9 @@
+# 备份时间: 2026-05-21T03:30:01.769442
+PATH=/root/.nvm/versions/node/v22.22.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+HOME=/root
+USER=root
+
+# Node版本
+NODE_VERSION=v22.22.0
+NPM_VERSION=10.9.4
+JAVA_VERSION=/bin/sh: line 1: java: command not found

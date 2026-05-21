@@ -1,0 +1,35 @@
+{
+  "fetch_time": "2026-05-13T21:00:10.456576",
+  "products": [
+    {
+      "coin": "USDE",
+      "platform": "Ethereal",
+      "apy": 16.0,
+      "time_left": "无固定结束时间"
+    },
+    {
+      "coin": "GHO",
+      "platform": "Gate",
+      "apy": 16.54,
+      "time_left": "无固定结束时间"
+    },
+    {
+      "coin": "USDC",
+      "platform": "BG Wallet",
+      "apy": 10.0,
+      "time_left": "无固定结束时间"
+    },
+    {
+      "coin": "RLUSD",
+      "platform": "币安",
+      "apy": 8.0,
+      "time_left": "无固定结束时间"
+    },
+    {
+      "coin": "USDG",
+      "platform": "OKX Pay",
+      "apy": 4.0,
+      "time_left": "无固定结束时间"
+    }
+  ]
+}

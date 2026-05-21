@@ -1,0 +1,183 @@
+{
+  "backup_time": "2026-05-21T03:30:01.936124",
+  "skills": [
+    {
+      "name": "tencentcloud-lighthouse-skill",
+      "path": "skills/tencentcloud-lighthouse-skill",
+      "meta": {
+        "ownerId": "kn75kc19fpd7fhjt8pfak7x3j180v1jy",
+        "slug": "tencentcloud-lighthouse-skill",
+        "version": "1.0.0",
+        "publishedAt": 1770787740068
+      }
+    },
+    {
+      "name": "notion",
+      "path": "skills/notion",
+      "meta": {
+        "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+        "slug": "notion",
+        "version": "1.0.0",
+        "publishedAt": 1767545360889
+      }
+    },
+    {
+      "name": "tencent-docs",
+      "path": "skills/tencent-docs",
+      "meta": {
+        "ownerId": "kn71n4rrmmw7469qstfds7c2z181y79z",
+        "slug": "tencent-docs",
+        "version": "1.0.3",
+        "publishedAt": 1772625110881
+      }
+    },
+    {
+      "name": "self-improving",
+      "path": "skills/self-improving",
+      "meta": {
+        "ownerId": "kn73vp5rarc3b14rc7wjcw8f8580t5d1",
+        "slug": "self-improving",
+        "version": "1.2.10",
+        "publishedAt": 1772899624346
+      }
+    },
+    {
+      "name": "openclaw-aisa-chinese-llm-models",
+      "path": "skills/openclaw-aisa-chinese-llm-models",
+      "meta": {
+        "ownerId": "kn76s7azw5ts056pvhv1adht7s8052ne",
+        "slug": "openclaw-aisa-chinese-llm-models",
+        "version": "1.0.1",
+        "publishedAt": 1771251429126
+      }
+    },
+    {
+      "name": "ai-news-daily",
+      "path": "skills/ai-news-daily",
+      "meta": {
+        "ownerId": "kn7et01nz604jx2mtk706y1mrh82075t",
+        "slug": "ai-news-daily",
+        "version": "1.0.4",
+        "publishedAt": 1772544339347
+      }
+    },
+    {
+      "name": "skillhub-preference",
+      "path": "skills/skillhub-preference"
+    },
+    {
+      "name": "tavily-search",
+      "path": "skills/tavily-search",
+      "meta": {
+        "ownerId": "kn7azq5e6sw0fbwwzdpcwvvjzd7z0x4z",
+        "slug": "tavily-search",
+        "version": "1.0.0",
+        "publishedAt": 1768114920544
+      }
+    },
+    {
+      "name": "summarize",
+      "path": "skills/summarize",
+      "meta": {
+        "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+        "slug": "summarize",
+        "version": "1.0.0",
+        "publishedAt": 1767545383635
+      }
+    },
+    {
+      "name": "agent-browser",
+      "path": "skills/agent-browser",
+      "meta": {
+        "ownerId": "kn72ce44tqw8bnnnewrn1s5x3s7yz7sq",
+        "slug": "agent-browser",
+        "version": "0.2.0",
+        "publishedAt": 1768882342488
+      }
+    },
+    {
+      "name": "find-skills",
+      "path": "skills/find-skills",
+      "meta": {
+        "ownerId": "kn77ajmmqw3cgnc3ay1x3e0ccd805hsw",
+        "slug": "find-skills",
+        "version": "0.1.0",
+        "publishedAt": 1769698710765
+      }
+    },
+    {
+      "name": "github",
+      "path": "skills/github",
+      "meta": {
+        "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+        "slug": "github",
+        "version": "1.0.0",
+        "publishedAt": 1767545344344
+      }
+    },
+    {
+      "name": "obsidian",
+      "path": "skills/obsidian",
+      "meta": {
+        "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+        "slug": "obsidian",
+        "version": "1.0.0",
+        "publishedAt": 1767545362143
+      }
+    },
+    {
+      "name": "weather",
+      "path": "skills/weather",
+      "meta": {
+        "ownerId": "kn70pywhg0fyz996kpa8xj89s57yhv26",
+        "slug": "weather",
+        "version": "1.0.0",
+        "publishedAt": 1767545394459
+      }
+    },
+    {
+      "name": "daily-report",
+      "path": "skills/daily-report"
+    },
+    {
+      "name": "skill-vetter",
+      "path": "skills/skill-vetter",
+      "meta": {
+        "ownerId": "kn71j6xbmpwfvx4c6y1ez8cd718081mg",
+        "slug": "skill-vetter",
+        "version": "1.0.0",
+        "publishedAt": 1769863429632
+      }
+    },
+    {
+      "name": "email-daily-summary",
+      "path": "skills/email-daily-summary",
+      "meta": {
+        "ownerId": "kn7e6rmb07qmpshw2vp52sw2gs80fcd0",
+        "slug": "email-daily-summary",
+        "version": "0.1.0",
+        "publishedAt": 1770277453029
+      }
+    },
+    {
+      "name": "__pycache__",
+      "path": "skills/__pycache__"
+    },
+    {
+      "name": "marketing-campaign-launcher",
+      "path": "skills/marketing-campaign-launcher"
+    },
+    {
+      "name": "security-incident-response",
+      "path": "skills/security-incident-response"
+    },
+    {
+      "name": "website-promotion-strategy",
+      "path": "skills/website-promotion-strategy"
+    },
+    {
+      "name": "seedance-video-script",
+      "path": "skills/seedance-video-script"
+    }
+  ]
+}

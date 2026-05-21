@@ -1,0 +1,47 @@
+{
+  "user_id": "ou_b38c2eefcb9e3efa1a08f81b73af91c7",
+  "created_at": "2026-03-24T22:58:40.011721",
+  "email": "569545015@qq.com",
+  "timezone": "GMT+8",
+  "preferences": {
+    "model": "kimi-coding/k2p5",
+    "language": "zh-CN"
+  },
+  "crypto_alerts": {
+    "price_alerts": [
+      {
+        "symbol": "ETHUSDT",
+        "above": 2500,
+        "below": 1700
+      },
+      {
+        "symbol": "SOLUSDT",
+        "above": 150,
+        "below": 80
+      },
+      {
+        "symbol": "BGBUSDT",
+        "above": 2.5,
+        "below": 1.5
+      }
+    ],
+    "funding_alerts": true,
+    "liquidation_alerts": true
+  },
+  "email_schedule": {
+    "morning_news": "07:00",
+    "daily_report": "19:00",
+    "email_summary": "20:00",
+    "evening_news": "21:00"
+  },
+  "name": "jorge",
+  "migrated_from_shared": true,
+  "migrated_at": "2026-03-24T22:58:40.011445",
+  "smtp_config": {
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "smtp_user": "569545015@qq.com",
+    "smtp_pass": "iylylmwnitbbbebi",
+    "to_email": "569545015@qq.com"
+  }
+}

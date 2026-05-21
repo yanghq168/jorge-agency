@@ -1,0 +1,29 @@
+{
+  "fetch_time": "2026-04-15T16:12:16.625597",
+  "products": [
+    {
+      "coin": "USDE",
+      "platform": "Ethereal",
+      "apy": 16.0,
+      "time_left": null
+    },
+    {
+      "coin": "USDC",
+      "platform": "Theo",
+      "apy": 8.3,
+      "time_left": null
+    },
+    {
+      "coin": "USD1",
+      "platform": "币安",
+      "apy": 5.0,
+      "time_left": null
+    },
+    {
+      "coin": "USDT",
+      "platform": "币安钱包",
+      "apy": 4.8,
+      "time_left": null
+    }
+  ]
+}

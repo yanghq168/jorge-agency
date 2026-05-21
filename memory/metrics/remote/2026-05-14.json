@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-05-14T00:00:02.602968",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 628,
+      "free_mb": 251,
+      "available_mb": 2759,
+      "usage_pct": 17.1
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.02,
+      "5min": 0.07,
+      "15min": 0.03
+    },
+    "processes": 102
+  },
+  {
+    "timestamp": "2026-05-14T04:00:02.032407",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 634,
+      "free_mb": 211,
+      "available_mb": 2753,
+      "usage_pct": 17.3
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.3G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 104
+  },
+  {
+    "timestamp": "2026-05-14T08:00:02.297742",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 639,
+      "free_mb": 300,
+      "available_mb": 2748,
+      "usage_pct": 17.4
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 110
+  },
+  {
+    "timestamp": "2026-05-14T12:00:02.361794",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 642,
+      "free_mb": 274,
+      "available_mb": 2745,
+      "usage_pct": 17.5
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.05,
+      "5min": 0.01,
+      "15min": 0.0
+    },
+    "processes": 110
+  },
+  {
+    "timestamp": "2026-05-14T16:00:01.954834",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 641,
+      "free_mb": 240,
+      "available_mb": 2746,
+      "usage_pct": 17.5
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 107
+  },
+  {
+    "timestamp": "2026-05-14T20:00:02.122658",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 637,
+      "free_mb": 208,
+      "available_mb": 2750,
+      "usage_pct": 17.3
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.3G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 103
+  }
+]

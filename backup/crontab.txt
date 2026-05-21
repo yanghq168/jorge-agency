@@ -1,0 +1,46 @@
+PATH=/root/.nvm/versions/node/v22.22.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+0 3 * * * /root/.openclaw/workspace/scripts/skill-backup.sh >> /tmp/skill-backup.log 2>&1
+0 */2 * * * cd /root/.openclaw/workspace/skills/daily-report && python3 crypto_monitor.py >> /var/log/crypto-monitor.log 2>&1
+
+# Bithappy 理财监控
+0 0,9,12,15,18,21 * * * python3 /root/.openclaw/workspace/scripts/bithappy_email_pro.py >> /var/log/bithappy-email.log 2>&1
+
+# 每日个人日报
+0 19 * * * cd /root/.openclaw/workspace/skills/daily-report && python3 push_feishu.py >> /var/log/daily-report.log 2>&1 && python3 daily_report.py --send >> /var/log/daily-report.log 2>&1
+
+# AI 行业新闻
+50 8 * * * cd /root/.openclaw/workspace/skills/ai-news-daily && bash run.sh >> /var/log/ai-news.log 2>&1
+0 9 * * * python3 /root/.openclaw/workspace/skills/ai-news-daily/push_email.py >> /var/log/ai-news.log 2>&1
+
+# 晨间新闻简报 (AI+区块链)
+0 7 * * * cd /root/.openclaw/workspace/skills/daily-report && python3 morning_news.py >> /var/log/morning-news.log 2>&1
+
+# 晚间新闻晚报 (AI+区块链)
+0 21 * * * cd /root/.openclaw/workspace/skills/daily-report && python3 evening_news.py >> /var/log/evening-news.log 2>&1
+
+# 系统健康巡检 - 每天10:00检查
+0 10 * * * cd /root/.openclaw/workspace/skills/daily-report && python3 health_check.py >> /var/log/health-check.log 2>&1
+
+# 全站备份 - 每天3:30
+30 3 * * * cd /root/.openclaw/workspace && python3 scripts/site_backup.py >> /var/log/site-backup.log 2>&1
+
+# 记忆归档 - 每周日凌晨3:30
+30 3 * * 0 cd /root/.openclaw/workspace && python3 scripts/memory_archive.py >> /var/log/memory-archive.log 2>&1
+
+# 性能数据采集 - 每4小时
+0 */4 * * * cd /root/.openclaw/workspace && python3 scripts/collect_metrics.py >> /var/log/metrics.log 2>&1
+
+# 周报推送 - 每周日晚20:00
+0 20 * * 0 cd /root/.openclaw/workspace/skills/daily-report && python3 weekly_report.py >> /var/log/weekly-report.log 2>&1
+
+# 高频心跳检查 - 每30分钟检查远程服务器
+*/30 * * * * cd /root/.openclaw/workspace && python3 scripts/heartbeat_check.py >> /var/log/heartbeat.log 2>&1
+
+# 故障预测 - 每天14:00检查
+0 14 * * * cd /root/.openclaw/workspace && python3 scripts/failure_prediction.py >> /var/log/prediction.log 2>&1
+
+
+
+# 月报推送 - 每月最后一天20:00
+0 20 28-31 * * [ $(date +\%d -d tomorrow) = 01 ] && cd /root/.openclaw/workspace/skills/daily-report && python3 monthly_report.py >> /var/log/monthly-report.log 2>&1

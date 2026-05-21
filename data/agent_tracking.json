@@ -1,0 +1,1790 @@
+{
+  "agents": {
+    "01-frontend-design.md": {
+      "hash": "cdc78125243a4ea274ffeadc8c005f0e",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        },
+        {
+          "date": "2026-04-16",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "07-security-engineer.md": {
+      "hash": "994e7092108a3e19dcd8cda89ae0981f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "06-ui-designer.md": {
+      "hash": "9a9198628e76bcb7a780a38be92c741d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "06-ux-architect.md": {
+      "hash": "42c67d9e62dffcb443a643a81fd5fb57",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "07-threat-detection.md": {
+      "hash": "0cd8104815bb44bc93f3a143179f2e4d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-ai-data-remediation-engineer.md": {
+      "hash": "9e5b136d5bba0d0bedfc1decdb1c1dc9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-ai-engineer.md": {
+      "hash": "a7a7d333e84c44b15553802ecafdcf90",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-autonomous-optimization-architect.md": {
+      "hash": "296536d70dcbda75fca4323dae18b733",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-backend-architect.md": {
+      "hash": "75d7bd713258e3ad778fbd69266f7ecf",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        },
+        {
+          "date": "2026-04-16",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-cms-developer.md": {
+      "hash": "0be19c5cd9766ae6e5b8ebe199c2a8b2",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-code-reviewer.md": {
+      "hash": "49c0e31f9222c29c16651d6fe7420675",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-codebase-onboarding-engineer.md": {
+      "hash": "712657f787d17fbc02caec685df0b02b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-data-engineer.md": {
+      "hash": "1363196709c2af386768c1d101c6f737",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-database-optimizer.md": {
+      "hash": "e016e0e2df6090d46568ec57b4b83931",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-devops-automator.md": {
+      "hash": "80c301bd71ec4dc4f0aced5c823a7330",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-email-intelligence-engineer.md": {
+      "hash": "5491255463823ef2936ee63686137f75",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-embedded-firmware-engineer.md": {
+      "hash": "6c8310407c918cbb25e2391918e5ffa3",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-feishu-integration-developer.md": {
+      "hash": "7a5e37b0ce80f9a695acbd337d786666",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-filament-optimization-specialist.md": {
+      "hash": "85283879cbcd53875cf9473fa269e9ed",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-frontend-developer.md": {
+      "hash": "e4cf6683e2f5f68aeb7f7cbf6115a972",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-git-workflow-master.md": {
+      "hash": "0660296d952ae8f2243320e64c469283",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-incident-response-commander.md": {
+      "hash": "5d83c33eebb69907a588d46914c8067b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-minimal-change-engineer.md": {
+      "hash": "a2fb24f6d99d4f66cb44af0cae5be6ce",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-mobile-app-builder.md": {
+      "hash": "d3c455aa81c5687327d7f095539866b7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-rapid-prototyper.md": {
+      "hash": "dabc760c8fddab39fcae152a75da5a75",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-security-engineer.md": {
+      "hash": "0a4b31fabd611634bb46f8d879171054",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-senior-developer.md": {
+      "hash": "79f0a0120d2a856e8f6e3078ab1ed913",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-software-architect.md": {
+      "hash": "f9f864285bd1862b5f1ce575bee2af18",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-solidity-smart-contract-engineer.md": {
+      "hash": "d72d312b73ee50c8ac3a7f837e12dba9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-sre.md": {
+      "hash": "66aa2eebd6720a8a3b9e8abc30a52c54",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-technical-writer.md": {
+      "hash": "a863a3b90883126c37d7d165e3667b3c",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-threat-detection-engineer.md": {
+      "hash": "c7ac7298ef24ee4621b0e4b1d8b5c9f9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-voice-ai-integration-engineer.md": {
+      "hash": "452cdbb0d6abf184383b8e77607af870",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "engineering/engineering-wechat-mini-program-developer.md": {
+      "hash": "eb6acfc11e5194092e5a1dd6dd45a554",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/accounts-payable-agent.md": {
+      "hash": "f3cd4279a0bd9f766f2b970c7507d2c4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/agentic-identity-trust.md": {
+      "hash": "7d57b32c522b806bfdd1e5427fdda5c0",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/agents-orchestrator.md": {
+      "hash": "00983d84ee55e54658a3fff545de1d1d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/automation-governance-architect.md": {
+      "hash": "a4222c6888fe032a4ec813e82b06e7b9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/blockchain-security-auditor.md": {
+      "hash": "93cd123ed051e393fb8407a387e3d782",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/compliance-auditor.md": {
+      "hash": "952374f8bc46d60ebd9bcbaa5765eea8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/corporate-training-designer.md": {
+      "hash": "23968e983573f6c5ea99c66fb8fa8342",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/customer-service.md": {
+      "hash": "05b6488ab44f90e0deb8c56d81fa6397",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/data-consolidation-agent.md": {
+      "hash": "8fe7373c31f377023d342b99386e3ca8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/government-digital-presales-consultant.md": {
+      "hash": "a08ce3ef639e9c53a322259bd320b48e",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/healthcare-customer-service.md": {
+      "hash": "65f5967ac92ce767d38e2efb36644dd1",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/healthcare-marketing-compliance.md": {
+      "hash": "ee1a04ffab1b493df3c7cbcde354cb87",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/hospitality-guest-services.md": {
+      "hash": "625682225caae38d67e92f045345a8f7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/hr-onboarding.md": {
+      "hash": "a547a537acbbba95f77f2af9b1302069",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/identity-graph-operator.md": {
+      "hash": "a04a0383ebf59a52907415b2f82b9d96",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/language-translator.md": {
+      "hash": "95f499c9d24a2afe13eccabffa874058",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/legal-billing-time-tracking.md": {
+      "hash": "0eea3262105744f8a4a0efedd1379acd",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/legal-client-intake.md": {
+      "hash": "7cc6e16fc14fcac00d3706a856f8e7c6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/legal-document-review.md": {
+      "hash": "cc387711a61cc88dd18569042d538ba6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/loan-officer-assistant.md": {
+      "hash": "a9cbb8ac5a8b70458cde21ac33a778da",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/lsp-index-engineer.md": {
+      "hash": "48edd36c62abbdf8fd8bfdc19a54ceb9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/real-estate-buyer-seller.md": {
+      "hash": "fa7c2dc47147f7720a0a47e3e7f8ca0d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/recruitment-specialist.md": {
+      "hash": "1463e2aaf8ce7673a3dc05a67d021b38",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/report-distribution-agent.md": {
+      "hash": "2e7953a620064dc69252f7931f575f60",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/retail-customer-returns.md": {
+      "hash": "8959afe5dbecd552f840874c9b86c0e8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/sales-data-extraction-agent.md": {
+      "hash": "cd644e34d6e3c3b30f94e82b1e2c360e",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/sales-outreach.md": {
+      "hash": "3540b9c1f35e467192471e0e9f1920a8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-chief-of-staff.md": {
+      "hash": "b6c57d8da0d2c44194d89f39edd9891d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-civil-engineer.md": {
+      "hash": "6e5fcc5578dd27170b4181161d5bb29c",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-cultural-intelligence-strategist.md": {
+      "hash": "2e3a1d596bc56f915343ffc832b30b64",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-developer-advocate.md": {
+      "hash": "aeaf9416d172e27a0e618b48717cd7d4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-document-generator.md": {
+      "hash": "d11e47c5485a896c33367b39a23e0114",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-french-consulting-market.md": {
+      "hash": "ee7483594f6796f0141ff098b17db3e4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-korean-business-navigator.md": {
+      "hash": "e9382d1c2ca988fc51733f1b6ac3724f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-mcp-builder.md": {
+      "hash": "e0aa050ea561689c98a1206821affd0f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-model-qa.md": {
+      "hash": "34a98d62cabfb5b5ab8a30f232636710",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-salesforce-architect.md": {
+      "hash": "f93a51e70ffef8672d9abb022cf91cd8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/specialized-workflow-architect.md": {
+      "hash": "df7cec11105c51cedeebd3deb9deb752",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/study-abroad-advisor.md": {
+      "hash": "79a5d0e346aa54bcfc2202310098a1f3",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/supply-chain-strategist.md": {
+      "hash": "6fac9a1f5f1b253590564353ef48b7ef",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "specialized/zk-steward.md": {
+      "hash": "716659322b2e51a11f1ce4245d1d2272",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-agentic-search-optimizer.md": {
+      "hash": "5c546b6dbdc1d59a6cebfa8a611b7a24",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-ai-citation-strategist.md": {
+      "hash": "5cfc96f1ee08dc89d8a0b6c2103e9dff",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-app-store-optimizer.md": {
+      "hash": "3e8b4431d55e22aeba8b51ec608226b3",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-baidu-seo-specialist.md": {
+      "hash": "0b37bd61335d3d71fc577299797dc6e9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-bilibili-content-strategist.md": {
+      "hash": "aa485684934bdbf67a05da848a38f99d",
+      "first_seen": "2026-04-12",
+      "optimizations": []
+    },
+    "marketing/marketing-book-co-author.md": {
+      "hash": "d9c8a345b9d8dd0062648ba814f16446",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-carousel-growth-engine.md": {
+      "hash": "ede71e4eba32a54cac904eb78458820d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-china-ecommerce-operator.md": {
+      "hash": "5058edbf8f815d858b580c330e7fe8da",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-china-market-localization-strategist.md": {
+      "hash": "172786ade16b4f66093b7df81034054e",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-content-creator.md": {
+      "hash": "da295728579e82528c49577880404353",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        },
+        {
+          "date": "2026-04-16",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-cross-border-ecommerce.md": {
+      "hash": "9a685cd44b3ef90091dd9033cd0f14f6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-douyin-strategist.md": {
+      "hash": "814fb4d65d275f78d00dd53e5d9c1afb",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-growth-hacker.md": {
+      "hash": "8c12504ef4515b2b02ed6b42292a5fef",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-instagram-curator.md": {
+      "hash": "45bc1f10af5152eb07d5ba02d7693a7c",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-kuaishou-strategist.md": {
+      "hash": "84fa98e3b5e944d7fd8ad4cf37ba74dc",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-linkedin-content-creator.md": {
+      "hash": "f9c4c7038eeb6d63aed21457130be6c7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-livestream-commerce-coach.md": {
+      "hash": "c4385698ffad0d44f4b7c312fe6cfb4b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-podcast-strategist.md": {
+      "hash": "6a4117f6903c216126d22ad007dbb60a",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-private-domain-operator.md": {
+      "hash": "0106d8231e82e3a310bda9e7e3d90fad",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-reddit-community-builder.md": {
+      "hash": "c392911a5e320d4bb409d66f23c92be2",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-seo-specialist.md": {
+      "hash": "588a60311d09983c047eb207b5466500",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-short-video-editing-coach.md": {
+      "hash": "4752feebc3c2e693aaab9826c04d22f4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-social-media-strategist.md": {
+      "hash": "71e0873307fa1fa454d7d7ad9de6216b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-tiktok-strategist.md": {
+      "hash": "31e5b2c2e2bcad747592a60447dbfdfa",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-twitter-engager.md": {
+      "hash": "3e8fa742cd8d290b96cb667c3745073f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-video-optimization-specialist.md": {
+      "hash": "a0b5e96130e74e9999fb552a9c0c4a53",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-wechat-official-account.md": {
+      "hash": "8e351adcf5d53ddc0b73122e79f04951",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-weibo-strategist.md": {
+      "hash": "089dee2f813c0f3fd476218ff8caa177",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-xiaohongshu-specialist.md": {
+      "hash": "52acf7a060b2031c3d2066d49b6967d1",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "marketing/marketing-zhihu-strategist.md": {
+      "hash": "cd663f819b1823edd373852e9188a722",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-brand-guardian.md": {
+      "hash": "14e9e1b55e4deedb4cd3ec3ccfdf6c73",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-image-prompt-engineer.md": {
+      "hash": "f73124888b22de2297089ba8a676280f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-inclusive-visuals-specialist.md": {
+      "hash": "c21829796077c3d2a43577b587376321",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-ui-designer.md": {
+      "hash": "7c2ce2b584f9c481ed52d2ce201b8459",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        },
+        {
+          "date": "2026-04-16",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-ux-architect.md": {
+      "hash": "0ee75e98c1a418945f161126aef92deb",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-ux-researcher.md": {
+      "hash": "ab82a97a35abb75242992caa1ab7486f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-visual-storyteller.md": {
+      "hash": "70a619efa01e1c7001e9d571e2644c1a",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "design/design-whimsy-injector.md": {
+      "hash": "17532e85e7db4f5d97cb9a61289e4916",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-account-strategist.md": {
+      "hash": "453091743fea4d616c49f5356d0064b6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-coach.md": {
+      "hash": "5d0656ac7009463f8990a582c00ec9da",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-deal-strategist.md": {
+      "hash": "84378c0aceac6f68cb6a035e7d33b399",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-discovery-coach.md": {
+      "hash": "17a15a1457cea757d33e1cb7fe135cfe",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-engineer.md": {
+      "hash": "a72bf03ca3cd58d74a2877c0021a5f05",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-outbound-strategist.md": {
+      "hash": "e3a92b5b318faf6c0b624bc3f885d139",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-pipeline-analyst.md": {
+      "hash": "a625d7b46b8ca3f4f5c756740ea7fd0f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "sales/sales-proposal-strategist.md": {
+      "hash": "f7b01dff7f6d0922d58948b373324225",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-accessibility-auditor.md": {
+      "hash": "3479462939b28a5664b7c49fa8f85adf",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-api-tester.md": {
+      "hash": "7b6c18ba5d75fca3b27b6b4100503903",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-evidence-collector.md": {
+      "hash": "a15718596a96ab4389c2691304cfaecd",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-performance-benchmarker.md": {
+      "hash": "66025b3203c8dbfec1f6dcb4cee8ad94",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-reality-checker.md": {
+      "hash": "a74986d26b1e4cd1d42eef54dae748ac",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-test-results-analyzer.md": {
+      "hash": "108a1aba2d18df7562a52cb45f0eeaa9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-tool-evaluator.md": {
+      "hash": "918e30068b9de9510ef85f64f6cff36d",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "testing/testing-workflow-optimizer.md": {
+      "hash": "6f0ee95c6c087ef7d43dd941362034e8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-auditor.md": {
+      "hash": "521ab47d9fb1fcbd22bfa92c4fe0f5e9",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-creative-strategist.md": {
+      "hash": "cb3869ddb6f5387d76c29aabba44f412",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-paid-social-strategist.md": {
+      "hash": "5ef64dd20e66b00e9c4705ebb1bd950f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-ppc-strategist.md": {
+      "hash": "d04da6f2e7b5430469efdadbb5b698ab",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-programmatic-buyer.md": {
+      "hash": "1a59b45f294af2d733a6d1cccb6467a7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-search-query-analyst.md": {
+      "hash": "9a0198f98f01e672f4390b2823a0fab0",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "paid-media/paid-media-tracking-specialist.md": {
+      "hash": "9568183a501b30bc6a9867fbb0d6c924",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-management-experiment-tracker.md": {
+      "hash": "faa1f3db11efb560b6d932ab9a0a2c39",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-management-jira-workflow-steward.md": {
+      "hash": "8839e40792ab0432e408c3b93ca05464",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-management-project-shepherd.md": {
+      "hash": "21e79f308e91bcdaf8d8113a537fe74a",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-management-studio-operations.md": {
+      "hash": "5748481a64be7c78eda6d603a4874a98",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-management-studio-producer.md": {
+      "hash": "5629611b1c83196ab472340105505de2",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "project-management/project-manager-senior.md": {
+      "hash": "dbf73680e40006b976b4edf8d84685a4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-analytics-reporter.md": {
+      "hash": "070d02ba380b6e5e4b9c14ff14c0efc7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-executive-summary-generator.md": {
+      "hash": "507aa709874dfaceab9b8fe40573d137",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-finance-tracker.md": {
+      "hash": "73ba42e25c3ee3760640c5d331ed9ac5",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-infrastructure-maintainer.md": {
+      "hash": "9ab36f4017bac7d5c647c5030612dd6f",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-legal-compliance-checker.md": {
+      "hash": "f2b696b6c73a7426f224a91a1a8a9c48",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "support/support-support-responder.md": {
+      "hash": "70497101c0e92ab48e2d7011424fbde1",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/macos-spatial-metal-engineer.md": {
+      "hash": "a40028833939e92db53fdfb644fb6bb1",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/terminal-integration-specialist.md": {
+      "hash": "a1326d1257168d9986b9358c4ff55dcf",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/visionos-spatial-engineer.md": {
+      "hash": "f1d2bf72ba119faf0ae991099cc77eb4",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/xr-cockpit-interaction-specialist.md": {
+      "hash": "e3945144311d6d955841d95521a7742c",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/xr-immersive-developer.md": {
+      "hash": "0ff5df7e32c0270aca367588d793dfef",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "spatial-computing/xr-interface-architect.md": {
+      "hash": "5002e7766315c45cb4f281a92c6c48ba",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "product/product-behavioral-nudge-engine.md": {
+      "hash": "7a96d7ca0f5bc612194c52009f5b65bb",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "product/product-feedback-synthesizer.md": {
+      "hash": "67dd99c53667e6824131aa6ed435390a",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "product/product-manager.md": {
+      "hash": "a5120ec952f65d30d056deabed4907c6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        },
+        {
+          "date": "2026-04-16",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "product/product-sprint-prioritizer.md": {
+      "hash": "f6bd759508332c9e7923341dbd45f927",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "product/product-trend-researcher.md": {
+      "hash": "80b2cd41bb9870f50b086c88df9370a6",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "finance/finance-bookkeeper-controller.md": {
+      "hash": "9e807b7b425f3a2d27584a7952e98308",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "finance/finance-financial-analyst.md": {
+      "hash": "5815e26fa74ec89ce5149142712fcd2b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "finance/finance-fpa-analyst.md": {
+      "hash": "4434cb27223f608b9ebc8d8de2cffad5",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "finance/finance-investment-researcher.md": {
+      "hash": "64a3d444b6fa57447fa6e83cd4fbf006",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "finance/finance-tax-strategist.md": {
+      "hash": "92ce6819b09a6422b18fad61162abcc7",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "academic/academic-anthropologist.md": {
+      "hash": "835c22240a0017b2a5d90f5d9bc93c30",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "academic/academic-geographer.md": {
+      "hash": "d5e2f4dafae3150bc97fb2db1c7446d8",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "academic/academic-historian.md": {
+      "hash": "d07b115aea57ae89033906732a57a727",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "academic/academic-narratologist.md": {
+      "hash": "15a3388895dd04c45328a75359d0b696",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "academic/academic-psychologist.md": {
+      "hash": "a6a917c256b3cb10a8bdd5defeae5546",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "game-development/game-audio-engineer.md": {
+      "hash": "f25c34445e039d6115c3268e3a551ddd",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "game-development/game-designer.md": {
+      "hash": "77c5526c88a385550ac909658132d830",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "game-development/level-designer.md": {
+      "hash": "671ef47bd675dfab34736cdbcb202281",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "game-development/narrative-designer.md": {
+      "hash": "9d99292ae158f979b64e4e2eb70523b3",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "game-development/technical-artist.md": {
+      "hash": "5bb95de7ad66f50dfb40cc52a4121a9e",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "strategy/EXECUTIVE-BRIEF.md": {
+      "hash": "88e0b59708c50b95acf48f39df021316",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "strategy/QUICKSTART.md": {
+      "hash": "e0fc8193102a876792d93d9fe1e454e0",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    },
+    "strategy/nexus-strategy.md": {
+      "hash": "98c48eaf5e1aeb4df4cf986c9a3a4f5b",
+      "first_seen": "2026-04-12",
+      "optimizations": [
+        {
+          "date": "2026-04-12",
+          "description": "文件内容更新"
+        }
+      ]
+    }
+  },
+  "last_check": "2026-04-20T15:51:08.026299"
+}

@@ -1,0 +1,11 @@
+{
+  "fetch_time": "2026-05-10T00:00:11.761527",
+  "products": [
+    {
+      "coin": "USDE",
+      "platform": "Ethereal",
+      "apy": 16.0,
+      "time_left": null
+    }
+  ]
+}

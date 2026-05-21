@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-05-07T00:00:01.815793",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 615,
+      "free_mb": 359,
+      "available_mb": 2772,
+      "usage_pct": 16.7
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.02,
+      "15min": 0.0
+    },
+    "processes": 113
+  },
+  {
+    "timestamp": "2026-05-07T04:00:01.866935",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 601,
+      "free_mb": 335,
+      "available_mb": 2786,
+      "usage_pct": 16.4
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.01,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 106
+  },
+  {
+    "timestamp": "2026-05-07T08:00:02.107771",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 602,
+      "free_mb": 361,
+      "available_mb": 2785,
+      "usage_pct": 16.4
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 105
+  },
+  {
+    "timestamp": "2026-05-07T12:00:02.334777",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 604,
+      "free_mb": 328,
+      "available_mb": 2783,
+      "usage_pct": 16.4
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 105
+  },
+  {
+    "timestamp": "2026-05-07T16:00:02.101898",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 605,
+      "free_mb": 289,
+      "available_mb": 2782,
+      "usage_pct": 16.5
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.3G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 102
+  },
+  {
+    "timestamp": "2026-05-07T20:00:02.129898",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 610,
+      "free_mb": 317,
+      "available_mb": 2773,
+      "usage_pct": 16.6
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.2G",
+      "available": "38G",
+      "usage_pct": 20
+    },
+    "load": {
+      "1min": 0.0,
+      "5min": 0.0,
+      "15min": 0.0
+    },
+    "processes": 106
+  }
+]

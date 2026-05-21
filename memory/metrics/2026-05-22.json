@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-05-22T00:00:02.309788",
+    "cpu": {
+      "usage": 87.5
+    },
+    "memory": {
+      "total_mb": 3591,
+      "used_mb": 1893,
+      "free_mb": 306,
+      "available_mb": 1698,
+      "usage_pct": 52.7
+    },
+    "disk": {
+      "total": "60G",
+      "used": "25G",
+      "available": "36G",
+      "usage_pct": 42
+    },
+    "load": {
+      "1min": 1.69,
+      "5min": 1.69,
+      "15min": 1.76
+    },
+    "processes": 150
+  }
+]

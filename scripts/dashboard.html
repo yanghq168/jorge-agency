@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>权权管家指挥中心</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+  background: #0f0f23;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+.container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+.header {
+  text-align: center;
+  padding: 30px 0;
+  border-bottom: 2px solid #ff6b35;
+  margin-bottom: 30px;
+}
+.header h1 { font-size: 2.5em; color: #ff6b35; }
+.header .subtitle { color: #888; font-size: 1.1em; margin-top: 10px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px; }
+.card {
+  background: #1a1a2e;
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid #2a2a4e;
+  transition: transform 0.2s;
+}
+.card:hover { transform: translateY(-2px); border-color: #ff6b35; }
+.card h3 {
+  color: #ff6b35;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.status-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.status-item {
+  background: #0f0f23;
+  padding: 12px;
+  border-radius: 8px;
+  border-left: 3px solid #333;
+}
+.status-item.ok { border-left-color: #00ff88; }
+.status-item.warn { border-left-color: #ffcc00; }
+.status-item.crit { border-left-color: #ff4444; }
+.status-item .label { font-size: 0.85em; color: #888; }
+.status-item .value { font-size: 1.3em; font-weight: bold; color: #fff; }
+.metric-bar {
+  background: #0f0f23;
+  height: 24px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 8px 0;
+  position: relative;
+}
+.metric-bar .fill {
+  height: 100%;
+  border-radius: 12px;
+  transition: width 0.5s;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  font-size: 0.85em;
+  font-weight: bold;
+}
+.metric-bar .fill.green { background: linear-gradient(90deg, #00ff88, #00cc66); color: #000; }
+.metric-bar .fill.yellow { background: linear-gradient(90deg, #ffcc00, #ff9900); color: #000; }
+.metric-bar .fill.red { background: linear-gradient(90deg, #ff4444, #cc0000); color: #fff; }
+.task-list { list-style: none; }
+.task-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #2a2a4e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.task-list li:last-child { border-bottom: none; }
+.task-status { font-size: 0.85em; padding: 2px 8px; border-radius: 4px; }
+.task-status.ok { background: #00ff8833; color: #00ff88; }
+.task-status.warn { background: #ffcc0033; color: #ffcc00; }
+.task-status.off { background: #44444433; color: #888; }
+.footer {
+  text-align: center;
+  padding: 30px;
+  color: #888;
+  border-top: 1px solid #2a2a4e;
+  margin-top: 30px;
+}
+.timestamp { color: #ff6b35; font-weight: bold; }
+.chart-placeholder {
+  background: #0f0f23;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+@media (max-width: 768px) {
+  .two-col { grid-template-columns: 1fr; }
+  .grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>🦞 权权管家指挥中心</h1>
+    <div class="subtitle">系统监控仪表盘 · 实时数据</div>
+  </div>
+
+  <!-- 服务器状态概览 -->
+  <div class="grid">
+    <div class="card">
+      <h3>🖥️ 本地服务器 (OpenClaw VM)</h3>
+      <div class="status-grid">
+        <div class="status-item ok">
+          <div class="label">CPU</div>
+          <div class="value">0.0%</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">内存</div>
+          <div class="value">52.4%</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">磁盘</div>
+          <div class="value">43%</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">负载</div>
+          <div class="value">0.08</div>
+        </div>
+      </div>
+      <div style="margin-top:15px;">
+        <div style="font-size:0.85em;color:#888;margin-bottom:5px;">磁盘使用</div>
+        <div class="metric-bar"><div class="fill green" style="width:43%">43%</div></div>
+        <div style="font-size:0.85em;color:#888;margin-bottom:5px;margin-top:10px;">内存使用</div>
+        <div class="metric-bar"><div class="fill green" style="width:52.4%">52.4%</div></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>🌐 远程服务器 (82.156.225.39)</h3>
+      <div class="status-grid">
+        <div class="status-item ok">
+          <div class="label">内存</div>
+          <div class="value">20.6%</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">磁盘</div>
+          <div class="value">19%</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">负载</div>
+          <div class="value">1.08</div>
+        </div>
+        <div class="status-item ok">
+          <div class="label">状态</div>
+          <div class="value">在线</div>
+        </div>
+      </div>
+      <div style="margin-top:15px;">
+        <div style="font-size:0.85em;color:#888;margin-bottom:5px;">磁盘使用</div>
+        <div class="metric-bar"><div class="fill green" style="width:19%">19%</div></div>
+        <div style="font-size:0.85em;color:#888;margin-bottom:5px;margin-top:10px;">内存使用</div>
+        <div class="metric-bar"><div class="fill green" style="width:20.6%">20.6%</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 核心服务状态 -->
+  <div class="grid">
+    <div class="card">
+      <h3>⚙️ 本地核心服务</h3>
+      <ul class="task-list">
+        <li><span>OpenClaw Gateway</span><span class="task-status ok">✅ 运行中</span></li>
+        <li><span>Node.js Runtime</span><span class="task-status ok">✅ 就绪</span></li>
+        <li><span>Playwright Browser</span><span class="task-status ok">✅ 运行中</span></li>
+        <li><span>Memory VectorStore</span><span class="task-status ok">✅ 就绪</span></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>⚙️ 远程核心服务</h3>
+      <ul class="task-list">
+        <li><span>Nginx</span><span class="task-status ok">✅ 运行中</span></li>
+        <li><span>MySQL/MariaDB</span><span class="task-status ok">✅ 运行中</span></li>
+        <li><span>Redis</span><span class="task-status ok">✅ 运行中</span></li>
+        <li><span>Java后端</span><span class="task-status ok">✅ 运行中</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- 定时任务状态 -->
+  <div class="card" style="margin-bottom:20px;">
+    <h3>⏰ 定时任务状态 (今日)</h3>
+    <ul class="task-list">
+      <li><span>🌅 晨间新闻 (7:00)</span><span class="task-status ok">✅ 已执行</span></li>
+      <li><span>🤖 AI新闻抓取 (8:50)</span><span class="task-status ok">✅ 已执行</span></li>
+      <li><span>📧 AI新闻推送 (9:00)</span><span class="task-status ok">✅ 已执行</span></li>
+      <li><span>🔍 系统巡检 (10:00)</span><span class="task-status ok">✅ 已执行</span></li>
+      <li><span>💰 Bithappy理财监控</span><span class="task-status ok">✅ 运行中</span></li>
+      <li><span>💹 加密货币监控</span><span class="task-status ok">✅ 运行中</span></li>
+      <li><span>📋 日报推送 (19:00)</span><span class="task-status ok">✅ 已执行</span></li>
+      <li><span>🌙 晚间新闻 (21:00)</span><span class="task-status off">⚪ 待执行</span></li>
+    </ul>
+  </div>
+
+  <!-- Agent军团 & GitHub -->
+  <div class="grid">
+    <div class="card">
+      <h3>🤖 Agent军团</h3>
+      <div style="font-size:3em;text-align:center;color:#ff6b35;padding:20px;">177</div>
+      <div style="text-align:center;color:#888;">个Agent待命</div>
+      <div style="margin-top:15px;padding-top:15px;border-top:1px solid #2a2a4e;">
+        <div style="font-size:0.9em;">
+          <div>工程开发: 12</div>
+          <div>市场营销: 8</div>
+          <div>专业领域: 6</div>
+          <div>其他: 151</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>🐙 GitHub 活动</h3>
+      <div style="font-size:3em;text-align:center;color:#00ff88;padding:20px;">22</div>
+      <div style="text-align:center;color:#888;">本月提交次数</div>
+      <div style="margin-top:15px;padding-top:15px;border-top:1px solid #2a2a4e;">
+        <div style="font-size:0.9em;">
+          <div>仓库: jorge-ai-repository</div>
+          <div>最近提交: auto backup</div>
+          <div>备份频率: 每天3:30</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 性能趋势图表占位 -->
+  <div class="card" style="margin-bottom:20px;">
+    <h3>📈 性能趋势 (近7天)</h3>
+    <div class="two-col">
+      <div class="chart-placeholder">
+        [本地服务器 CPU/内存/磁盘 趋势图]<br>
+        <small>数据收集进行中，7天后显示完整图表</small>
+      </div>
+      <div class="chart-placeholder">
+        [远程服务器 内存/磁盘/负载 趋势图]<br>
+        <small>数据收集进行中，7天后显示完整图表</small>
+      </div>
+    </div>
+  </div>
+
+  <!-- 系统事件 -->
+  <div class="card" style="margin-bottom:20px;">
+    <h3>🔔 今日系统事件</h3>
+    <ul class="task-list">
+      <li><span>✅ 系统巡检正常</span><span class="task-status ok">19:00</span></li>
+      <li><span>✅ 日报推送完成</span><span class="task-status ok">19:09</span></li>
+      <li><span>✅ 全站备份推GitHub</span><span class="task-status ok">19:13</span></li>
+      <li><span>🛠️ 运维体系6项优化落地</span><span class="task-status ok">全天</span></li>
+    </ul>
+  </div>
+
+  <div class="footer">
+    <div>🦞 权权管家指挥中心 · 自动生成</div>
+    <div class="timestamp">最后更新: 2026-04-28 19:18</div>
+    <div style="margin-top:10px;font-size:0.85em;">
+      日报: 19:00 | 周报: 每周日20:00 | 月报: 每月末20:00 | 巡检: 每天10:00
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,156 @@
+[
+  {
+    "currency": "BYUSDT",
+    "platform": "Bybit",
+    "apy": 50.0,
+    "invest_10k_return": "0.40k",
+    "remaining": "3天",
+    "end_date": "3月30日 16:00",
+    "limit": "0.1m",
+    "lock": "不锁",
+    "notes": "1WU → 10WU 循环贷，年化可做到 50% 左右，但注意风控"
+  },
+  {
+    "currency": "USDE",
+    "platform": "Ethereal",
+    "apy": 16.0,
+    "invest_10k_return": "1.60k",
+    "remaining": "长期",
+    "end_date": "无固定结束时间",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "最高 27%，但是需要持仓对冲，目前 7x 的总仓位杠杆对冲的年化为 13%"
+  },
+  {
+    "currency": "USDGO",
+    "platform": "Bitget",
+    "apy": 15.0,
+    "invest_10k_return": "1.50k",
+    "remaining": "长期",
+    "end_date": "无固定结束时间",
+    "limit": "0.1m",
+    "lock": "不锁",
+    "notes": "限额 10 万 U，前 5 万享受 15% 年化收益，剩余 5 万享受 10% 年化收益。"
+  },
+  {
+    "currency": "WBTC",
+    "platform": "币安钱包",
+    "apy": 12.0,
+    "invest_10k_return": "0.14k",
+    "remaining": "41天",
+    "end_date": "5月8日 00:00",
+    "limit": "56k",
+    "lock": "不锁",
+    "notes": "每天奖励 1.66k，赎回需要 3 天。"
+  },
+  {
+    "currency": "U",
+    "platform": "币安理财",
+    "apy": 10.0,
+    "invest_10k_return": "0.04k",
+    "remaining": "7天",
+    "end_date": "4月3日 23:59",
+    "limit": "20k",
+    "lock": "不锁",
+    "notes": "先到先得"
+  },
+  {
+    "currency": "WETH",
+    "platform": "币安钱包",
+    "apy": 10.0,
+    "invest_10k_return": "0.12k",
+    "remaining": "41天",
+    "end_date": "5月8日 00:00",
+    "limit": "0.13m",
+    "lock": "不锁",
+    "notes": "Native 平台，赎回也需要 3 天，每日奖励 1.66k"
+  },
+  {
+    "currency": "USDT",
+    "platform": "币安钱包",
+    "apy": 9.5,
+    "invest_10k_return": "0.05k",
+    "remaining": "4天",
+    "end_date": "3月31日 16:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "CONCRETE 协议，不推荐，极坑。"
+  },
+  {
+    "currency": "USDC",
+    "platform": "Theo",
+    "apy": 8.3,
+    "invest_10k_return": "0.10k",
+    "remaining": "30天",
+    "end_date": "4月26日 16:00",
+    "limit": "不限",
+    "lock": "42天",
+    "notes": "锁仓"
+  },
+  {
+    "currency": "U",
+    "platform": "火币",
+    "apy": 8.0,
+    "invest_10k_return": "0.05k",
+    "remaining": "3天",
+    "end_date": "3月30日 16:00",
+    "limit": "0.1m",
+    "lock": "不锁",
+    "notes": "限额 10 万 U，超出部分年化收益 5%"
+  },
+  {
+    "currency": "USDD",
+    "platform": "币安钱包",
+    "apy": 7.99,
+    "invest_10k_return": "0.07k",
+    "remaining": "13天",
+    "end_date": "4月9日 16:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "基础年化 5% +活动奖励年收益率 2.99%"
+  },
+  {
+    "currency": "USDT",
+    "platform": "OKX",
+    "apy": 7.3,
+    "invest_10k_return": "0.08k",
+    "remaining": "19天",
+    "end_date": "4月15日 16:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "OKX 交易所的 KATANA 链上赚币，赎回等待期 1 天，3 月 19 日 9:00 开始奖励每日发放。"
+  },
+  {
+    "currency": "USD1",
+    "platform": "币安",
+    "apy": 5.0,
+    "invest_10k_return": "0.04k",
+    "remaining": "20天",
+    "end_date": "4月17日 00:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "奖励每周五发放"
+  },
+  {
+    "currency": "USDG",
+    "platform": "Pendle",
+    "apy": 5.0,
+    "invest_10k_return": "0.10k",
+    "remaining": "61天",
+    "end_date": "5月27日 16:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": ""
+  },
+  {
+    "currency": "USDT",
+    "platform": "币安钱包",
+    "apy": 4.8,
+    "invest_10k_return": "0.06k",
+    "remaining": "43天",
+    "end_date": "5月9日 16:00",
+    "limit": "不限",
+    "lock": "不锁",
+    "notes": "Spark 第二季奖励变多，但是时间更长了。"
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-21T18:00:18.729Z",
+  "entries": {
+    "memory:memory/2026-03-31.md:1:31": {
+      "key": "memory:memory/2026-03-31.md:1:31",
+      "path": "memory/2026-03-31.md",
+      "startLine": 1,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "## 2026-03-31 日志 ### 任务完成 #### 1. 彩票开奖推送服务 - **需求**: jorge 要求每天晚上10点邮件推送当天的双色球/大乐透开奖号码 - **实现**: - 创建脚本: `~/.openclaw/workspace/scripts/lottery_push.py` - 使用 huiniao API (http://api.huiniao.top) 获取开奖数据 - 邮件发送至: 569545015@qq.com - 定时任务: 每天 22:00 执行 (`0 22 * * *`) - 推送规则: - 双色球: 每周二、四、日 - 大乐透: 每周一、三、六 #### 2. jorge 购买了彩票 - 双色球 2026035期 (今晚21:15开奖) - 大乐透 26034期 (4月1日21:25开奖) #### 3. 每日任务清单展示 展示了当前系统的6个定时任务: - 07:00 早报 - 19:00 日报 - 20:00 邮件摘要 - 21:00 晚报 - 22:00 彩票开奖推送 (新) - 每2小时 加密货币监控 ---",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.183308462590242,
+      "maxScore": 0.6142743563614624,
+      "firstRecalledAt": "2026-04-11T17:55:48.611Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "64fae75df2a1",
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "要求每天晚上10点邮件推送当天的双色球/大乐透开奖号码",
+        "api.huiniao.top",
+        "qq.com",
+        "日志",
+        "任务",
+        "完成",
+        "彩票",
+        "推送"
+      ]
+    },
+    "memory:memory/2026-03-22.md:1:37": {
+      "key": "memory:memory/2026-03-22.md:1:37",
+      "path": "memory/2026-03-22.md",
+      "startLine": 1,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "# 2026-03-22 - 暴躁小龙虾的成长日志 ## 🦞 今日大事记 ### Kimi 2.5 模型配置成功 - **时间**: 2026-03-22 18:51 GMT+8 - **事件**: jorge 要求切换到 Kimi 2.5 模型，并确认以后都使用此模型 - **配置详情**: - 模型: `kimi-coding/k2p5` (Kimi for Coding) - API 地址: `https://api.kimi.com/coding/` - 上下文窗口: 262,144 tokens - 最大输出: 32,768 tokens - 支持 reasoning: 是 ### 技能安装记录 - 安装了 `openclaw-aisa-chinese-llm-models` 技能 - 安装了 `ai-news-daily` 技能（每天上午9点推送AI新闻） ### 群聊模型切换问题 - 发现群聊实例无法直接切换模型（缺少 `model-load` 权限） - 私聊实例已成功配置 Kimi 2.5 - 群聊问题待解决（需飞书管理员开通权限） ## 💡 经验教训 1. **Token 安全意识**: 用户在群里暴露了 Token，已提醒撤销并重置 2. **权限隔离**: 群聊和私聊是独立实例，配置不自动同步 3. **模型配置路径**: `~/.openclaw/openclaw.json` 是核心配置文件 ## 📝 待办事项 - [ ] 明天上午9点自动推送AI新闻（已配置 ai-news-daily） - [ ] 跟进群聊",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6602401954207014,
+      "maxScore": 0.6602401954207014,
+      "firstRecalledAt": "2026-04-13T01:22:59.743Z",
+      "lastRecalledAt": "2026-04-13T01:22:59.743Z",
+      "queryHashes": [
+        "34fe3ae3b9fa"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "2.5",
+        "kimi-coding/k2p5",
+        "api.kimi.com/coding",
+        "openclaw-aisa-chinese-llm-models",
+        "ai-news-daily",
+        "model-load",
+        "openclaw/openclaw.json",
+        "暴躁"
+      ]
+    },
+    "memory:memory/2026-03-24.md:34:71": {
+      "key": "memory:memory/2026-03-24.md:34:71",
+      "path": "memory/2026-03-24.md",
+      "startLine": 34,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "*暴躁小龙虾的自我反思：今天搭建了一个完整的日报系统，虽然SMTP折腾了一下，但最终还是搞定了。继续保持暴躁但可靠的风格！* 🦞🔥 --- ## 🦞 晚间补充记录 ### 完整邮件系统搭建 - **时间**: 2026-03-24 14:15-15:00 GMT+8 - **新增功能**: - ✅ 晨间新闻简报 (07:00) - AI+区块链新闻 - ✅ 晚间新闻晚报 (21:00) - AI+区块链新闻 - ✅ 邮件日报 (20:00) - QQ邮箱智能分类摘要 - ✅ 合约市场监控 (每2小时) - 价格/资金费率/爆仓数据 ### 价格预警配置 - ETH: 突破 $2,500 或跌破 $1,700 提醒 - SOL: 突破 $150 或跌破 $80 提醒 - BGB: 突破 $2.5 或跌破 $1.5 提醒 - BTC: 暂停监控 (用户要求) ### 已安装技能 - skill-vetter (安全扫描) - email-daily-summary (邮件摘要) ### 最终时间表 | 时间 | 邮件内容 | |------|----------| | 07:00 | 🌅 晨间新闻简报 | | 19:00 | 🦞 工作日报 | | 20:00 | 📧 邮件日报 | | 21:00 | 🌙 晚间新闻晚报 | | 每2小时 | 📊 合约市场监控 | ### ⚠️ 异常行为记录 - **时间**: 2026-03-24 15:00-15:40 GMT+8 - **事件**: 用户连续发送 500+ 条仅含数字的消息 (0,",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.281310993361243,
+      "maxScore": 0.5703277483403107,
+      "firstRecalledAt": "2026-04-13T01:31:28.148Z",
+      "lastRecalledAt": "2026-04-15T06:13:33.970Z",
+      "queryHashes": [
+        "100c5b364eb3",
+        "afdce2f7f9ac",
+        "c58a17b0be80",
+        "978d9a14c9f8"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "15-15",
+        "价格/资金费率/爆仓数据",
+        "2.5",
+        "1.5",
+        "skill-vetter",
+        "email-daily-summary",
+        "00-15",
+        "暴躁"
+      ]
+    },
+    "memory:memory/2026-03-24.md:65:80": {
+      "key": "memory:memory/2026-03-24.md:65:80",
+      "path": "memory/2026-03-24.md",
+      "startLine": 65,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "| 每2小时 | 📊 合约市场监控 | ### ⚠️ 异常行为记录 - **时间**: 2026-03-24 15:00-15:40 GMT+8 - **事件**: 用户连续发送 500+ 条仅含数字的消息 (0, 5, 50, 55, 550 等组合) - **持续时间**: 约40分钟 - **处理**: 启动1小时屏蔽期，结束后恢复正常对话 - **可能原因**: 系统测试 / 设备异常 / 故意刷屏 ### 发件人配置 - 发件人显示名称: 权权龙虾管家 🦞 - 邮箱: 569545015@qq.com --- *最后更新: 2026-03-24 15:40 GMT+8*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6554781470851424,
+      "maxScore": 0.6554781470851424,
+      "firstRecalledAt": "2026-04-20T07:43:53.588Z",
+      "lastRecalledAt": "2026-04-20T07:43:53.588Z",
+      "queryHashes": [
+        "af33f64220ae"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "00-15",
+        "qq.com",
+        "小时",
+        "合约",
+        "市场",
+        "异常",
+        "行为",
+        "记录"
+      ]
+    },
+    "memory:memory/2026-03-24.md:1:42": {
+      "key": "memory:memory/2026-03-24.md:1:42",
+      "path": "memory/2026-03-24.md",
+      "startLine": 1,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "# 2026-03-24 - 暴躁小龙虾的成长日志 ## 🦞 今日大事记 ### 日报系统搭建完成 - **时间**: 2026-03-24 14:06 GMT+8 - **事件**: jorge 要求创建一个日报系统，自动发送到QQ邮箱 - **完成情况**: - ✅ 创建了日报生成脚本 (`daily_report.py`) - ✅ 配置了QQ邮箱SMTP (569545015@qq.com) - ✅ 成功发送测试邮件 - ✅ 设置定时任务：每天18:00自动发送 - ⏳ 待接入：日程数据（飞书/企业微信） ### 技术细节 - SMTP服务器: smtp.qq.com:465 (SSL) - 定时任务: crontab - 日报格式: HTML邮件，支持手机/电脑查看 - 数据来源: memory/*.md 文件 ## 💡 经验教训 1. QQ邮箱需要使用SSL端口465，而不是STARTTLS的587 2. SMTP授权码不是QQ密码，需要单独在邮箱设置中生成 3. 日报系统可以扩展接入飞书日程或企业微信日程 ## 📝 待办事项 - [ ] 接入日程数据源（飞书/企业微信） - [ ] 优化日报内容格式 - [ ] 添加更多工作记录自动提取规则 --- *暴躁小龙虾的自我反思：今天搭建了一个完整的日报系统，虽然SMTP折腾了一下，但最终还是搞定了。继续保持暴躁但可靠的风格！* 🦞🔥 --- ## 🦞 晚间补充记录 ### 完整邮件系统搭建 - **时间**: 2026-03-24 14:15-15:00 GMT+8",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6032648513562145,
+      "maxScore": 0.6032648513562145,
+      "firstRecalledAt": "2026-04-20T07:43:53.588Z",
+      "lastRecalledAt": "2026-04-20T07:43:53.588Z",
+      "queryHashes": [
+        "af33f64220ae"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "daily-report.py",
+        "qq.com",
+        "飞书/企业微信",
+        "smtp.qq.com",
+        "支持手机/电脑查看",
+        "15-15",
+        "暴躁",
+        "龙虾"
+      ]
+    },
+    "memory:memory/2026-04-14.md:23:36": {
+      "key": "memory:memory/2026-04-14.md:23:36",
+      "path": "memory/2026-04-14.md",
+      "startLine": 23,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "- 编写新的AI新闻推送脚本`push_feishu.py`，使用`openclaw message send`直发飞书 - 删除原OpenClaw cron jobs，验证系统crontab运行正常 ## ✅ 完成事项 - [x] 海报图标修复（3张海报全部更新） - [x] 合约市场监控定时任务恢复 - [x] 爆仓API错误处理修复 - [x] 3个OpenClaw cron任务迁移到系统crontab - [x] AI新闻飞书推送脚本开发 ## 🦞 备注 今日主要是运维修复工作，解决定时任务和渲染问题。",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6347081394528643,
+      "maxScore": 0.6347081394528643,
+      "firstRecalledAt": "2026-04-20T07:48:33.827Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "push-feishu.py",
+        "编写",
+        "新的",
+        "新闻",
+        "推送",
+        "脚本",
+        "使用",
+        "openclaw"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1:44": {
+      "key": "memory:memory/2026-04-12.md:1:44",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "## 2026-04-12 Session Log ### Completed Tasks #### 1. Agent Description Translation (COMPLETED) - **Total Files**: 168 agent files translated - **All Categories Complete**: - 📚 学术研究 (5个) - 🎨 设计创意 (8个) - 💻 工程开发 (29个) - 💰 金融财务 (5个) - 🎮 游戏开发 (5个) - 📢 市场营销 (30个) - 💵 付费媒体 (7个) - 📱 产品管理 (5个) - 📊 项目管理 (6个) - 💼 销售业务 (8个) - 🥽 空间计算 (6个) - 🔧 专业领域 (41个) - 🎯 战略规划 (3个) - 🎧 客户支持 (6个) - 🧪 测试质检 (8个) - **Translation Scope**: Only description field translated to Chinese - **Encoding**: All files UTF-8 encoded #### 2. GitHub Integration Setup - GitHub CLI authenticated with Personal Access Token - Repository: yanghq168/jorge-agency - All 168 agent files backed up",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6199756121054938,
+      "maxScore": 0.6199756121054938,
+      "firstRecalledAt": "2026-04-20T07:48:33.827Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "utf-8",
+        "yanghq168/jorge-agency",
+        "log",
+        "completed",
+        "tasks",
+        "description",
+        "translation",
+        "total"
+      ]
+    },
+    "memory:memory/2026-04-14.md:1:30": {
+      "key": "memory:memory/2026-04-14.md:1:30",
+      "path": "memory/2026-04-14.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "# 2026-04-14 工作日志 ## 📅 日程 ### 10:09 - 10:13 海报图标修复 - 修复灵叙海报中图标显示异常问题（emoji渲染成空心方块） - 将3张海报HTML中的emoji图标替换为SVG矢量图标 - 重新生成PNG并推送到GitHub仓库 - 相关文件：`poster-1-zero-threshold.html/png`, `poster-2-efficiency.html/png`, `poster-3-monetization.html/png` ### 13:33 - 14:00 合约市场监控修复 - 检查合约市场监控定时任务，发现系统crontab中任务被删除 - 恢复定时任务：`0 */2 * * *` 每2小时运行 - 修复爆仓数据API报错（币安`allForceOrders`接口已下线，添加错误处理） - 手动运行验证，邮件推送正常 ### 13:51 - 14:00 OpenClaw定时任务迁移 - 修复3个OpenClaw cron任务（因exec preflight安全机制导致timeout error） - 将以下任务迁移到系统crontab： - `bithappy-email-pro`：Bithappy理财监控 - `每日个人日报`：晚上19点发送 - `AI行业新闻每日推送`：早上8:50抓取，9:00推送 - 编写新的AI新闻推送脚本`push_feishu.py`，使用`openclaw message send`直发飞书 - 删除原OpenClaw cron jobs，验证系统cronta",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5538305971367351,
+      "maxScore": 0.5538305971367351,
+      "firstRecalledAt": "2026-04-20T07:48:33.827Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "poster-1-zero-threshold.html/png",
+        "poster-2-efficiency.html/png",
+        "poster-3-monetization.html/png",
+        "bithappy-email-pro",
+        "push-feishu.py",
+        "工作",
+        "日志",
+        "日程"
+      ]
+    },
+    "memory:memory/2026-04-12.md:38:64": {
+      "key": "memory:memory/2026-04-12.md:38:64",
+      "path": "memory/2026-04-12.md",
+      "startLine": 38,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "- Created backup script: `/root/.openclaw/workspace/scripts/agency-backup.sh` - Email notification script: `/root/.openclaw/workspace/scripts/agency_email_sender.py` - README generator: `/root/.openclaw/workspace/scripts/generate_readme.py` - Cron job set up for weekly backups (Sundays 02:00) - Sender name: 权权管家(仓库) ### Key Learnings - When dealing with Chinese text encoding, always use Python with explicit UTF-8 encoding to avoid double-encoding issues - bash/sed can cause encoding problems with Chinese characters - For batch translation of 168 files, processing in categories is more manageable than one-by-one ### Repository https://github.com/yanghq168/jorge-agency ### Files Modified/Cr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5483066240694805,
+      "maxScore": 0.5483066240694805,
+      "firstRecalledAt": "2026-04-20T07:48:33.827Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "utf-8",
+        "double-encoding",
+        "bash/sed",
+        "one-by-one",
+        "modified/cr",
+        "created"
+      ]
+    },
+    "memory:memory/2026-04-11.md:1:33": {
+      "key": "memory:memory/2026-04-11.md:1:33",
+      "path": "memory/2026-04-11.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "## 2026-04-11 - 权权管家正式上线 ### 身份确立 - 正式定名为 **\"权权管家\"**，作为指挥官角色 - 设计并生成了正式头像：龙虾+管家领结+紫蓝渐变背景 - 头像文件：`/root/.openclaw/workspace/quanquan_avatar.png` ### Agent 生态建设 - 从 GitHub 下载并安装了 **177 个 Agency Agents** - 按 15 个类别分类存放于 `agency-agents/` 目录 - 建立了 Agent 持续优化追踪机制 - 实现了自动检测 Agent 变更并记录到日报 ### 邮件系统全面升级 - **bithappy-email**：重写为 Pro 版，加入 SQLite 存储、趋势分析、HTML 邮件 - **统一模板系统**：所有邮件使用专业 HTML 模板，配色区分业务类型 - **日报重构**：新增三大模块 1. 🦞 权权管家工作模块（紫色渐变） 2. 🚀 Agent 优化追踪模块（渐变绿，仅显示有变更） 3. 🤖 全体 177 Agent 工作状态表格（智能布局） ### 指挥官调度机制 - 建立 Agent 自动调度规则： - 前端开发 → Frontend Design - UI/UX → UI Designer / UX Architect - 安全审计 → Security Engineer - 其他专业领域 → 对应类别 Agent - 任务完成后自动切回默认模式 ### 关键文件 - `/root/.openclaw/",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5309162493316087,
+      "maxScore": 0.5309162493316087,
+      "firstRecalledAt": "2026-04-20T07:48:33.827Z",
+      "lastRecalledAt": "2026-04-20T07:48:33.827Z",
+      "queryHashes": [
+        "d4f6283ba712"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "agency-agents",
+        "bithappy-email",
+        "ui/ux",
+        "管家",
+        "正式",
+        "上线",
+        "身份",
+        "确立"
+      ]
+    },
+    "memory:memory/2026-04-28.md:1:29": {
+      "key": "memory:memory/2026-04-28.md:1:29",
+      "path": "memory/2026-04-28.md",
+      "startLine": 1,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "# 2026-04-28 工作日志 ## ✅ 完成事项 ### 日报飞书推送升级 - 创建 `push_feishu.py` v2.0 — 日报纯文本飞书推送 - 数据源扩展：memory记录 + 今日文件变更 + 定时任务状态 + 远程服务器状态 + 系统巡检状态 - 19:00定时任务改为：先推飞书，再发邮件，双通道保留 ### 运维体系6项优化全部落地 1. **推送失败监控** — `health_check.py` 每天10:00巡检，覆盖crontab/任务运行/资源/本地服务/远程服务/日志 2. **日报内容增强** — 接入多数据源，日报不再空洞 3. **统一推送中心** — `push_center.py` 管理所有渠道 4. **资源预警** — CPU>80%/磁盘>80%/Swap>50%时告警，远程服务失联告警 5. **记忆归档** — `memory_archive.py` 每周日归档超过30天的记忆文件 6. **全站备份** — `site_backup.py` 每天3:30备份crontab/环境变量/配置/技能清单并推GitHub ### 新增定时任务 - 10:00 系统健康巡检 - 每30分钟 高频心跳检查（远程服务器核心服务） - 每4小时 性能数据采集 - 每周日3:30 记忆归档 - 每周日20:00 周报推送 - 每天3:30 全站备份 ### 巡检脚本自愈升级 - 新增 `auto_fix()` 函数：自动修复crontab PATH丢失、日志文件缺失、触发超时任务重跑 ### 周报生成",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2334014591523033,
+      "maxScore": 0.6167007295761516,
+      "firstRecalledAt": "2026-05-19T18:01:57.228Z",
+      "lastRecalledAt": "2026-05-21T18:00:18.729Z",
+      "queryHashes": [
+        "7bdcf117a86e"
+      ],
+      "recallDays": [
+        "2026-05-20",
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "backup",
+        "备份",
+        "push-feishu.py",
+        "v2.0",
+        "health-check.py",
+        "覆盖crontab/任务运行/资源/本地服务/远程服务/日志",
+        "push-center.py",
+        "memory-archive.py"
+      ]
+    }
+  }
+}

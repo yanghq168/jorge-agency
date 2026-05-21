@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .avatar-container {
+            text-align: center;
+        }
+        .avatar {
+            width: 300px;
+            height: 300px;
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 100%);
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            position: relative;
+            border: 8px solid #fff;
+        }
+        .antennae {
+            display: flex;
+            gap: 40px;
+            margin-bottom: -20px;
+        }
+        .antenna {
+            width: 6px;
+            height: 40px;
+            background: #ff6b6b;
+            border-radius: 3px;
+            position: relative;
+        }
+        .antenna::after {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: -7px;
+            width: 20px;
+            height: 20px;
+            background: #ff6b6b;
+            border-radius: 50%;
+        }
+        .face {
+            background: #fff;
+            width: 180px;
+            height: 150px;
+            border-radius: 50%;
+            position: relative;
+            z-index: 10;
+        }
+        .eyes {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 50px;
+        }
+        .eye {
+            width: 30px;
+            height: 35px;
+            background: #333;
+            border-radius: 50%;
+            position: relative;
+        }
+        .eye::after {
+            content: '';
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            width: 12px;
+            height: 12px;
+            background: #fff;
+            border-radius: 50%;
+        }
+        .bowtie {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .bow {
+            width: 60px;
+            height: 30px;
+            background: #333;
+            position: relative;
+        }
+        .bow::before, .bow::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 0;
+            border-style: solid;
+        }
+        .bow::before {
+            left: -25px;
+            border-width: 15px 25px 15px 0;
+            border-color: transparent #333 transparent transparent;
+        }
+        .bow::after {
+            right: -25px;
+            border-width: 15px 0 15px 25px;
+            border-color: transparent transparent transparent #333;
+        }
+        .bow-center {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 15px;
+            height: 15px;
+            background: #333;
+            border-radius: 3px;
+            z-index: 1;
+        }
+        .label {
+            color: #fff;
+            margin-top: 30px;
+            font-size: 24px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .slogan {
+            color: rgba(255,255,255,0.9);
+            margin-top: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="avatar-container">
+        <div class="avatar">
+            <div class="antennae">
+                <div class="antenna"></div>
+                <div class="antenna"></div>
+            </div>
+            <div class="face">
+                <div class="eyes">
+                    <div class="eye"></div>
+                    <div class="eye"></div>
+                </div>
+                <div class="bowtie">
+                    <div class="bow">
+                        <div class="bow-center"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="label">🦞 权权管家</div>
+        <div class="slogan">您的智能指挥中心 · 177 Agents随时待命</div>
+    </div>
+</body>
+</html>

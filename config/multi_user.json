@@ -1,0 +1,21 @@
+{
+  "multi_user_mode": true,
+  "default_user": null,
+  "isolated_memory": true,
+  "user_detection": {
+    "enabled": true,
+    "source": "feishu_sender_id",
+    "field": "sender_id"
+  },
+  "paths": {
+    "users_base": "/root/.openclaw/workspace/users",
+    "shared_skills": "/root/.openclaw/workspace/skills",
+    "shared_docs": "/root/.openclaw/workspace/docs"
+  },
+  "isolation_rules": {
+    "memory": "per_user",
+    "config": "per_user",
+    "skills_data": "per_user",
+    "shared_resources": ["skills", "docs", "tools"]
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-04-28T19:08:41.911793",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 756,
+      "free_mb": 189,
+      "available_mb": 2487,
+      "usage_pct": 20.6
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.0G",
+      "available": "39G",
+      "usage_pct": 19
+    },
+    "load": {
+      "1min": 1.08,
+      "5min": 0.98,
+      "15min": 0.95
+    },
+    "processes": 115
+  },
+  {
+    "timestamp": "2026-04-28T20:00:01.548982",
+    "host": "82.156.225.39",
+    "cpu": {},
+    "memory": {
+      "total_mb": 3672,
+      "used_mb": 751,
+      "free_mb": 185,
+      "available_mb": 2492,
+      "usage_pct": 20.5
+    },
+    "disk": {
+      "total": "50G",
+      "used": "9.0G",
+      "available": "39G",
+      "usage_pct": 19
+    },
+    "load": {
+      "1min": 0.78,
+      "5min": 0.84,
+      "15min": 0.87
+    },
+    "processes": 109
+  }
+]

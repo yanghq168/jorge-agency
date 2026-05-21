@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1774167371104
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1774167374175
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774167376430
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1774167380851
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1774167383556
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1774167386566
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772773190870
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1774167388173
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1772773197853
+    },
+    "tencent-docs": {
+      "version": "1.0.3",
+      "installedAt": 1772773202332
+    },
+    "self-improving": {
+      "version": "1.2.10",
+      "installedAt": 1773211436808
+    },
+    "openclaw-aisa-chinese-llm-models": {
+      "version": "1.0.1",
+      "installedAt": 1774164231631
+    },
+    "ai-news-daily": {
+      "version": "1.0.4",
+      "installedAt": 1774164521157
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1774333483177
+    },
+    "email-daily-summary": {
+      "version": "0.1.0",
+      "installedAt": 1774333487699
+    },
+    "web-tools-guide": {
+      "version": "1.0.2",
+      "installedAt": 1778915430910
+    }
+  }
+}
