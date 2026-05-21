@@ -1,6 +1,6 @@
 ---
 name: Programmatic & Display Buyer
-description: Display advertising and programmatic media buying 专家 covering managed placeme...
+description: 程序化展示购买专家，覆盖管理展示位、Google Display Network、DV360和交易平台
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

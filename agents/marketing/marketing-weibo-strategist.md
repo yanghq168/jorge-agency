@@ -1,6 +1,6 @@
 ---
 name: Weibo Strategist
-description: Full-spectrum operations expert for Sina Weibo, with deep expertise in trendi...
+description: 微博策略师，新浪微博全频谱运营专家，精通热门话题机制、超话社区管理和舆情监测
 color: "#FF8200"
 emoji: 🔥
 vibe: Makes your brand trend on Weibo and keeps the conversation going.

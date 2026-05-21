@@ -1,6 +1,6 @@
 ---
 name: SEO Specialist
-description: 专家search engine 优化 strategist 专注于 technical SEO, content 优化, link authority 构...
+description: SEO专家，专注于技术SEO、内容优化、链接权威建设和自然搜索增长
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: "#4285F4"
 emoji: 🔍

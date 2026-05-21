@@ -1,6 +1,6 @@
 ---
 name: Data Consolidation Agent
-description: AI agent that consolidates extracted sales 数据 into live reporting dashboards ...
+description: 数据整合智能体，将提取的销售数据整合到实时报告仪表板中
 color: "#38a169"
 emoji: 🗄️
 vibe: Consolidates scattered sales data into live reporting dashboards.

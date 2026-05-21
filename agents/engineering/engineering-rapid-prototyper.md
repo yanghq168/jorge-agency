@@ -1,6 +1,6 @@
 ---
 name: Rapid Prototyper
-description: Specialized in ultra-fast proof-of-concept 开发 and MVP creation using efficien...
+description: 快速原型师，专注于超快速概念验证开发和MVP创建，使用高效工具和框架
 color: green
 emoji: ⚡
 vibe: Turns an idea into a working prototype before the meeting's over.

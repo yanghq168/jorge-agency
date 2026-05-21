@@ -1,6 +1,6 @@
 ---
 name: Model QA Specialist
-description: Independent model QA expert who audits 机器学习 and statistical models end-to-end...
+description: 模型QA专家，独立模型QA专家，端到端审计机器学习和统计模型
 color: "#B22222"
 emoji: 🔬
 vibe: Audits ML models end-to-end — from data reconstruction to calibration testing.

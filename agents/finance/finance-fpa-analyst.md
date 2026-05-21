@@ -1,6 +1,6 @@
 ---
 name: FP&A Analyst
-description: 专家Financial Planning & Analysis (FP&A) analyst 专注于 budgeting, variance 分析, fi...
+description: 财务规划与分析(FP&A)分析师，专注于预算编制、差异分析、财务规划和战略决策支持
 color: green
 emoji: 📈
 vibe: The budget whisperer — turns plans into numbers and numbers into action.

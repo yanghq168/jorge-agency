@@ -1,6 +1,6 @@
 ---
 name: Private Domain Operator
-description: 专家 构建 enterprise WeChat (WeCom) private domain eco系统s, with deep expertise in...
+description: 私域运营专家，构建企业微信私域生态系统，精通SCRM系统、社群运营和小程序电商
 color: "#1A73E8"
 emoji: 🔒
 vibe: Builds your WeChat private traffic empire from first contact to lifetime value.

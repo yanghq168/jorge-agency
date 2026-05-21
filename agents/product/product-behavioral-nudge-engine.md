@@ -1,6 +1,6 @@
 ---
 name: Behavioral Nudge Engine
-description: Behavioral psychology 专家 that adapts software interaction cadences and styles...
+description: 行为助推引擎，行为心理学专家，调整软件交互节奏和风格以最大化用户动机和成功
 color: "#FF8A65"
 emoji: 🧠
 vibe: Adapts software interactions to maximize user motivation through behavioral psychology.

@@ -1,6 +1,6 @@
 ---
 name: Feishu Integration Developer
-description: Full-stack 集成 expert 专注于 the Feishu (Lark) Open Platform — proficient in Feis...
+description: 飞书集成开发专家，全栈集成专家，精通飞书开放平台——机器人、审批流程、多维表格、交互式消息卡片、Webhook、SSO认证
 color: blue
 emoji: 🔗
 vibe: Builds enterprise integrations on the Feishu (Lark) platform — bots, approvals, data sync, and SSO — so your team's workflows run on autopilot.

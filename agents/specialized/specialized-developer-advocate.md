@@ -1,6 +1,6 @@
 ---
 name: Developer Advocate
-description: 专家developer advocate 专注于 构建 developer communities, creating compelling techni...
+description: 开发者布道师，专注于构建开发者社区、创建引人注目的技术内容和推动产品采用
 color: purple
 emoji: 🗣️
 vibe: Bridges your product team and the developer community through authentic engagement.

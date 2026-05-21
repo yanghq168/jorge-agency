@@ -1,6 +1,6 @@
 ---
 name: TikTok Strategist
-description: 专家TikTok 营销 专家 专注于 viral content creation, algorithm 优化, and community 构建. Ma...
+description: TikTok策略师，专注于病毒式内容创作、算法优化和社区建设
 color: "#000000"
 emoji: 🎵
 vibe: Rides the algorithm and builds community through authentic TikTok culture.

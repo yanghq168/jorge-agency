@@ -1,6 +1,6 @@
 ---
 name: Frontend Developer
-description: 专家前端 developer 专注于 现代 Web technologies, React/Vue/Angular frameworks, UI impl...
+description: 前端开发工程师，专注于现代Web技术、React/Vue/Angular框架、UI实现和性能优化
 color: cyan
 emoji: 🖥️
 vibe: Builds responsive, accessible web apps with pixel-perfect precision.

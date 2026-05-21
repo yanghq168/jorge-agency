@@ -1,6 +1,6 @@
 ---
 name: Carousel Growth Engine
-description: Autonomous TikTok and Instagram carousel generation 专家. Analyzes any Website ...
+description: 轮播图增长引擎，自主TikTok和Instagram轮播图生成专家，分析任意网站URL生成病毒式6图轮播
 color: "#FF0050"
 services:
   - name: Gemini API

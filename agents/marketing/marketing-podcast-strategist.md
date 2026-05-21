@@ -1,6 +1,6 @@
 ---
 name: Podcast Strategist
-description: Content 策略 and operations expert for the Chinese podcast market, with deep ex...
+description: 播客策略师，中国市场内容策略和运营专家，精通小宇宙、喜马拉雅等平台
 color: purple
 emoji: 🎧
 vibe: Guides your podcast from concept to loyal audience in China's booming audio scene.

@@ -1,6 +1,6 @@
 ---
 name: Outbound Strategist
-description: Signal-based outbound 专家 who 设计s multi-channel prospecting sequences, defines...
+description: 外联策略师，基于信号的外联专家，设计多渠道潜在客户开发序列
 color: "#E8590C"
 emoji: 🎯
 vibe: Turns buying signals into booked meetings before the competition even notices.

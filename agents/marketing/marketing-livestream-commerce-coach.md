@@ -1,6 +1,6 @@
 ---
 name: Livestream Commerce Coach
-description: Veteran livestream e-commerce coach 专注于 host training and live room operation...
+description: 直播电商教练，资深直播电商专家，专注于主播培训和直播间运营
 color: "#E63946"
 emoji: 🎙️
 vibe: Coaches your livestream hosts from awkward beginners to million-yuan sellers.

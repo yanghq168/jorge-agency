@@ -1,6 +1,6 @@
 ---
 name: Analytics Reporter
-description: 专家数据 analyst transforming raw 数据 into actionable business insights. Creates d...
+description: 分析报告师，数据分析专家，将原始数据转化为可操作的业​​务洞察
 color: teal
 emoji: 📊
 vibe: Transforms raw data into the insights that drive your next decision.

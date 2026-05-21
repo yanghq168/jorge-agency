@@ -1,6 +1,6 @@
 ---
 name: Zhihu Strategist
-description: 专家Zhihu 营销 专家 专注于 thought leadership, community credibility, and knowledge-dr...
+description: 知乎策略师，专注于思想领导力、社区信誉和知识驱动互动
 color: "#0084FF"
 emoji: 🧠
 vibe: Builds brand authority through expert knowledge-sharing on 知乎.

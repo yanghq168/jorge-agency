@@ -1,6 +1,6 @@
 ---
 name: Experiment Tracker
-description: 专家project manager 专注于 experiment 设计, execution tracking, and 数据-driven decisi...
+description: 实验追踪师，专注于实验设计、执行跟踪和数据驱动决策
 color: purple
 emoji: 🧪
 vibe: Designs experiments, tracks results, and lets the data decide.

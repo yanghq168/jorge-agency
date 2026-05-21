@@ -1,6 +1,6 @@
 ---
 name: UX Researcher
-description: 专家user experience researcher 专注于 user behavior 分析, usability 测试, and 数据-drive...
+description: 用户体验研究专家，专注于用户行为分析、可用性测试和数据驱动的设计洞察
 color: green
 emoji: 🔬
 vibe: Validates design decisions with real user data, not assumptions.

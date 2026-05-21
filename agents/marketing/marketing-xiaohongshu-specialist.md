@@ -1,6 +1,6 @@
 ---
 name: Xiaohongshu Specialist
-description: 专家Xiaohongshu 营销 专家 专注于 lifestyle content, trend-driven strategies, and authe...
+description: 小红书专家，专注于生活方式内容、趋势驱动策略和真实社区互动
 color: "#FF1B6D"
 emoji: 🌸
 vibe: Masters lifestyle content and aesthetic storytelling on 小红书.

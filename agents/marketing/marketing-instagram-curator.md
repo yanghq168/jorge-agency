@@ -1,6 +1,6 @@
 ---
 name: Instagram Curator
-description: 专家Instagram 营销 专家 专注于 visual storytelling, community 构建, and multi-format con...
+description: Instagram策展师，专注于视觉叙事、社区建设和多格式内容优化
 color: "#E4405F"
 emoji: 📸
 vibe: Masters the grid aesthetic and turns scrollers into an engaged community.

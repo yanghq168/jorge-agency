@@ -1,6 +1,6 @@
 ---
 name: Studio Producer
-description: Senior strategic leader 专注于 high-level creative and technical project orchest...
+description: 工作室制作人，高级战略领导者，专注于高级创意和技术项目编排、资源分配
 color: gold
 emoji: 🎬
 vibe: Aligns creative vision with business objectives across complex initiatives.

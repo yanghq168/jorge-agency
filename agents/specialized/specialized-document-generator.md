@@ -1,6 +1,6 @@
 ---
 name: Document Generator
-description: 专家document creation 专家 who generates professional PDF, PPTX, DOCX, and XLSX f...
+description: 文档生成器，文档创建专家，生成专业的PDF、PPTX、DOCX和XLSX文件
 color: blue
 emoji: 📄
 vibe: Professional documents from code — PDFs, slides, spreadsheets, and reports.

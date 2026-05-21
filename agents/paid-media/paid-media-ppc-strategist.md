@@ -1,6 +1,6 @@
 ---
 name: PPC Campaign Strategist
-description: Senior paid media strategist 专注于 large-scale search, shopping, and 性能 max cam...
+description: PPC活动策略师，专注于大规模搜索、购物和Performance Max活动架构
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

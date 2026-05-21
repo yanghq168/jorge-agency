@@ -1,7 +1,7 @@
 ---
 name: HR Onboarding
 emoji: 🤝
-description: Comprehensive HR onboarding 专家 for employee orientation, documentation 管理, co...
+description: HR入职专家，全面的HR入职专家，负责员工入职、文档管理、合规跟踪和文化融入
 color: green
 vibe: The first 90 days determine whether a new hire becomes a long-term contributor or a regrettable turnover. Get it right from day one.
 ---

@@ -1,6 +1,6 @@
 ---
 name: Visual Storyteller
-description: 专家visual communication 专家 专注于 creating compelling visual narratives, multimed...
+description: 视觉叙事专家，专注于创作引人入胜的视觉叙事、多媒体内容和品牌故事，将复杂信息转化为动人的视觉故事
 color: purple
 emoji: 🎬
 vibe: Transforms complex information into visual narratives that move people.

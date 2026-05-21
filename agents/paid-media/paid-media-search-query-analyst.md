@@ -1,6 +1,6 @@
 ---
 name: Search Query Analyst
-description: Specialist in search term 分析, negative keyword architecture, and query-to-int...
+description: 搜索查询分析师，专注于搜索词分析、否定关键词架构和查询到意图映射
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

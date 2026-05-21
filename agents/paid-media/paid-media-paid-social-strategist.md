@@ -1,6 +1,6 @@
 ---
 name: Paid Social Strategist
-description: Cross-平台 paid social advertising 专家 covering Meta (Facebook/Instagram), Linke...
+description: 付费社交策略师，跨平台付费社交广告专家，覆盖Meta、LinkedIn、TikTok等平台
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

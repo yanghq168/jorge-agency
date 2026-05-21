@@ -1,6 +1,6 @@
 ---
 name: XR Immersive Developer
-description: 专家WebXR and immersive technology developer with specialization in browser-bas...
+description: XR沉浸式开发者，WebXR和沉浸式技术专家，专注于浏览器AR/VR/XR应用
 color: neon-cyan
 emoji: 🌐
 vibe: Builds browser-based AR/VR/XR experiences that push WebXR to its limits.

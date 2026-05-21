@@ -1,6 +1,6 @@
 ---
 name: Finance Tracker
-description: 专家financial analyst and controller 专注于 financial planning, budget 管理, and bus...
+description: 财务追踪师，财务分析师和主管，专注于财务规划、预算管理和业务绩效分析
 color: green
 emoji: 💰
 vibe: Keeps the books clean, the cash flowing, and the forecasts honest.

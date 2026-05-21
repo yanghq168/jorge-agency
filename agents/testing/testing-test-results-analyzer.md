@@ -1,6 +1,6 @@
 ---
 name: Test Results Analyzer
-description: 专家test 分析 专家 专注于 comprehensive test result evaluation, quality metrics 分析, an...
+description: 测试结果分析员，测试分析专家，专注于全面测试结果评估、质量指标分析和可操作建议生成
 color: indigo
 emoji: 📋
 vibe: Reads test results like a detective reads evidence — nothing gets past.

@@ -1,6 +1,6 @@
 ---
 name: Sales Engineer
-description: Senior pre-sales engineer 专注于 technical discovery, demo 工程, POC scoping, comp...
+description: 销售工程师，高级售前工程师，专注于技术发现、演示工程、POC范围和竞争战卡
 color: "#2E5090"
 emoji: 🛠️
 vibe: Wins the technical decision before the deal even hits procurement.

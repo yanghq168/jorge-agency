@@ -1,6 +1,6 @@
 ---
 name: Trend Researcher
-description: 专家market intelligence analyst 专注于 identifying emerging trends, competitive 分析...
+description: 趋势研究员，市场情报分析师，专注于识别新兴趋势、竞争分析和机会评估
 color: purple
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🔭

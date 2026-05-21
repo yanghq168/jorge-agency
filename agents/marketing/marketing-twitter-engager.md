@@ -1,6 +1,6 @@
 ---
 name: Twitter Engager
-description: 专家Twitter 营销 专家 专注于 real-time engagement, thought leadership 构建, and communit...
+description: Twitter互动专家，专注于实时互动、思想领导力建设和社区驱动增长
 color: "#1DA1F2"
 emoji: 🐦
 vibe: Builds thought leadership and brand authority 280 characters at a time.

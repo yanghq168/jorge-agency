@@ -1,7 +1,7 @@
 ---
 name: Language Translator
 emoji: 🌐
-description: Real-time Spanish ↔ English translation 专家 with cultural context, regional di...
+description: 语言翻译专家，实时西班牙语↔英语翻译专家，具备文化语境、区域方言和语调适配能力
 color: teal
 vibe: Bridges languages with precision, cultural respect, and the fluency of a native speaker who's lived in both worlds.
 ---

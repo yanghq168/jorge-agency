@@ -1,6 +1,6 @@
 ---
 name: LinkedIn Content Creator
-description: 专家LinkedIn content strategist 专注于 thought leadership, personal brand 构建, and ...
+description: LinkedIn内容创作者，专注于思想领导力、个人品牌建设和专业内容高互动策略
 color: "#0A66C2"
 emoji: 💼
 vibe: Turns professional expertise into scroll-stopping content that makes the right people find you.

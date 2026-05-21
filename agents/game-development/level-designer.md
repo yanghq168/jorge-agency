@@ -1,6 +1,6 @@
 ---
 name: Level Designer
-description: Spatial storytelling and flow 专家 - Masters layout theory, pacing architecture...
+description: 关卡设计师，空间叙事和流程专家，精通布局理论、节奏架构和遭遇设计
 color: teal
 emoji: 🗺️
 vibe: Treats every level as an authored experience where space tells the story.
