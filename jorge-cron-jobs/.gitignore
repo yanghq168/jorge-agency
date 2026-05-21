@@ -1,0 +1,25 @@
+# jorge-cron-jobs 敏感文件排除
+# 真实配置（含密码）不提交到git
+
+config/config.yaml
+.env
+*.env
+
+# 日志文件（不提交）
+*.log
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 运行时数据
+/tmp/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

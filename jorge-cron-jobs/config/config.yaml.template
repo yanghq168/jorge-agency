@@ -1,0 +1,20 @@
+# jorge-cron-jobs 配置文件模板
+# 复制为 config.yaml 后填入真实值（config.yaml 已加入 .gitignore，不会提交到git）
+
+# 邮件配置（QQ邮箱SMTP）
+mail:
+  smtp_server: "smtp.qq.com"
+  smtp_port: 465
+  smtp_user: "569545015@qq.com"
+  # ⚠️ 请填入QQ邮箱授权码（不是登录密码）
+  smtp_pass: "YOUR_QQ_EMAIL_AUTH_CODE"
+  to_email: "569545015@qq.com"
+
+# OpenClaw 配置
+openclaw:
+  model: "kimi-coding/k2p5"
+
+# 路径配置（一般不用改）
+paths:
+  workspace: "/root/.openclaw/workspace"
+  logs: "/var/log"
